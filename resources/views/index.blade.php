@@ -317,7 +317,7 @@
 							<div class="col-md-3 col-sm-6">
 								<div class="featured-box featured-box-primary featured-box-effect-1 mt-xlg">
 									<div class="box-content">
-										<i class="icon-featured fa fa-ambulance"></i>
+										<i class="icon-featured fa fa-stethoscope"></i>
 										<h4 class="text-uppercase">Seguro de vida ley</h4>
 										<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus.</p>
 										<p><a href="/" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
@@ -362,6 +362,64 @@
 
 				</div>
 
+			</section>
+		
+			<section class="">				
+				<div class="container">
+					
+					<div class="row center">
+						<div class="col-md-12">
+						<h1 class="mb-sm">
+								Atención de siniestros
+							</h1>
+						</div>
+					</div>
+
+					<div class="featured-boxes featured-boxes-style-3 featured-boxes-flat">
+						<div class="featured-box featured-box-secondary featured-box-effect-3">
+							<div class="box-content">
+								<i class="icon-featured fa fa-ambulance"></i>
+								<h4>Well Documented</h4>
+								<p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat. </p>
+							</div>
+						</div>
+					</div>
+ 
+				</div>
+
+			</section>
+
+			<section class="section">
+				
+				<div role="main" class="main">
+				<div class="container">
+
+						<div class="row center">
+							<div class="col-md-12">
+							<h1 class="mb-sm">
+									Novedades
+								</h1>
+							</div>
+						</div>
+
+					<div class="row">
+						<div class="col-md-12">
+							<div class="nivo-slider">
+								<div class="slider-wrapper theme-default">
+									<div id="nivoSlider" class="nivoSlider">
+										<img src="img/home/novedades-1.png" data-thumb="img/home/novedades-1.png" alt="" />
+										<img src="img/slides/slide-2.jpg" data-thumb="img/slides/slide-2.jpg" alt="" />
+									</div>
+									<div id="htmlcaption" class="nivo-html-caption"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+				</div>
+				</div>
+
+			
 			</section>
 
 

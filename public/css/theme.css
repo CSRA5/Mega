@@ -3683,3 +3683,28 @@ html.boxed .body {
 .buttons-home{
 	width: 40%;	
 }
+
+.img-sinister{
+	width: 400px;
+	display: inline-block;
+	text-align: center;
+}
+
+.text-sinister{
+	margin-top: 60px;
+	margin-left: 20px;
+}
+
+@media (max-width: 767px) {
+	
+	.text-sinister{
+		margin-top: 10px;
+	
+	}
+} 
+
+
+
+/*
+End Home
+*/
