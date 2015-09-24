@@ -3673,6 +3673,10 @@ html.boxed .body {
 
 }
 
+.text-center{
+	text-align: center;
+}
+
 @media (max-width: 767px) {
 	.aling-text-home-info{
 		text-align: left;

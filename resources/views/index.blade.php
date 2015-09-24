@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">	
 
-		<title>Porto - Responsive HTML5 Template 4.1.1</title>	
+		<title>Mega Corredores de seguros</title>	
 
 		<meta name="keywords" content="HTML5 Template" />
 		<meta name="description" content="Porto - Responsive HTML5 Template">
@@ -40,6 +40,9 @@
 		<!-- Current Page CSS -->
 		<link rel="stylesheet" href="vendor/rs-plugin/css/settings.css" media="screen">
 		<link rel="stylesheet" href="vendor/circle-flip-slideshow/css/component.css" media="screen">
+		<link rel="stylesheet" href="vendor/circle-flip-slideshow/css/component.css" media="screen">
+		<link rel="stylesheet" href="vendor/nivo-slider/nivo-slider.css" media="screen">
+		<link rel="stylesheet" href="vendor/nivo-slider/default/default.css" media="screen">
 
 		<!-- Skin CSS -->
 		<link rel="stylesheet" href="css/skins/default.css">
@@ -236,26 +239,29 @@
 						</div>
 				
 					</div>
-				</div>
+				</div>				
 				
-				<div class="container">
-				
-					<div class="row center">
-						<div class="col-md-12">
-							<h1 class="mb-sm">
-								Quienes somos
-							</h1>
-							<p class="lead">
-								Organización MEGA Corredores de Seguros SAC, se constituye como un nexo entre las diferentes compañías de seguros del país y nuestros clientes, brindando un servicio eficaz, puntual y adecuándonos a los requerimientos y planes que nos soliciten.
-							</p>
-							<a class="tp-caption customin btn btn-3d btn-secondary btn-lg">
-									Ver más
-							</a>
-						</div>
-					</div>
-				
-				</div>
 			</div>
+	
+			<section>
+				<div class="container">
+					
+						<div class="row center">
+							<div class="col-md-12">
+								<div class="heading heading-border heading-middle-border heading-middle-border-center">
+									<h1>Quienes somos</h1>
+								</div>
+								<p class="lead">
+									Organización MEGA Corredores de Seguros SAC, se constituye como un nexo entre las diferentes compañías de seguros del país y nuestros clientes, brindando un servicio eficaz, puntual y adecuándonos a los requerimientos y planes que nos soliciten.
+								</p>
+								<a class="tp-caption customin btn btn-3d btn-secondary btn-lg">
+										Ver más
+								</a>
+							</div>
+						</div>
+					
+				</div>
+			</section>
 			
 			<section class="section section-default">
 				
@@ -364,14 +370,16 @@
 
 			</section>
 		
-			<section class="">				
+			<section >				
 				<div class="container">
 					
 					<div class="row center">
 						<div class="col-md-12">
-						<h1 class="mb-sm">
-								Atención de siniestros
-							</h1>
+						 
+						 <div class="heading heading-border heading-middle-border heading-middle-border-center">
+							<h1>Atención de siniestros</h1>
+						  <div>
+
 						</div>
 					</div>
 
@@ -392,36 +400,160 @@
 			<section class="section">
 				
 				<div role="main" class="main">
-				<div class="container">
+					<div class="container">
 
-						<div class="row center">
+							<div class="row center">
+								<div class="col-md-12">
+								<h1 class="mb-sm">
+										Novedades
+									</h1>
+								</div>
+							</div>
+
+						<div class="row">
 							<div class="col-md-12">
-							<h1 class="mb-sm">
-									Novedades
-								</h1>
+								<div class="nivo-slider">
+									<div class="slider-wrapper theme-default">
+										<div id="nivoSlider" class="nivoSlider">
+											<img src="img/home/novedades-1.png" data-thumb="img/home/novedades-1.png" alt="" />
+											<img src="img/home/novedades-2.png" data-thumb="img/home/novedades-2.png" alt="" />
+										</div>
+										 
+									</div>
+								</div>
 							</div>
 						</div>
 
+					</div>
+				</div>
+			
+			</section>
+			
+			<section>
+				
+				<div class="container">
+
+					<div class="row center">
+						<div class="col-md-12">
+						 
+							 <div class="heading heading-border heading-middle-border heading-middle-border-center">
+								<h1>Recomendaciones</h1>
+							 <div>
+							 
+						</div>
+					</div>
+					
+					<div class="row">
+						
+						<div class="col-md-3">
+
+									<h5 class="text-semibold text-uppercase mt-lg">10 Consejos para conducir bien<br/><br/></h5>
+									<span class="thumb-info thumb-info-hide-wrapper-bg">
+								<span class="thumb-info-wrapper">
+									<img src="img/home/reco-4.png" class="img-responsive" alt="">
+									
+								</span>
+								<span class="thumb-info-caption text-center">
+									<span class="thumb-info-caption-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+									<p><a href="/" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p> 
+									</span>
+								</span>
+
+						</div>
+
+						<div class="col-md-3">
+
+									<h5 class="text-semibold text-uppercase mt-lg">SOAT y Seguro Vehicular – ¿Cuál debo comprar?</h5>
+									<span class="thumb-info thumb-info-hide-wrapper-bg">
+								<span class="thumb-info-wrapper">
+									<img src="img/home/reco-1.png" class="img-responsive" alt="">
+									
+								</span>
+								<span class="thumb-info-caption text-center">
+									<span class="thumb-info-caption-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+									<p><a href="/" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
+									</span>
+								</span>
+
+						</div>
+
+						<div class="col-md-3">
+
+									<h5 class="text-semibold text-uppercase mt-lg">Como reaccionar ante una emergencia mientras manejas</h5>
+									<span class="thumb-info thumb-info-hide-wrapper-bg">
+								<span class="thumb-info-wrapper">
+									<img src="img/home/reco-3.png" class="img-responsive" alt="">
+									
+								</span>
+								<span class="thumb-info-caption text-center" >
+									<span class="thumb-info-caption-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+										<p><a href="/" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
+									</span>
+								</span>
+
+						</div>
+
+						<div class="col-md-3">
+
+									<h5 class="text-semibold text-uppercase mt-lg">¿Qué hacer frente a un siniestro?<br/><br/></h5>
+									<span class="thumb-info thumb-info-hide-wrapper-bg">
+								<span class="thumb-info-wrapper">
+									<img src="img/home/reco-2.png" class="img-responsive" alt="">
+									
+								</span>
+								<span class="thumb-info-caption text-center">
+									<span class="thumb-info-caption-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+										<p><a href="/" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
+									</span>
+								</span>
+
+						</div>
+						 
+
+					</div>
+
+
+				</div>
+
+			</section>
+
+			<section class="section">
+
+				<div class="container">
+
+				<div class="row center">
+						<div class="col-md-12">
+						<h1 class="mb-sm">
+								Alianzas estrategicas
+							</h1>
+						</div>
+					</div>
+					
 					<div class="row">
 						<div class="col-md-12">
-							<div class="nivo-slider">
-								<div class="slider-wrapper theme-default">
-									<div id="nivoSlider" class="nivoSlider">
-										<img src="img/home/novedades-1.png" data-thumb="img/home/novedades-1.png" alt="" />
-										<img src="img/slides/slide-2.jpg" data-thumb="img/slides/slide-2.jpg" alt="" />
-									</div>
-									<div id="htmlcaption" class="nivo-html-caption"></div>
+							
+							<div class="owl-carousel stage-margin" data-plugin-options='{"items": 4, "margin": 10, "loop": false, "nav": true, "dots": false, "stagePadding": 40}'>
+								<div>
+									<img alt="" class="img-responsive img-rounded" src="img/home/al-1.jpg">
 								</div>
+								<div>
+									<img alt="" class="img-responsive img-rounded" src="img/home/al-2.jpg">
+								</div>
+								<div>
+									<img alt="" class="img-responsive img-rounded" src="img/home/al-3.jpg">
+								</div>
+								<div>
+									<img alt="" class="img-responsive img-rounded" src="img/home/al-4.jpg">
+								</div>
+								 
 							</div>
 						</div>
 					</div>
 
 				</div>
-				</div>
+					
 
-			
 			</section>
-
 
 			 <footer class="short" id="footer">
                 <div class="container">
@@ -486,32 +618,21 @@
 		<script src="js/theme.js"></script>
 		
 		<!-- Specific Page Vendor and Views -->
+		
+		<script src="vendor/circle-flip-slideshow/js/jquery.flipshow.js"></script>
+		<script src="vendor/nivo-slider/jquery.nivo.slider.js"></script>
+		<script src="js/views/view.home.js"></script>
+		
 		<script src="vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
 		<script src="vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-		<script src="vendor/circle-flip-slideshow/js/jquery.flipshow.js"></script>
-		<script src="js/views/view.home.js"></script>
+		
 		
 		<!-- Theme Custom -->
 		<script src="js/custom.js"></script>
 		
 		<!-- Theme Initialization Files -->
 		<script src="js/theme.init.js"></script>
-
-		<!-- Google Analytics: Change UA-XXXXX-X to be your site's ID. Go to http://www.google.com/analytics/ for more information.
-		<script type="text/javascript">
-		
-			var _gaq = _gaq || [];
-			_gaq.push(['_setAccount', 'UA-12345678-1']);
-			_gaq.push(['_trackPageview']);
-		
-			(function() {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-			})();
-		
-		</script>
-		 -->
+	
 
 	</body>
 </html>
