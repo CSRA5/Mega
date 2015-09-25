@@ -41,7 +41,35 @@ Route::get('seguro-para-empresas', function () {
     return view('insurances-for-companies/list-insurances-for-companies');
 });
 
+Route::get('seguro-de-salud', function () {
+    return view('insurances-for-persons/health-insurance');
+});
+
+Route::get('soat', function () {
+    return view('insurances-for-persons/soat');
+});
+
+Route::get('seguro-vehicular', function () {
+    return view('insurances-for-persons/vehicle-insurance');
+});
+
+Route::get('seguro-domiciliario', function () {
+    return view('insurances-for-persons/safe-house');
+});
+
+Route::get('seguro-oncologico', function () {
+    return view('insurances-for-persons/cancer-insurance');
+});
+
+Route::get('seguro-de-vida', function () {
+    return view('insurances-for-persons/life-insurance');
+});
+
+Route::get('accidentes-personales', function () {
+    return view('insurances-for-persons/personal-accident');
+});
 
 /*
 End insurances for persons
 */
+

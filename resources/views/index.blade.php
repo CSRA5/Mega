@@ -108,7 +108,7 @@
 										 data-easing="easeOutExpo">¿Que tipo de seguro necesitas? </div>
 									
 									
-									<a class="tp-caption customin btn btn-3d btn-primary btn-lg" data-hash data-hash-offset="85" href="#home-intro"
+									<a class="tp-caption customin btn btn-3d btn-primary btn-lg" data-hash data-hash-offset="85" href="{{ url('seguro-para-personas') }}"
 											data-x="450" data-hoffset="0"
 											data-y="290"
 											data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
@@ -120,7 +120,7 @@
 									</a>
 
 
-									<a class="tp-caption customin btn btn-3d btn-secondary btn-lg" data-hash data-hash-offset="85" href="#home-intro"
+									<a class="tp-caption customin btn btn-3d btn-secondary btn-lg" data-hash data-hash-offset="85" href="{{ url('seguro-para-empresas') }}"
 											data-x="570" data-hoffset="0"
 											data-y="290"
 											data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
@@ -171,28 +171,28 @@
 								<div class="header-nav-main header-nav-main-effect-1 header-nav-main-sub-effect-1 collapse">
 									   <nav>
                                     <ul class="nav nav-pills" id="mainNav">
-                                        <li><a href="index.html" >Inicio</a></li>
-                                        <li><a href="index.html">Empresa</a></li>
+                                        <li><a href="{{ url('/') }}" >Inicio</a></li>
+                                        <li><a href="{{ url('empresa') }}">Empresa</a></li>
 
                                         <li class="dropdown">
-                                           <a class="dropdown-toggle" href="index.html">
+                                           <a class="dropdown-toggle" href="{{ url('seguro-para-personas') }}">
                                                 Segura para personas
                                             </a>
                                        
                                             <ul class="dropdown-menu">
-                                                <li><a href="index.html">Seguro de salud</a></li>
-                                                <li><a href="index.html">SOAT</a></li>
-                                                <li><a href="index.html">Seguro vehicular</a></li>
-                                                <li><a href="index.html">Seguro domicialiario</a></li>
-                                                <li><a href="index.html">Seguro oncológico</a></li>
-                                                <li><a href="index.html">Seguro de vida</a></li>
-                                                <li><a href="index.html">Accidentes personales</a></li>
-                                                <li><a href="index.html">Rapiseguros</a></li>
+                                                <li><a href="{{ url('seguro-de-salud') }}">Seguro de salud</a></li>
+                                                <li><a href="{{ url('soat') }}">SOAT</a></li>
+                                                <li><a href="{{ url('seguro-vehicular') }}">Seguro vehicular</a></li>
+                                                <li><a href="{{ url('seguro-domiciliario') }}">Seguro domiciliario</a></li>
+                                                <li><a href="{{ url('seguro-oncologico') }}">Seguro oncológico</a></li>
+                                                <li><a href="{{ url('seguro-de-vida') }}">Seguro de vida</a></li>
+                                                <li><a href="{{ url('accidentes-personales') }}">Accidentes personales</a></li>
+                                                <li><a href="{{ url('rapiseguros') }}">Rapiseguros</a></li>
                                             </ul>
                                         </li>
 
                                         <li class="dropdown">
-                                           <a class="dropdown-toggle" href="index.html">
+                                           <a class="dropdown-toggle" href="{{ url('seguro-para-empresas') }}">
                                                 Segura para empresas
                                             </a>
                                        
