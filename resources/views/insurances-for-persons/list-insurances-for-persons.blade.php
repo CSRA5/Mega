@@ -49,7 +49,7 @@
 									<div class="box-content">
 										<i class="icon-featured fa fa-heartbeat"></i>
 										<h4 class="text-uppercase">Seguro de salud</h4>
-										<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus.</p>
+										<p>Servicio de medicina profesional. Atención médica ambulatoria y hospitalaria.</p>
 										<p><a href="/" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -59,7 +59,7 @@
 									<div class="box-content">
 										<i class="icon-featured fa fa-book"></i>
 										<h4 class="text-uppercase">SOAT</h4>
-										<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus.</p>
+										<p>Cubre los gastos médicos, tuyos y de terceros, en caso de accidentes de tránsito.</p>
 										<p><a href="/" class="lnk-secondary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -69,7 +69,7 @@
 									<div class="box-content">
 										<i class="icon-featured fa fa-automobile"></i>
 										<h4 class="text-uppercase">Seguro vehicular</h4>
-										<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus.</p>
+										<p>Cubre los daños producidos por accidentes de vehículos que estén asegurados.</p>
 										<p><a href="/" class="lnk-tertiary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -79,7 +79,7 @@
 									<div class="box-content">
 										<i class="icon-featured fa fa-home"></i>
 										<h4 class="text-uppercase">Seguro domiciliario</h4>
-										<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus. </p>
+										<p>Servicio de asistencia domiciliaria ante imprevistos de robo, incendio y otros.</p>
 										<p><a href="/" class="lnk-quaternary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -92,7 +92,7 @@
 									<div class="box-content">
 										<i  class="icon-featured micon icon-i-social-services"></i>
 										<h4 class="text-uppercase">Seguro de vida</h4>
-										<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus.</p>
+										<p>Seguro obligatorio para empleados y asegurados que presten servicio a un mismo empleador.</p>
 										<p><a href="/" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -102,7 +102,7 @@
 									<div class="box-content">
 										<i  class="icon-featured micon icon-i-oncology" ></i>
 										<h4 class="text-uppercase">Seguro oncológico</h4>
-										<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus.</p>
+										<p>Cubre los gastos del tratamiento contra el cáncer, tanto hospitalario como ambulatorio.</p>
 										<p><a href="/" class="lnk-secondary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -112,7 +112,7 @@
 									<div class="box-content">
 										<i class="icon-featured micon icon-i-intensive-care"></i>
 										<h4 class="text-uppercase">Accidentes personales</h4>
-										<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus.</p>
+										<p>Te protege tanto a ti como a tu familia de los gastos y molestias que genera un accidente.</p>
 										<p><a href="/" class="lnk-tertiary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -122,7 +122,7 @@
 									<div class="box-content">
 										<i class="icon-featured micon icon-i-billing"></i>
 										<h4 class="text-uppercase">Rapiseguros</h4>
-										<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus. </p>
+										<p>Ofrece diversos tipos de indemnización de manera simple y económica, debido a su bajo costo.</p>
 										<p><a href="/" class="lnk-quaternary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>

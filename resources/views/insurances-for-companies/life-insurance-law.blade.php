@@ -1,3 +1,4 @@
+
 @extends('layouts/layout')
 @section('title','Seguro de vida ley-Mega Corredores de Seguros')
 @section('description','')
