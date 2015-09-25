@@ -175,7 +175,7 @@
 
                                         <li class="dropdown">
                                            <a class="dropdown-toggle" href="{{ url('seguro-para-personas') }}">
-                                                Segura para personas
+                                                Seguro para personas
                                             </a>
                                        
                                             <ul class="dropdown-menu">
@@ -192,7 +192,7 @@
 
                                         <li class="dropdown">
                                            <a class="dropdown-toggle" href="{{ url('seguro-para-empresas') }}">
-                                                Segura para empresas
+                                                Seguro para empresas
                                             </a>
                                        
                                             <ul class="dropdown-menu">
@@ -282,7 +282,7 @@
 									<div class="box-content">
 										<i class="icon-featured fa fa-heartbeat"></i>
 										<h4 class="text-uppercase">Seguro de salud</h4>
-										<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus.</p>
+										<p>Servicio de medicina profesional. Atención médica ambulatoria y hospitalaria.</p>
 										<p><a href="/" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -292,7 +292,7 @@
 									<div class="box-content">
 										<i class="icon-featured fa fa-book"></i>
 										<h4 class="text-uppercase">SOAT</h4>
-										<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus.</p>
+										<p>Cubre los gastos médicos, tuyos y de terAJAceros, en caso de accidentes de tránsito.</p>
 										<p><a href="/" class="lnk-secondary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -302,7 +302,7 @@
 									<div class="box-content">
 										<i class="icon-featured fa fa-automobile"></i>
 										<h4 class="text-uppercase">Seguro vehicular</h4>
-										<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus.</p>
+										<p>Cubre los daños producidos por accidentes de vehículos que se encuentren asegurados.</p>
 										<p><a href="/" class="lnk-tertiary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -312,7 +312,7 @@
 									<div class="box-content">
 										<i class="icon-featured fa fa-home"></i>
 										<h4 class="text-uppercase">Seguro domiciliario</h4>
-										<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus. </p>
+										<p>Servicio de asistencia domiciliaria ante imprevistos de robo, incendio y otros.</p>
 										<p><a href="/" class="lnk-quaternary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -325,7 +325,7 @@
 									<div class="box-content">
 										<i class="icon-featured fa fa-stethoscope"></i>
 										<h4 class="text-uppercase">Seguro de vida ley</h4>
-										<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus.</p>
+										<p>Seguro obligatorio para empleados y asegurados que presten servicio a un mismo empleador.</p>
 										<p><a href="/" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -335,7 +335,7 @@
 									<div class="box-content">
 										<i class="icon-featured fa fa-bus"></i>
 										<h4 class="text-uppercase">Seguro flota vehicular</h4>
-										<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus.</p>
+										<p>Cubre la flota de vehículos de su empresa ante robo, daño a terceros y otros.</p>
 										<p><a href="/" class="lnk-secondary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -345,7 +345,7 @@
 									<div class="box-content">
 										<i class="icon-featured fa fa-user-md"></i>
 										<h4 class="text-uppercase">EPS</h4>
-										<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus.</p>
+										<p>Programa médico que brinda atención ambulatoria y hospitalaria, consultas y emergencias .</p>
 										<p><a href="/" class="lnk-tertiary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -355,7 +355,7 @@
 									<div class="box-content">
 										<i class="icon-featured fa fa-building"></i>
 										<h4 class="text-uppercase">Multiriesgo Pyme</h4>
-										<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus. </p>
+										<p>Seguro diseñado para proteger el patrimonio de las pequeñas empresas ante robos, incendios y otros.</p>
 										<p><a href="/" class="lnk-quaternary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -385,8 +385,8 @@
 						<div class="featured-box featured-box-secondary featured-box-effect-3">
 							<div class="box-content">
 								<i class="icon-featured fa fa-ambulance"></i>
-								<h4>Well Documented</h4>
-								<p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat. </p>
+								<h4>Respuesta Inmediata</h4>
+								<p>Nuestro equipo de atención de siniestros trabaja 24 horas al día, 7 días a la semana, los 365 días del año, haciendo un seguimiento exhaustivo de los requerimientos de nuestros clientes y velando por sus intereses.</p>
 							</div>
 						</div>
 					</div>
@@ -452,7 +452,7 @@
 									
 								</span>
 								<span class="thumb-info-caption text-center">
-									<span class="thumb-info-caption-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+									<span class="thumb-info-caption-text">Que el celular, una discusión o un disgusto te lleven a ocasionar un accidente.</span>
 									<p><a href="/" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p> 
 									</span>
 								</span>
@@ -468,7 +468,7 @@
 									
 								</span>
 								<span class="thumb-info-caption text-center">
-									<span class="thumb-info-caption-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+									<span class="thumb-info-caption-text">Cuándo son necesarios y qué rol cumplen en nuestra protección.</span>
 									<p><a href="/" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</span>
 								</span>
@@ -484,7 +484,7 @@
 									
 								</span>
 								<span class="thumb-info-caption text-center" >
-									<span class="thumb-info-caption-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+									<span class="thumb-info-caption-text">Si viajas solo en tu vehículo, no dejes de seguir estás recomendaciones.</span>
 										<p><a href="/" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</span>
 								</span>
@@ -500,7 +500,7 @@
 									
 								</span>
 								<span class="thumb-info-caption text-center">
-									<span class="thumb-info-caption-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+									<span class="thumb-info-caption-text">Mantén la calma y toma precauciones para que ni tú ni tu vehículo corran riesgos.</span>
 										<p><a href="/" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</span>
 								</span>
