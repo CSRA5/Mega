@@ -345,7 +345,7 @@
 									<div class="box-content">
 										<i class="icon-featured fa fa-user-md"></i>
 										<h4 class="text-uppercase">EPS</h4>
-										<p>Programa médico que brinda atención ambulatoria y hospitalaria, consultas y emergencias .</p>
+										<p>Programa médico que brinda atención ambulatoria y hospitalaria, consultas y emergencias.</p>
 										<p><a href="/" class="lnk-tertiary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>

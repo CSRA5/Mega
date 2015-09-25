@@ -112,7 +112,7 @@
 									<div class="box-content">
 										<i class="icon-featured micon icon-i-intensive-care"></i>
 										<h4 class="text-uppercase">Accidentes personales</h4>
-										<p>Te protege tanto a ti como a tu familia de los gastos y molestias que genera un accidente.</p>
+										<p>Protege a tu familia y a ti de los gastos y molestias que genera un accidente.</p>
 										<p><a href="/" class="lnk-tertiary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>

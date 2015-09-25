@@ -92,7 +92,7 @@
 									<div class="box-content">
 										<i  class="icon-featured fa fa-shield"></i>
 										<h4 class="text-uppercase">Seguros de ingienería</h4>
-										<p>Modalidades de cobertura de riesgos inherentes a la construcción de edificios y obras.</p>
+										<p>Modalidades de cobertura que comtemplan determinados riesgos inherentes a la construcción de edificios y obras.</p>
 										<p><a href="/" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -102,7 +102,7 @@
 									<div class="box-content">
 										<i  class="icon-featured micon icon-i-administration" ></i>
 										<h4 class="text-uppercase">SCTR</h4>
-										<p>De carácter obligatorio para aquellos empleadores que realizan actividades económicas de riesgo.</p>
+										<p>Seguro de carácter obligatorio para aquellos empleadores dedicados a la realización de actividades económicas de alto riesgo.</p>
 										<p><a href="/" class="lnk-secondary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -112,7 +112,7 @@
 									<div class="box-content">
 										<i class="icon-featured fa fa-ship"></i>
 										<h4 class="text-uppercase">Responsabilidad social para hidrocarburos</h4>
-										<p>Cubre daños ambientales causados por almacenamiento, transporte y distribución de hidrocarburos.</p>
+										<p>Cubre daños causados por manipulación de hidrocarburos.</p>
 										<p><a href="/" class="lnk-tertiary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
