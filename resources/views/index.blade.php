@@ -292,7 +292,7 @@
 									<div class="box-content">
 										<i class="icon-featured fa fa-book"></i>
 										<h4 class="text-uppercase">SOAT</h4>
-										<p>Cubre los gastos médicos, tuyos y de terAJAceros, en caso de accidentes de tránsito.</p>
+										<p>Cubre los gastos médicos, tuyos y de terceros, en caso de accidentes de tránsito.</p>
 										<p><a href="/" class="lnk-secondary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -302,7 +302,7 @@
 									<div class="box-content">
 										<i class="icon-featured fa fa-automobile"></i>
 										<h4 class="text-uppercase">Seguro vehicular</h4>
-										<p>Cubre los daños producidos por accidentes de vehículos que se encuentren asegurados.</p>
+										<p>Cubre los daños producidos por accidentes de vehículos que estén asegurados.</p>
 										<p><a href="/" class="lnk-tertiary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -452,7 +452,7 @@
 									
 								</span>
 								<span class="thumb-info-caption text-center">
-									<span class="thumb-info-caption-text">Que el celular, una discusión o un disgusto te lleven a ocasionar un accidente.</span>
+									<span class="thumb-info-caption-text">No dejes que el celular, una discusión o un disgusto ocasionen un accidente.</span>
 									<p><a href="/" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p> 
 									</span>
 								</span>
@@ -500,7 +500,7 @@
 									
 								</span>
 								<span class="thumb-info-caption text-center">
-									<span class="thumb-info-caption-text">Mantén la calma y toma precauciones para que ni tú ni tu vehículo corran riesgos.</span>
+									<span class="thumb-info-caption-text">Mantén la calma y evita que tú o tu vehículo corran riesgos innecesarios.</span>
 										<p><a href="/" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</span>
 								</span>
