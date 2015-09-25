@@ -73,3 +73,25 @@ Route::get('accidentes-personales', function () {
 End insurances for persons
 */
 
+/*
+Insurances for companies
+*/
+
+Route::get('seguro-de-vida-ley', function () {
+    return view('insurances-for-companies/life-insurance-law');
+});
+
+
+Route::get('seguro-flota-vehicular', function () {
+    return view('insurances-for-companies/vehicle-fleet-insurance');
+});
+
+Route::get('seguro-de-transporte', function () {
+    return view('insurances-for-companies/transportation-insurance');
+});
+
+
+
+/*
+
+*/

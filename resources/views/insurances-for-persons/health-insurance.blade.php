@@ -52,7 +52,7 @@
 							</h4>
 						</div>
 							
-						<div id="collapse2PrimaryOne" class="accordion-body collapse">
+						<div id="collapse2PrimaryOne" class="accordion-body collapse in">
 							<div class="panel-body">
 								<ul class="list list-icons">
 										<li><i class="fa fa-check"></i> Cubre todos los gastos necesarios correspondientes al tratamiento de una enfermedad o accidente que se encuentren amparados      por tu póliza.</li>

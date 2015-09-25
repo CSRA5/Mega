@@ -50,7 +50,7 @@
 							</h4>
 						</div>
 							
-						<div id="collapse2PrimaryOne" class="accordion-body collapse">
+						<div id="collapse2PrimaryOne" class="accordion-body collapse in">
 							<div class="panel-body">
 								<ul class="list list-icons">
 										<li><i class="fa fa-check"></i>Indemnización por muerte accidental.  </li>

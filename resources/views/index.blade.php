@@ -69,16 +69,15 @@
 		<div class="body">
 
 			<div role="main" class="main">
-
 				<div class="slider-container slider-container-fullscreen">
-					<div class="slider" id="revolutionSliderFullScreen" data-plugin-revolution-slider data-plugin-options='{"fullScreen": "on"}'>
+					<div class="slider" id="revolutionSliderFullScreen" data-plugin-revolution-slider data-plugin-options='{"fullScreen": "on","startwidth": 600}'>
 						<ul>
 							<li data-transition="fade" data-slotamount="10" data-masterspeed="300">
 								<img src="img/home/home-1.jpg" data-fullwidthcentering="on" alt="">
 
 									
 									<div class="tp-caption main-label lfl stl"
-										 data-x="center"
+										 data-x="center" data-hoffset="0"
 										 data-y="100"
 										 data-speed="300"
 										 data-start="500"
@@ -86,14 +85,14 @@
 
 							
 									<div class="tp-caption bottom-label sft stb"
-										 data-x="center"
-										 data-y="170"
+										 data-x="center" data-hoffset="0"
+										 data-y="170" 
 										 data-speed="300"
 										 data-start="1500"
 										 data-easing="easeOutExpo">Corredores de seguros</div>
 
 									<div class="tp-caption bottom-label sft stb"
-										 data-x="center"
+										 data-x="center" data-hoffset="0"
 										 data-y="200"
 										 data-speed="300"
 										 data-start="1500"
@@ -101,7 +100,7 @@
 
 
 									<div class="tp-caption top-label"
-										 data-x="center"
+										 data-x="center" data-hoffset="0"
 										 data-y="240"
 										 data-speed="500"
 										 data-start="2000"
@@ -109,11 +108,11 @@
 									
 									
 									<a class="tp-caption customin btn btn-3d btn-primary btn-lg" data-hash data-hash-offset="85" href="{{ url('seguro-para-personas') }}"
-											data-x="450" data-hoffset="0"
+											data-x="170" data-hoffset="0"
 											data-y="290"
 											data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
 											data-speed="800"
-											data-start="2500"
+											data-start="1700"
 											data-easing="Back.easeInOut"
 											data-endspeed="300">
 												Personal
@@ -121,11 +120,11 @@
 
 
 									<a class="tp-caption customin btn btn-3d btn-secondary btn-lg" data-hash data-hash-offset="85" href="{{ url('seguro-para-empresas') }}"
-											data-x="570" data-hoffset="0"
+											data-x="290" data-hoffset="0"
 											data-y="290"
 											data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
 											data-speed="800"
-											data-start="2500"
+											data-start="1900"
 											data-easing="Back.easeInOut"
 											data-endspeed="300">
 												Empresarial
@@ -200,7 +199,7 @@
                                                 <li><a href="index.html">Seguro de vida ley</a></li>
                                                 <li><a href="index.html">SCTR</a></li>
                                                 <li><a href="index.html">Seguro flota vehicular</a></li>
-                                                <li><a href="index.html">Seguros de transporte</a></li>
+                                                <li><a href="index.html">Seguro de transporte</a></li>
                                                 <li><a href="index.html">Multiriesgo Pyme</a></li>
                                                 <li><a href="index.html">Seguros de ingienería</a></li>
                                                 <li><a href="index.html">EPS</a></li>

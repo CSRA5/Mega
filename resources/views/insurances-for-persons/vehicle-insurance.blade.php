@@ -50,7 +50,7 @@
 							</h4>
 						</div>
 							
-						<div id="collapse2PrimaryOne" class="accordion-body collapse">
+						<div id="collapse2PrimaryOne" class="accordion-body collapse in">
 							<div class="panel-body">
 								<ul class="list list-icons">
 										<li><i class="fa fa-check"></i><strong>Daños personales:</strong>Comprende indemnizaciones por muerte, invalidez, e incapacidad de las víctimas del accidente, así como también pago de gastos      de atención médica y de recuperación o rehabilitación. </li>

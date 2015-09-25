@@ -133,7 +133,7 @@
                                                 <li><a href="index.html">Seguro de vida ley</a></li>
                                                 <li><a href="index.html">SCTR</a></li>
                                                 <li><a href="index.html">Seguro flota vehicular</a></li>
-                                                <li><a href="index.html">Seguros de transporte</a></li>
+                                                <li><a href="index.html">Seguro de transporte</a></li>
                                                 <li><a href="index.html">Multiriesgo Pyme</a></li>
                                                 <li><a href="index.html">Seguros de ingienería</a></li>
                                                 <li><a href="index.html">EPS</a></li>
