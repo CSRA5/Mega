@@ -1,1 +1,55 @@
 /* Add here all your CSS customizations */
+
+
+/*Home
+
+*/
+
+.home-info{
+	margin-left: 2em;
+	margin-right: 2em;
+}
+.aling-text-home-info{
+	text-align: right;
+
+}
+
+.text-center{
+	text-align: center;
+}
+
+@media (max-width: 767px) {
+	.aling-text-home-info{
+		text-align: left;
+
+	}
+} 
+
+.buttons-home{
+	width: 40%;	
+}
+
+.img-sinister{
+	width: 400px;
+	display: inline-block;
+	text-align: center;
+}
+
+.text-sinister{
+	margin-top: 60px;
+	margin-left: 20px;
+}
+
+@media (max-width: 767px) {
+	
+	.text-sinister{
+		margin-top: 10px;
+	
+	}
+} 
+
+
+
+/*
+End Home
+*/

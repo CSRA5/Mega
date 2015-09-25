@@ -1,15 +1,13 @@
 <!DOCTYPE html>
 <html>
-    
     <head>
+
         <!-- Basic -->
-        <meta charset="utf-8"/>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>   
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">   
 
-         <title> @yield('title') </title>
-
-       
-        <meta name="description" content="@yield('description')"/>
+        <title> @yield('title') </title>
+        <meta name="description" content= "@yield('description')"/>
         <meta name="author" content="Christian Ramirez"/>
 
         <!-- Favicon -->
@@ -21,100 +19,92 @@
 
         <!-- Web Fonts  -->
         <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light" rel="stylesheet" type="text/css"/>
+         
 
         <!-- Vendor CSS -->
-        <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.css"/>
-        <link rel="stylesheet" href="vendor/fontawesome/css/font-awesome.css"/>
-        <link rel="stylesheet" href="vendor/simple-line-icons/css/simple-line-icons.css"/>
-        <link rel="stylesheet" href="vendor/owlcarousel/owl.carousel.min.css"/>
-        <link rel="stylesheet" href="vendor/owlcarousel/owl.theme.default.min.css"/>
-        <link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.css"/>
+        <link rel="stylesheet" href="{{ asset('vendor/bootstrap/css/bootstrap.css') }}"/>
+        <link rel="stylesheet" href="{{ asset('vendor/fontawesome/css/font-awesome.css') }}"/>
+        <link rel="stylesheet" href="{{ asset('css/wfmi-style.css') }}">
+        <link rel="stylesheet" href="{{ asset('vendor/simple-line-icons/css/simple-line-icons.css') }}"/>
+        <link rel="stylesheet" href="{{ asset('vendor/owlcarousel/owl.carousel.min.css') }}">
+        <link rel="stylesheet" href="{{ asset('vendor/owlcarousel/owl.theme.default.min.css') }}"/>
+        <link rel="stylesheet" href="{{ asset('vendor/magnific-popup/magnific-popup.css') }}"/>
 
         <!-- Theme CSS -->
-        <link rel="stylesheet" href="css/theme.css"/>
-        <link rel="stylesheet" href="css/theme-elements.css"/>
-        <link rel="stylesheet" href="css/theme-blog.css"/>
-        <link rel="stylesheet" href="css/theme-shop.css"/>
-        <link rel="stylesheet" href="css/theme-animate.css"/>
+        <link rel="stylesheet" href="{{ asset('css/theme.css') }}">
+        <link rel="stylesheet" href="{{ asset('css/theme-elements.css') }}"/>
+        <link rel="stylesheet" href="{{ asset('css/theme-blog.css') }}">
+        <link rel="stylesheet" href="{{ asset('css/theme-shop.css') }}"/>
+        <link rel="stylesheet" href="{{ asset('css/theme-animate.css') }}"/>
 
         <!-- Current Page CSS -->
-        <link rel="stylesheet" href="vendor/rs-plugin/css/settings.css" media="screen"/>
-        <link rel="stylesheet" href="vendor/circle-flip-slideshow/css/component.css" media="screen"/>
+        <link rel="stylesheet" href="{{ asset('vendor/rs-plugin/css/settings.css') }}" media="screen"/>
+        <link rel="stylesheet" href="{{ asset('vendor/circle-flip-slideshow/css/component.css') }}" media="screen"/>
+        <link rel="stylesheet" href="{{ asset('vendor/circle-flip-slideshow/css/component.css') }}" media="screen"/>
+        <link rel="stylesheet" href="{{ asset('vendor/nivo-slider/nivo-slider.css') }}" media="screen">
+        <link rel="stylesheet" href="{{ asset('vendor/nivo-slider/default/default.css') }}" media="screen"/>
+
 
         <!-- Skin CSS -->
-        <link rel="stylesheet" href="css/skins/default.css"/>
+        <link rel="stylesheet" href="{{ asset('css/skins/default.css') }}"/>
 
         <!-- Theme Custom CSS -->
-        <link rel="stylesheet" href="css/custom.css"/>
+        <link rel="stylesheet" href="{{ asset('css/custom.css') }}" />
 
         <!-- Head Libs -->
-        <script src="vendor/modernizr/modernizr.js"></script>
+        <script src="{{ asset('vendor/modernizr/modernizr.js') }}"></script>
+        
 
-        <!--[if IE]>
-            <link rel="stylesheet" href="css/ie.css">
-        <![endif]-->
-
-        <!--[if lte IE 8]>
-            <script src="vendor/respond/respond.js"></script>
-            <script src="vendor/excanvas/excanvas.js"></script>
-        <![endif]-->
-
-    </head>   
-
+    </head>
     <body>
 
         <div class="body">
-           
-            <header id="header" class="header-no-border-bottom" data-plugin-options='{"stickyEnabled": true, "stickyEnableOnBoxed": true, "stickyEnableOnMobile": true, "stickyStartAt": 153, "stickySetTop": "-153px", "stickyChangeLogo": false}'>
-                <div class="header-body">
-                    
-                    <div class="header-container container">
-                        <div class="header-row">
-                            <div class="header-column">
-                                <div class="header-logo">
-                                    <a href="index.html">
-                                        <img alt="Mega" width="111" height="54" data-sticky-width="82" data-sticky-height="40" data-sticky-top="33" src="img/logo.png">
-                                    </a>
-                                </div>
+
+            <div role="main" class="main">
+                <div id="intro">
+                    <header id="header" class="header-narrow" data-plugin-options='{"stickyEnabled": true, "stickyEnableOnBoxed": true, "stickyEnableOnMobile": true, "stickyStartAtElement": "#header", "stickySetTop": "0", "stickyChangeLogo": true}'>
+                        <div class="header-body">
+                            <div class="header-container container">
+                                <div class="header-row">
+                                    <div class="header-column">
+                                        <div class="header-logo">
+                                            <a href="index.html">
+                                                <img alt="Mega Corredores" width="141" height="75" src="img/logo.png">
+                                            </a>
+                                        </div>
+                                    </div>
+                                
+                                    <div class="header-column header-column-valign-top">
+                                
+                                    <nav class="header-nav-top">
+                                        <ul class="nav nav-pills">
+                                            
+                                            <li class="hidden-xs">
+                                                <a href="contact-us.html"><i class="fa fa-angle-right"></i>informes@megacorredores.pe</a>
+                                            </li>
+                                            <li>
+                                                <span class="ws-nowrap"><i class="fa fa-phone"></i> 044-22661/ #934488</span>
+                                            </li>
+                                        </ul>
+                                    </nav>
+
+                                    </div>
+                                 </div>
                             </div>
-                            <div class="header-column">
-                                <ul class="header-extra-info hidden-xs">
-                                    <li>
-                                        <div class="feature-box feature-box-style-3">
-                                            <div class="feature-box-icon">
-                                                <i class="fa fa-phone"></i>
-                                            </div>
-                                            <div class="feature-box-info">
-                                                <h4 class="mb-none">044-22661/ #934488 </h4>
-                                                <p><small>Comunícate con nosotros</small></p>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="feature-box feature-box-style-3">
-                                            <div class="feature-box-icon">
-                                                <i class="fa fa-envelope"></i>
-                                            </div>
-                                            <div class="feature-box-info">
-                                                <h4 class="mb-none">informes@megacorredores.pe</h4>
-                                                <p><small>Envíanos un mensaje</small></p>
-                                            </div>
-                                        </div>
-                                    </li>
+
+                            <div class="header-container container header-nav header-nav-push-top">
+                                <button class="btn header-btn-collapse-nav" data-toggle="collapse" data-target=".header-nav-main">
+                                    <i class="fa fa-bars"></i>
+                                </button>
+                                <ul class="header-social-icons social-icons hidden-xs">
+                                    <li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                                    <li class="social-icons-twitter"><a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+                                    <li class="social-icons-linkedin"><a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
                                 </ul>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="header-container header-nav header-nav-bar header-nav-bar-primary">
-                        <div class="container">
-                            <button class="btn header-btn-collapse-nav" data-toggle="collapse" data-target=".header-nav-main">
-                                <i class="fa fa-bars"></i>
-                            </button>
-                            <div class="header-nav-main header-nav-main-light header-nav-main-effect-1 header-nav-main-sub-effect-1 collapse">
-                                <nav>
+                                <div class="header-nav-main header-nav-main-effect-1 header-nav-main-sub-effect-1 collapse">
+                                  <nav>
                                     <ul class="nav nav-pills" id="mainNav">
-                                        <li><a href="index.html">Home</a></li>
+                                        <li><a href="index.html">Inicio</a></li>
                                         <li><a href="index.html">Empresa</a></li>
 
                                         <li class="dropdown">
@@ -157,17 +147,18 @@
                                         <li><a href="index.html">Contacto</a></li>
 
                                     </ul>
-                                </nav>  
+                                </nav> 
+                                </div>
                             </div>
                         </div>
-                    </div>
+                    </header>
                 </div>
-            </header>
-     
-        
-        @yield('content')
 
-        <footer class="short" id="footer">
+                 @yield('content')
+           </div>
+              
+                                       
+             <footer class="short" id="footer">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8">
@@ -201,47 +192,50 @@
                 </div>
             </footer>
 
+        </div>
+
         <!-- Vendor -->
         <!--[if lt IE 9]>
         <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
         <![endif]-->
         <!--[if gte IE 9]><!-->
-        <script src="vendor/jquery/jquery.js"></script>
+        <script src="{{ asset('vendor/jquery/jquery.js') }}"></script>
         <!--<![endif]-->
-        <script src="vendor/jquery.appear/jquery.appear.js"></script>
-        <script src="vendor/jquery.easing/jquery.easing.js"></script>
-        <script src="vendor/jquery-cookie/jquery-cookie.js"></script>
-        <script src="vendor/bootstrap/js/bootstrap.js"></script>
-        <script src="vendor/common/common.js"></script>
-        <script src="vendor/jquery.validation/jquery.validation.js"></script>
-        <script src="vendor/jquery.stellar/jquery.stellar.js"></script>
-        <script src="vendor/jquery.easy-pie-chart/jquery.easy-pie-chart.js"></script>
-        <script src="vendor/jquery.gmap/jquery.gmap.js"></script>
-        <script src="vendor/jquery.lazyload/jquery.lazyload.js"></script>
-        <script src="vendor/isotope/jquery.isotope.js"></script>
-        <script src="vendor/owlcarousel/owl.carousel.js"></script>
-        <script src="vendor/jflickrfeed/jflickrfeed.js"></script>
-        <script src="vendor/magnific-popup/jquery.magnific-popup.js"></script>
-        <script src="vendor/vide/vide.js"></script>
-        
-        <!-- Theme Base, Components and Settings -->
-        <script src="js/theme.js"></script>
+        <script src="{{ asset('vendor/jquery.appear/jquery.appear.js') }}"></script>
+        <script src="{{ asset('vendor/jquery.easing/jquery.easing.js') }}"></script>
+        <script src="{{ asset('vendor/jquery-cookie/jquery-cookie.js') }}"></script>
+        <script src="{{ asset('vendor/bootstrap/js/bootstrap.js') }}"></script>
+        <script src="{{ asset('vendor/common/common.js') }}"></script>
+        <script src="{{ asset('vendor/jquery.validation/jquery.validation.js') }}"></script>
+        <script src="{{ asset('vendor/jquery.stellar/jquery.stellar.js') }}"></script>
+        <script src="{{ asset('vendor/jquery.easy-pie-chart/jquery.easy-pie-chart.js') }}"></script>
+        <script src="{{ asset('vendor/jquery.gmap/jquery.gmap.js') }}"></script>
+        <script src="{{ asset('vendor/jquery.lazyload/jquery.lazyload.js') }}"></script>
+        <script src="{{ asset('vendor/isotope/jquery.isotope.js') }}"></script>
+        <script src="{{ asset('vendor/owlcarousel/owl.carousel.js') }}"></script>
+        <script src="{{ asset('vendor/jflickrfeed/jflickrfeed.js') }}"></script>
+        <script src="{{  asset('vendor/magnific-popup/jquery.magnific-popup.js') }}"></script>
+        <script src="{{ asset('vendor/vide/vide.js') }}"></script>
+            
+
+         <!-- Theme Base, Components and Settings -->
+        <script src="{{ asset('js/theme.js') }}"></script>   
         
         <!-- Specific Page Vendor and Views -->
-        <script src="vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
-        <script src="vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-        <script src="vendor/circle-flip-slideshow/js/jquery.flipshow.js"></script>
-        <script src="js/views/view.home.js"></script>
         
+        <script src="{{ asset('vendor/circle-flip-slideshow/js/jquery.flipshow.js') }}"></script>
+        <script src="{{ asset('js/views/view.home.js') }}"></script>
+        
+        <script src="{{ asset('vendor/rs-plugin/js/jquery.themepunch.tools.min.js') }}"></script>
+        <script src="{{ asset('vendor/rs-plugin/js/jquery.themepunch.revolution.min.js') }}"></script>
+        
+       
         <!-- Theme Custom -->
-        <script src="js/custom.js"></script>
+        <script src="{{ asset('js/custom.js') }}"></script>
         
         <!-- Theme Initialization Files -->
-        <script src="js/theme.init.js"></script>
+        <script src="{{ asset('js/theme.init.js') }}"></script>
+    
 
-     </div>
     </body>
-
 </html>
-   
-

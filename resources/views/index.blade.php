@@ -43,6 +43,7 @@
 		<link rel="stylesheet" href="vendor/circle-flip-slideshow/css/component.css" media="screen">
 		<link rel="stylesheet" href="vendor/nivo-slider/nivo-slider.css" media="screen">
 		<link rel="stylesheet" href="vendor/nivo-slider/default/default.css" media="screen">
+		
 
 		<!-- Skin CSS -->
 		<link rel="stylesheet" href="css/skins/default.css">
@@ -73,7 +74,7 @@
 					<div class="slider" id="revolutionSliderFullScreen" data-plugin-revolution-slider data-plugin-options='{"fullScreen": "on"}'>
 						<ul>
 							<li data-transition="fade" data-slotamount="10" data-masterspeed="300">
-								<img src="img/home/home.jpg" data-fullwidthcentering="on" alt="">
+								<img src="img/home/home-1.jpg" data-fullwidthcentering="on" alt="">
 
 									
 									<div class="tp-caption main-label lfl stl"
@@ -152,7 +153,7 @@
 									<div class="header-column">
 										<div class="header-logo">
 											<a href="index.html">
-												<img alt="Porto" width="82" height="40" src="img/logo.png">
+												<img alt="Mega Corredores" width="141" height="75" src="img/logo.png">
 											</a>
 										</div>
 									</div>
@@ -170,7 +171,7 @@
 								<div class="header-nav-main header-nav-main-effect-1 header-nav-main-sub-effect-1 collapse">
 									   <nav>
                                     <ul class="nav nav-pills" id="mainNav">
-                                        <li><a href="index.html">Home</a></li>
+                                        <li><a href="index.html" >Inicio</a></li>
                                         <li><a href="index.html">Empresa</a></li>
 
                                         <li class="dropdown">
@@ -364,8 +365,6 @@
 
 					</div>
 
-
-
 				</div>
 
 			</section>
@@ -439,7 +438,7 @@
 							 <div class="heading heading-border heading-middle-border heading-middle-border-center">
 								<h1>Recomendaciones</h1>
 							 <div>
-							 
+
 						</div>
 					</div>
 					
