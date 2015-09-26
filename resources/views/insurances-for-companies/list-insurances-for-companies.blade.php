@@ -49,7 +49,7 @@
 									<div class="box-content">
 										<i class="icon-featured micon icon-i-family-practice"></i>
 										<h4 class="text-uppercase">Seguro de vida ley</h4>
-										<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus.</p>
+										<p>Seguro obligatorio para empleados y asegurados que presten servicio a un mismo empleador.</p>
 										<p><a href="/" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -59,7 +59,7 @@
 									<div class="box-content">
 										<i class="icon-featured fa fa-bus"></i>
 										<h4 class="text-uppercase">Seguro flota vehicular</h4>
-										<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus.</p>
+										<p>Cubre la flota de vehículos de su empresa ante robo, daño a terceros y otros.</p>
 										<p><a href="/" class="lnk-secondary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -69,7 +69,7 @@
 									<div class="box-content">
 										<i class="icon-featured fa fa-user-md"></i>
 										<h4 class="text-uppercase">EPS</h4>
-										<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus.</p>
+										<p>Programa médico que brinda atención ambulatoria y hospitalaria, consultas y emergencias.</p>
 										<p><a href="/" class="lnk-tertiary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -79,7 +79,7 @@
 									<div class="box-content">
 										<i class="icon-featured fa fa-building	º1q"></i>
 										<h4 class="text-uppercase">Multiriesgo PYME</h4>
-										<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus. </p>
+										<p>Seguro diseñado para proteger el patrimonio de las pequeñas empresas ante robos, incendios y otros.</p>
 										<p><a href="/" class="lnk-quaternary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -92,7 +92,7 @@
 									<div class="box-content">
 										<i  class="icon-featured fa fa-shield"></i>
 										<h4 class="text-uppercase">Seguros de ingienería</h4>
-										<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus.</p>
+										<p>Modalidades de cobertura que comtemplan determinados riesgos inherentes a la construcción de edificios y obras.</p>
 										<p><a href="/" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -102,7 +102,7 @@
 									<div class="box-content">
 										<i  class="icon-featured micon icon-i-administration" ></i>
 										<h4 class="text-uppercase">SCTR</h4>
-										<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus.</p>
+										<p>Seguro de carácter obligatorio para aquellos empleadores dedicados a la realización de actividades económicas de alto riesgo.</p>
 										<p><a href="/" class="lnk-secondary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -112,7 +112,7 @@
 									<div class="box-content">
 										<i class="icon-featured fa fa-ship"></i>
 										<h4 class="text-uppercase">Responsabilidad social para hidrocarburos</h4>
-										<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus.</p>
+										<p>Cubre daños causados por manipulación de hidrocarburos.</p>
 										<p><a href="/" class="lnk-tertiary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
@@ -122,7 +122,7 @@
 									<div class="box-content">
 										<i class="icon-featured micon icon-i-inpatient"></i>
 										<h4 class="text-uppercase">Responsabilidad civil general</h4>
-										<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus. </p>
+										<p>Otorga protección al asegurado si un tercero le exigiere indemnización por daños y perjuicios.</p>
 										<p><a href="/" class="lnk-quaternary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
