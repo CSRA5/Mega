@@ -1,4 +1,4 @@
-@extends('layouts/layout')
+@extends('layouts/layout-insurances')
 @section('title','Seguro flota vehicular-Mega Corredores de Seguros')
 @section('description','')
  

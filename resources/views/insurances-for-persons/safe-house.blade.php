@@ -1,4 +1,4 @@
-@extends('layouts/layout')
+@extends('layouts/layout-insurances-persons')
 @section('title','Seguro domiciliario')
 @section('description','')
  

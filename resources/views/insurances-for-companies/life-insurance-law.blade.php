@@ -1,5 +1,4 @@
-
-@extends('layouts/layout')
+@extends('layouts/layout-insurances')
 @section('title','Seguro de vida ley-Mega Corredores de Seguros')
 @section('description','')
  
@@ -35,8 +34,6 @@
 				Es un seguro de vida en grupo de carácter obligatorio para los empleados y asegurados que prestan servicios a un mismo empleador por un lapso de 4 años y opcionalmente, para aquellos trabajadores que prestan servicios a un empleador a partir de los tres meses. El pago del aporte está a cargo de la entidad empleadora.
 				Este seguro se encuentra regulado por el Decreto Legislativo 688, y la reciente Ley N°29549, y forma parte del programa de consolidación de beneficios sociales, por lo que todas las empresas deben contratar un seguro de vida a favor sus trabajadores.
 
-
-
 			</p>
 
 			<div class="divider divider-secondary">
@@ -56,7 +53,7 @@
 							
 						<div id="collapse2PrimaryOne" class="accordion-body collapse in">
 							<div class="panel-body">
-							La cobertura individual respecto a cada Asegurado se inicia a partir del día en que éste hubiera sido declarado por primera vez como Asegurado del Contratante. La cobertura se mantendrá vigente en tanto: (I) La póliza se mantenga vigente, (II) el asegurado siga perteneciendo a la planilla del Contratante, (III) siempre y cuando el Contratante continúe incluyéndolo en su declaración y (IV) continúe efectuando el pago de la prima correspondiente.
+							La cobertura individual respecto a cada Asegurado se inicia a partir del día en que éste hubiera sido declarado por primera vez como Asegurado del Contratante. La cobertura se mantendrá vigente en tanto: (I) La póliza se mantenga vigente, (II) el asegurado siga perteneciendo a la planilla del Contratante, (III) siempre y cuando el Contratante continúe incluyéndolo en su declaración y (IV) continúe efectuando el pago de la prima correspondiente.<br/><br/>
 
 								<ul class="list list-icons">
 									<li><i class="fa fa-check"></i> <strong>Monto de prima: </strong>Referente al monto de la prima, ésta asciende al aplicar una tasa porcentual (%) a la suma de todas las remuneraciones máximas asegurables de todos los Asegurados amparados en este seguro y dependen del tipo de trabajador que se asegure (empleado, obrero u obrero de alto riesgo).</li>

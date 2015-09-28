@@ -37,35 +37,32 @@ Route::get('seguro-para-personas', function () {
     return view('insurances-for-persons/list-insurances-for-persons');
 });
 
-Route::get('seguro-para-empresas', function () {
-    return view('insurances-for-companies/list-insurances-for-companies');
-});
 
-Route::get('seguro-de-salud', function () {
+Route::get('seguro-para-personas/seguro-de-salud', function () {
     return view('insurances-for-persons/health-insurance');
 });
 
-Route::get('soat', function () {
+Route::get('seguro-para-personas/soat', function () {
     return view('insurances-for-persons/soat');
 });
 
-Route::get('seguro-vehicular', function () {
+Route::get('seguro-para-personas/seguro-vehicular', function () {
     return view('insurances-for-persons/vehicle-insurance');
 });
 
-Route::get('seguro-domiciliario', function () {
+Route::get('seguro-para-personas/seguro-domiciliario', function () {
     return view('insurances-for-persons/safe-house');
 });
 
-Route::get('seguro-oncologico', function () {
+Route::get('seguro-para-personas/seguro-oncologico', function () {
     return view('insurances-for-persons/cancer-insurance');
 });
 
-Route::get('seguro-de-vida', function () {
+Route::get('seguro-para-personas/seguro-de-vida', function () {
     return view('insurances-for-persons/life-insurance');
 });
 
-Route::get('accidentes-personales', function () {
+Route::get('seguro-para-personas/accidentes-personales', function () {
     return view('insurances-for-persons/personal-accident');
 });
 
@@ -77,17 +74,45 @@ End insurances for persons
 Insurances for companies
 */
 
-Route::get('seguro-de-vida-ley', function () {
+Route::get('seguro-para-empresas', function () {
+    return view('insurances-for-companies/list-insurances-for-companies');
+});
+
+Route::get('seguro-para-empresas/seguro-de-vida-ley', function () {
     return view('insurances-for-companies/life-insurance-law');
 });
 
-
-Route::get('seguro-flota-vehicular', function () {
+Route::get('seguro-para-empresas/seguro-de-flota-vehicular', function () {
     return view('insurances-for-companies/vehicle-fleet-insurance');
 });
 
-Route::get('seguro-de-transporte', function () {
+Route::get('seguro-para-empresas/seguro-de-transporte', function () {
     return view('insurances-for-companies/transportation-insurance');
+});
+
+
+Route::get('seguro-para-empresas/responsabilidad-civil-para-hidrocarburos', function () {
+    return view('insurances-for-companies/hydrocarbons');
+});
+
+Route::get('seguro-para-empresas/responsabilidad-civil-general', function () {
+    return view('insurances-for-companies/general');
+});
+
+Route::get('seguro-para-empresas/seguros-de-ingieneria', function () {
+    return view('insurances-for-companies/engineering-insurance');
+});
+
+Route::get('seguro-para-empresas/multiriesgo-pyme', function () {
+    return view('insurances-for-companies/pyme');
+});
+
+Route::get('seguro-para-empresas/eps', function () {
+    return view('insurances-for-companies/eps');
+});
+
+Route::get('seguro-para-empresas/sctr', function () {
+    return view('insurances-for-companies/sctr');
 });
 
 

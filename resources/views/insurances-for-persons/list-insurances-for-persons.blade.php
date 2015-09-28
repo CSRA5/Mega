@@ -1,4 +1,4 @@
-@extends('layouts/layout')
+@extends('layouts/layout-insurances-persons')
 @section('title','Seguro para personas')
 @section('description','')
  
@@ -42,7 +42,7 @@
 			</div>
 			
 					
-				<div class="featured-boxes">
+			<div class="featured-boxes">
 						<div class="row">
 							<div class="col-md-3 col-sm-6">
 								<div class="featured-box featured-box-primary featured-box-effect-1 mt-xlg">
@@ -50,7 +50,7 @@
 										<i class="icon-featured fa fa-heartbeat"></i>
 										<h4 class="text-uppercase">Seguro de salud</h4>
 										<p>Servicio de medicina profesional. Atención médica ambulatoria y hospitalaria.</p>
-										<p><a href="/" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
+										<p><a href="{{ url('seguro-para-personas/seguro-de-salud') }}" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
 							</div>
@@ -60,7 +60,7 @@
 										<i class="icon-featured fa fa-book"></i>
 										<h4 class="text-uppercase">SOAT</h4>
 										<p>Cubre los gastos médicos, tuyos y de terceros, en caso de accidentes de tránsito.</p>
-										<p><a href="/" class="lnk-secondary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
+										<p><a href="{{ url('seguro-para-personas/soat') }}" class="lnk-secondary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
 							</div>
@@ -70,7 +70,7 @@
 										<i class="icon-featured fa fa-automobile"></i>
 										<h4 class="text-uppercase">Seguro vehicular</h4>
 										<p>Cubre los daños producidos por accidentes de vehículos que estén asegurados.</p>
-										<p><a href="/" class="lnk-tertiary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
+										<p><a href="{{ url('seguro-para-personas/seguro-vehicular') }}" class="lnk-tertiary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
 							</div>
@@ -80,7 +80,7 @@
 										<i class="icon-featured fa fa-home"></i>
 										<h4 class="text-uppercase">Seguro domiciliario</h4>
 										<p>Servicio de asistencia domiciliaria ante imprevistos de robo, incendio y otros.</p>
-										<p><a href="/" class="lnk-quaternary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
+										<p><a href="{{ url('seguro-para-personas/seguro-domiciliario') }}" class="lnk-quaternary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
 							</div>
@@ -93,7 +93,7 @@
 										<i  class="icon-featured micon icon-i-social-services"></i>
 										<h4 class="text-uppercase">Seguro de vida</h4>
 										<p>Seguro obligatorio para empleados y asegurados que presten servicio a un mismo empleador.</p>
-										<p><a href="/" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
+										<p><a href="{{ url('seguro-para-personas/seguro-de-vida') }}" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
 							</div>
@@ -103,7 +103,7 @@
 										<i  class="icon-featured micon icon-i-oncology" ></i>
 										<h4 class="text-uppercase">Seguro oncológico</h4>
 										<p>Cubre los gastos del tratamiento contra el cáncer, tanto hospitalario como ambulatorio.</p>
-										<p><a href="/" class="lnk-secondary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
+										<p><a href="{{ url('seguro-para-personas/seguro-oncologico') }}" class="lnk-secondary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
 							</div>
@@ -113,7 +113,7 @@
 										<i class="icon-featured micon icon-i-intensive-care"></i>
 										<h4 class="text-uppercase">Accidentes personales</h4>
 										<p>Protege a tu familia y a ti de los gastos y molestias que genera un accidente.</p>
-										<p><a href="/" class="lnk-tertiary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
+										<p><a href="{{ url('seguro-para-personas/accidentes-personales') }}" class="lnk-tertiary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
 							</div>
@@ -123,7 +123,7 @@
 										<i class="icon-featured micon icon-i-billing"></i>
 										<h4 class="text-uppercase">Rapiseguros</h4>
 										<p>Ofrece diversos tipos de indemnización de manera simple y económica, debido a su bajo costo.</p>
-										<p><a href="/" class="lnk-quaternary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
+										<p><a href="{{ url('seguro-para-personas/rapiseguros') }}" class="lnk-quaternary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
 							</div>
