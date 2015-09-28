@@ -179,14 +179,14 @@
                                             </a>
                                        
                                             <ul class="dropdown-menu">
-                                                <li><a href="{{ url('seguro-de-salud') }}">Seguro de salud</a></li>
-                                                <li><a href="{{ url('soat') }}">SOAT</a></li>
-                                                <li><a href="{{ url('seguro-vehicular') }}">Seguro vehicular</a></li>
-                                                <li><a href="{{ url('seguro-domiciliario') }}">Seguro domiciliario</a></li>
-                                                <li><a href="{{ url('seguro-oncologico') }}">Seguro oncológico</a></li>
-                                                <li><a href="{{ url('seguro-de-vida') }}">Seguro de vida</a></li>
-                                                <li><a href="{{ url('accidentes-personales') }}">Accidentes personales</a></li>
-                                                <li><a href="{{ url('rapiseguros') }}">Rapiseguros</a></li>
+                                                <li><a href="{{ url('seguro-para-personas/seguro-de-salud') }}">Seguro de salud</a></li>
+                                                <li><a href="{{ url('seguro-para-personas/soat') }}">SOAT</a></li>
+                                                <li><a href="{{ url('seguro-para-personas/seguro-vehicular') }}">Seguro vehicular</a></li>
+                                                <li><a href="{{ url('seguro-para-personas/seguro-domiciliario') }}">Seguro domiciliario</a></li>
+                                                <li><a href="{{ url('seguro-para-personas/seguro-oncologico') }}">Seguro oncológico</a></li>
+                                                <li><a href="{{ url('seguro-personas/seguro-de-vida') }}">Seguro de vida</a></li>
+                                                <li><a href="{{ url('seguro-para-personas/accidentes-personales') }}">Accidentes personales</a></li>
+                                                <li><a href="{{ url('seguro-para-personas/rapiseguros') }}">Rapiseguros</a></li>
                                             </ul>
                                         </li>
 

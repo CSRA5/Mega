@@ -66,6 +66,10 @@ Route::get('seguro-para-personas/accidentes-personales', function () {
     return view('insurances-for-persons/personal-accident');
 });
 
+Route::get('seguro-para-personas/rapiseguros', function () {
+    return view('insurances-for-persons/rapiseguros');
+});
+
 /*
 End insurances for persons
 */
