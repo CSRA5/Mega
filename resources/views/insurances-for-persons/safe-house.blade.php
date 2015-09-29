@@ -100,7 +100,7 @@
 						<div class="panel-heading">
 							<h4 class="panel-title">
 								<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2Primary" href="#collapse2PrimaryThree">
-									¿Qué cubre?
+									Requisitos
 								</a>
 							</h4>
 						</div>
