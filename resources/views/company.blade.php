@@ -51,7 +51,7 @@
 							</h4>
 						</div>
 							
-						<div id="collapse2PrimaryOne" class="accordion-body collapse">
+						<div id="collapse2PrimaryOne" class="accordion-body collapse in">
 							<div class="panel-body">
 								<p>Ser el mejor aliado de nuestros clientes, brindando la mejor asesoría en la contratación de pólizas de seguros, a fin de satisfacer plenamente sus necesidades y exigencias de seguridad, garantizando la justa compensación económica por riesgos o siniestros que afecten su patrimonio y el de su familia.</p>
 							</div>
