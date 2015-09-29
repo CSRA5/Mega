@@ -143,7 +143,7 @@
 										
 									</span>
 									<span class="thumb-info-caption">
-										<span class="thumb-info-caption-text">fsanchez@megacorredores.pe</span>
+										<span class="thumb-info-caption-text">mcontreras@megacorredores.pe</span>
 										
 									</span>
 								</span>
@@ -156,12 +156,12 @@
 											<img src="img/team/team-3.jpg" class="img-responsive" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Daniel Pretell</span>
-												<span class="thumb-info-type">Ejecutivo de Siniestros</span>
+												<span class="thumb-info-type">Ejecutivo Comercial</span>
 											</span>
 										
 									</span>
 									<span class="thumb-info-caption">
-										<span class="thumb-info-caption-text">fsanchez@megacorredores.pe</span>
+										<span class="thumb-info-caption-text">dpretell@megacorredores.pe</span>
 										
 									</span>
 								</span>
@@ -179,7 +179,7 @@
 										
 									</span>
 									<span class="thumb-info-caption">
-										<span class="thumb-info-caption-text">psanchez@megacorredores.pe</span>
+										<span class="thumb-info-caption-text">egonzales@megacorredores.pe</span>
 										
 									</span>
 								</span>
@@ -192,12 +192,12 @@
 											<img src="img/team/team-8.jpg" class="img-responsive" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Joseph Castillo</span>
-												<span class="thumb-info-type">Ejecutivo de ventas</span>
+												<span class="thumb-info-type">Ejecutivo Comercial</span>
 											</span>
 										
 									</span>
 									<span class="thumb-info-caption">
-										<span class="thumb-info-caption-text">mvaldivia@megacorredores.pe</span>
+										<span class="thumb-info-caption-text">jcastillo@megacorredores.pe</span>
 										
 									</span>
 								</span>
@@ -223,7 +223,7 @@
 										
 									</span>
 									<span class="thumb-info-caption">
-										<span class="thumb-info-caption-text">mvaldivia@megacorredores.pe</span>
+										<span class="thumb-info-caption-text"> acueva@megacorredores.pe</span>
 										
 									</span>
 								</span>
@@ -241,7 +241,7 @@
 										
 									</span>
 									<span class="thumb-info-caption">
-										<span class="thumb-info-caption-text">fsanchez@megacorredores.pe</span>
+										<span class="thumb-info-caption-text">mcabanillas@megacorredores.pe</span>
 										
 									</span>
 								</span>
@@ -259,7 +259,7 @@
 										
 									</span>
 									<span class="thumb-info-caption">
-										<span class="thumb-info-caption-text">psanchez@megacorredores.pe</span>
+										<span class="thumb-info-caption-text">lzavaleta@megacorredores.pe</span>
 										
 									</span>
 								</span>
@@ -277,7 +277,7 @@
 										
 									</span>
 									<span class="thumb-info-caption">
-										<span class="thumb-info-caption-text">mvaldivia@megacorredores.pe</span>
+										<span class="thumb-info-caption-text">fmalqui@megacorredores.pe</span>
 										
 									</span>
 								</span>
@@ -304,7 +304,7 @@
 										
 									</span>
 									<span class="thumb-info-caption">
-										<span class="thumb-info-caption-text">fsanchez@megacorredores.pe</span>
+										<span class="thumb-info-caption-text">splasencia@megacorredores.pe</span>
 										
 									</span>
 								</span>
@@ -321,7 +321,7 @@
 										
 									</span>
 									<span class="thumb-info-caption">
-										<span class="thumb-info-caption-text">psanchez@megacorredores.pe</span>
+										<span class="thumb-info-caption-text">dameth@megacorredores.pe</span>
 										
 									</span>
 								</span>
@@ -333,12 +333,12 @@
 											<img src="img/team/team-9.jpg" class="img-responsive" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Junior Terrones</span>
-												<span class="thumb-info-type">Ejecutivo de ventas</span>
+												<span class="thumb-info-type">Ejecutivo Comercial</span>
 											</span>
 										
 									</span>
 									<span class="thumb-info-caption">
-										<span class="thumb-info-caption-text">mvaldivia@megacorredores.pe</span>
+										<span class="thumb-info-caption-text">jterrones@megacorredores.pe</span>
 										
 									</span>
 								</span>
@@ -356,12 +356,56 @@
 										
 									</span>
 									<span class="thumb-info-caption">
-										<span class="thumb-info-caption-text">mvaldivia@megacorredores.pe</span>
+										<span class="thumb-info-caption-text">pvazquez@megacorredores.pe</span>
 										
 									</span>
 								</span>
 							</li>
 													
+						</ul>
+
+					</div>
+
+
+
+					<div class="row">
+
+						<ul class="team-list sort-destination" data-sort-id="team">
+							<li class="col-md-offset-3 col-md-3 col-sm-6 col-xs-12 isotope-item leadership">
+								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
+									<span class="thumb-info-wrapper">
+										
+											<img src="img/team/team-15.jpg" class="img-responsive" alt="">
+											<span class="thumb-info-title">
+												<span class="thumb-info-inner">Gonzalo Quiroz</span>
+												<span class="thumb-info-type">Ejecutivo Comercial</span>
+											</span>
+										
+									</span>
+									<span class="thumb-info-caption">
+										<span class="thumb-info-caption-text">splasencia@megacorredores.pe</span>
+										
+									</span>
+								</span>
+							</li>
+							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item marketing">
+								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
+									<span class="thumb-info-wrapper">
+										
+											<img src="img/team/team-16.jpg" class="img-responsive" alt="">
+											<span class="thumb-info-title">
+												<span class="thumb-info-inner">Melvin Sanchez</span>
+												<span class="thumb-info-type">Asistente de Siniestros</span>
+											</span>
+										
+									</span>
+									<span class="thumb-info-caption">
+										<span class="thumb-info-caption-text">dameth@megacorredores.pe</span>
+										
+									</span>
+								</span>
+							</li>
+																				
 						</ul>
 
 					</div>

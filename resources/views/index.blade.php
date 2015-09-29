@@ -210,7 +210,7 @@
                                         </li>
 
                                          <li><a href="{{ url('nuestro-equipo')}}">Staff</a></li>
-                                        <li><a href="index.html">Contacto</a></li>
+                                        <li><a href="{{ url('contacto')}}">Contacto</a></li>
 
                                     </ul>
                                 </nav> 
