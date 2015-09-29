@@ -477,7 +477,7 @@
 
 						<div class="col-md-3" data-appear-animation="bounceIn">
 
-									<h5 class="text-semibold text-uppercase mt-lg">Como reaccionar ante una emergencia mientras manejas</h5>
+									<h5 class="text-semibold text-uppercase mt-lg">Cómo reaccionar ante una emergencia mientras manejas</h5>
 									<span class="thumb-info thumb-info-hide-wrapper-bg">
 								<span class="thumb-info-wrapper">
 									<img src="img/home/reco-3.png" class="img-responsive" alt="">
@@ -521,7 +521,7 @@
 				<div class="row center">
 						<div class="col-md-12">
 						<h1 class="mb-sm">
-								Alianzas estrategicas
+								Alianzas estratégicas
 							</h1>
 						</div>
 					</div>
