@@ -443,7 +443,7 @@
 					
 					<div class="row">
 						
-						<div class="col-md-3">
+						<div class="col-md-3" data-appear-animation="bounceIn">
 
 									<h5 class="text-semibold text-uppercase mt-lg">10 Consejos para conducir bien<br/><br/></h5>
 									<span class="thumb-info thumb-info-hide-wrapper-bg">
@@ -459,7 +459,7 @@
 
 						</div>
 
-						<div class="col-md-3">
+						<div class="col-md-3" data-appear-animation="bounceIn">
 
 									<h5 class="text-semibold text-uppercase mt-lg">SOAT y Seguro Vehicular – ¿Cuál debo comprar?</h5>
 									<span class="thumb-info thumb-info-hide-wrapper-bg">
@@ -475,7 +475,7 @@
 
 						</div>
 
-						<div class="col-md-3">
+						<div class="col-md-3" data-appear-animation="bounceIn">
 
 									<h5 class="text-semibold text-uppercase mt-lg">Como reaccionar ante una emergencia mientras manejas</h5>
 									<span class="thumb-info thumb-info-hide-wrapper-bg">
@@ -491,7 +491,7 @@
 
 						</div>
 
-						<div class="col-md-3">
+						<div class="col-md-3" data-appear-animation="bounceIn">
 
 									<h5 class="text-semibold text-uppercase mt-lg">¿Qué hacer frente a un siniestro?<br/><br/></h5>
 									<span class="thumb-info thumb-info-hide-wrapper-bg">

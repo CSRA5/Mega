@@ -66,3 +66,11 @@ End Home
 }
 
 /*End company*/
+
+
+/*Box content */ 
+.box-content p {
+	padding: 0px 10px 0px 10px;
+}
+
+/* End box content*/

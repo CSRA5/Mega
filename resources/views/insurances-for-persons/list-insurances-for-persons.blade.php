@@ -44,7 +44,7 @@
 					
 			<div class="featured-boxes">
 						<div class="row">
-							<div class="col-md-3 col-sm-6">
+							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-primary featured-box-effect-1 mt-xlg">
 									<div class="box-content">
 										<i class="icon-featured fa fa-heartbeat"></i>
@@ -54,7 +54,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 col-sm-6">
+							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-secondary featured-box-effect-1 mt-xlg">
 									<div class="box-content">
 										<i class="icon-featured fa fa-book"></i>
@@ -64,7 +64,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 col-sm-6">
+							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-tertiary featured-box-effect-1 mt-xlg">
 									<div class="box-content">
 										<i class="icon-featured fa fa-automobile"></i>
@@ -74,7 +74,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 col-sm-6">
+							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-quaternary featured-box-effect-1 mt-xlg">
 									<div class="box-content">
 										<i class="icon-featured fa fa-home"></i>
@@ -87,7 +87,7 @@
 						</div>
 
 						<div class="row">
-							<div class="col-md-3 col-sm-6">
+							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-primary featured-box-effect-1 mt-xlg">
 									<div class="box-content">
 										<i  class="icon-featured micon icon-i-social-services"></i>
@@ -97,7 +97,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 col-sm-6">
+							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-secondary featured-box-effect-1 mt-xlg">
 									<div class="box-content">
 										<i  class="icon-featured micon icon-i-oncology" ></i>
@@ -107,7 +107,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 col-sm-6">
+							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-tertiary featured-box-effect-1 mt-xlg">
 									<div class="box-content">
 										<i class="icon-featured micon icon-i-intensive-care"></i>
@@ -117,7 +117,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 col-sm-6">
+							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-quaternary featured-box-effect-1 mt-xlg">
 									<div class="box-content">
 										<i class="icon-featured micon icon-i-billing"></i>
