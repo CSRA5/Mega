@@ -1,4 +1,4 @@
-@extends('layouts/layout-insurances')
+@extends('layouts/layout')
 @section('title','Seguro para personas')
 @section('description','')
  

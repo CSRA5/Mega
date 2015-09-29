@@ -122,5 +122,16 @@ Route::get('seguro-para-empresas/sctr', function () {
 
 
 /*
+End Insurances for companies
+*/
 
+
+/*
+Team
+*/
+Route::get('nuestro-equipo', function () {
+    return view('team');
+});
+
+/*
 */

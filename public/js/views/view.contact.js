@@ -1,9 +1,4 @@
-/*
-Name: 			View - Contact
-Written by: 	Okler Themes - (http://www.okler.net)
-Version: 		4.1.1
-*/
-
+ 
 (function($) {
 
 	'use strict';
@@ -28,7 +23,7 @@ Version: 		4.1.1
 				data: {
 					name: $form.find('#name').val(),
 					email: $form.find('#email').val(),
-					subject: $form.find('#subject').val(),
+					phone: $form.find('#phone').val(),
 					message: $form.find('#message').val()
 				},
 				dataType: 'json',
@@ -82,31 +77,6 @@ Version: 		4.1.1
 		}
 	});
 
-	/*
-	Contact Form: Advanced
-	*/
-	$('#contactFormAdvanced, #contactForm[data-type=advanced]').validate({
-		onkeyup: false,
-		onclick: false,
-		onfocusout: false,
-		rules: {
-			'captcha': {
-				captcha: true
-			},
-			'checkboxes[]': {
-				required: true
-			},
-			'radios': {
-				required: true
-			}
-		},
-		errorPlacement: function(error, element) {
-			if (element.attr('type') == 'radio' || element.attr('type') == 'checkbox') {
-				error.appendTo(element.parent().parent());
-			} else {
-				error.insertAfter(element);
-			}
-		}
-	});
+	
 
 }).apply(this, [jQuery]);

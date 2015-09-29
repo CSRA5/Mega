@@ -153,7 +153,7 @@
                                             </ul>
                                         </li>
 
-                                        <li><a href="index.html">Staff</a></li>
+                                      <li><a href="{{ url('nuestro-equipo')}}">Staff</a></li>
                                         <li><a href="index.html">Contacto</a></li>
 
                                     </ul>
@@ -165,6 +165,73 @@
                 </div>
 
                  @yield('content')
+				
+				<div class="divider divider-secondary">
+					<i class="fa fa-chevron-down"></i>
+				</div>
+
+ 				<section class="contact-insurances">
+ 			 		<div class="container">
+
+ 			 			<div class="row center">
+							<div class="col-md-12">
+								<h1 class="mb-sm">Escríbenos para mas información</h1>
+							</div>
+						</div>
+
+							<div class="alert alert-success hidden" id="contactSuccess">
+								<strong>Exito!</strong> Tu mensaje ha sido enviado.
+							</div>
+
+							<div class="alert alert-danger hidden" id="contactError">
+								<strong>Error!</strong> Hubo un error al enviar tu mensaje, por favor intentalo nuevamente.</div>
+							 
+							<form id="contactForm" action="{{ asset('php/contact-form.php') }}" method="POST">
+								<div class="row">
+
+									<div class="col-md-6">
+										<div class="form-group">
+											
+												<label>Nombre *</label>
+												<input type="text" value="" data-msg-required=" " maxlength="100" class="form-control" name="name" id="name" required>
+											 											 
+												<label>Email *</label>
+												<input type="email" value="" data-msg-required=" " data-msg-email=" " maxlength="100" class="form-control" name="email" id="email" required>
+
+												<label>Telefono *</label>
+												<input type="text" value="" data-msg-required=" " maxlength="100" class="form-control" name="phone" id="phone" required>
+											 
+											 
+										</div>
+									</div>
+
+									<div class="col-md-6">
+										<div class="row">
+											<div class="form-group">
+												<div class="col-md-12">
+													<label>Mensaje</label>
+													<textarea maxlength="5000" data-msg-required="Por favor escribe un pequeño mensaje, no es obligatorio." rows="4" class="form-control" name="message" id="message" required></textarea>
+												</div>
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="form-group">
+												<div class="col-md-12">
+													<input type="submit" value="Enviar" class="btn btn-3d btn-primary btn-lg" data-loading-text="Loading...">
+												</div>
+											</div>
+										</div>
+
+									</div>
+							 									 
+								</div>
+								 
+							</form>	 
+									
+						</div>
+						 
+ 				</section>        		
 
 		<section class="section section-default">
 				
@@ -425,13 +492,8 @@
         <script src="{{ asset('js/theme.js') }}"></script>   
         
         <!-- Specific Page Vendor and Views -->
-        
-        <script src="{{ asset('vendor/circle-flip-slideshow/js/jquery.flipshow.js') }}"></script>
-        <script src="{{ asset('js/views/view.home.js') }}"></script>
-        
-        <script src="{{ asset('vendor/rs-plugin/js/jquery.themepunch.tools.min.js') }}"></script>
-        <script src="{{ asset('vendor/rs-plugin/js/jquery.themepunch.revolution.min.js') }}"></script>
-        
+        <script src= "{{ asset('js/views/view.contact.js') }}" ></script>
+                
        
         <!-- Theme Custom -->
         <script src="{{ asset('js/custom.js') }}"></script>

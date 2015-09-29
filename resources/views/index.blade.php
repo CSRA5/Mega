@@ -209,7 +209,7 @@
                                             </ul>
                                         </li>
 
-                                        <li><a href="index.html">Staff</a></li>
+                                         <li><a href="{{ url('nuestro-equipo')}}">Staff</a></li>
                                         <li><a href="index.html">Contacto</a></li>
 
                                     </ul>
@@ -254,7 +254,7 @@
 								<p class="lead">
 									Organización MEGA Corredores de Seguros SAC, se constituye como un nexo entre las diferentes compañías de seguros del país y nuestros clientes, brindando un servicio eficaz, puntual y adecuándonos a los requerimientos y planes que nos soliciten.
 								</p>
-								<a class="tp-caption customin btn btn-3d btn-secondary btn-lg">
+								<a href="{{ url('empresa') }}" class="tp-caption customin btn btn-3d btn-secondary btn-lg">
 										Ver más
 								</a>
 							</div>

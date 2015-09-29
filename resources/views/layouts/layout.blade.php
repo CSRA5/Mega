@@ -143,7 +143,7 @@
                                             </ul>
                                         </li>
 
-                                        <li><a href="index.html">Staff</a></li>
+                                        <li><a href="{{ url('nuestro-equipo')}}">Staff</a></li>
                                         <li><a href="index.html">Contacto</a></li>
 
                                     </ul>
