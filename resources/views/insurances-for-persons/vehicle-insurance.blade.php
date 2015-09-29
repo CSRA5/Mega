@@ -13,7 +13,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<ul class="breadcrumb">
-							<li><a href="#">Inicio</a></li>
+							<li><a href="{{url('/')}}" class="a-color">Inicio</a></li>
 							<li class="active">Seguro vehicular</li>
 						</ul>
 					</div>
@@ -53,8 +53,8 @@
 						<div id="collapse2PrimaryOne" class="accordion-body collapse in">
 							<div class="panel-body">
 								<ul class="list list-icons">
-										<li><i class="fa fa-check"></i><strong>Daños personales:</strong>Comprende indemnizaciones por muerte, invalidez, e incapacidad de las víctimas del accidente, así como también pago de gastos      de atención médica y de recuperación o rehabilitación. </li>
-										<li><i class="fa fa-check"></i><strong>Daños materiales:</strong>Comprende la reparación de partes del vehículo o su reemplazo, así como la indemnización a terceros por los perjuicios      ocasionados por el asegurado a terceros en su patrimonio, como consecuencia del accidente.</li>
+										<li><i class="fa fa-check"></i><strong>Daños personales:</strong> Comprende indemnizaciones por muerte, invalidez, e incapacidad de las víctimas del accidente, así como también pago de gastos      de atención médica y de recuperación o rehabilitación. </li>
+										<li><i class="fa fa-check"></i><strong>Daños materiales:</strong> Comprende la reparación de partes del vehículo o su reemplazo, así como la indemnización a terceros por los perjuicios      ocasionados por el asegurado a terceros en su patrimonio, como consecuencia del accidente.</li>
 										
 								</ul>
 							</div>
@@ -78,7 +78,7 @@
 							<div class="panel-body">
 							En los contratos de seguros vehiculares es común encontrar alguno de estos dos términos. Pasamos a explicarlos:
 								<ul class="list list-icons">
-										<li><i class="fa fa-check"></i><strong>Franquicia:</strong>Es el monto mínimo que cubrirá la compañía. Si el daño producido no iguala o sobrepasa dicho monto, la aseguradora no efectuará      ningún pago.</li>
+										<li><i class="fa fa-check"></i><strong>Franquicia:</strong> Es el monto mínimo que cubrirá la compañía. Si el daño producido no iguala o sobrepasa dicho monto, la aseguradora no efectuará      ningún pago.</li>
 										<li><i class="fa fa-check"></i> <strong>Deducible:</strong> En este caso la compañía cubre el siniestro, pero según lo acordado, el asegurado deberá pagar un monto o porcentaje del daño,      según haya sido pactado en el contrato.</li>
 										 
 								</ul>

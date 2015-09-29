@@ -13,7 +13,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<ul class="breadcrumb">
-							<li><a href="#">Inicio</a></li>
+							<li><a href="{{url('/')}}" class="a-color">Inicio</a></li>
 							<li class="active">Seguro de salud</li>
 						</ul>
 					</div>
@@ -81,7 +81,7 @@
 						<div id="collapse2PrimaryTwo" class="accordion-body collapse">
 							<div class="panel-body">
 								<ul class="list list-icons">
-										<li><i class="fa fa-check"></i><strong>Enfermedades preexistentes:</strong> Aquellas condiciones de salud o enfermedades que se han iniciado o diagnosticado antes de la      contratación de la póliza, o dentro del período de carencia.</li>
+										<li><i class="fa fa-check"></i><strong>Enfermedades preexistentes:</strong> Aquellas condiciones de salud o enfermedades que se han iniciado o diagnosticado antes de la      contratación de la póliza, o dentro del periodo de carencia.</li>
 										<li><i class="fa fa-check"></i><strong>Medicamentos experimentales:</strong> Cualesquiera que no hayan sido aprobados por la FDA (Foods and Drugs Administration) de      Estados Unidos, o que hayan sido prescritos para enfermedades diferentes a las aprobadas originalmente.</li>
 										<li><i class="fa fa-check"></i><strong>Tratamientos experimentales:</strong> Los que no hayan sido aprobados como tratamientos estándares en la PDQ (Physician Data      Query), de la National Cancer Institute (NCI) de Estados Unidos; o en la Clinical Guidelines in Oncology de los protocolos de la      National Comprehensive Cancer Network (NCCN) de Estados Unidos.</li>
 										<li><i class="fa fa-check"></i><strong>Procedimientos estéticos:</strong> Todas aquellas intervenciones quirúrgicas y/o procedimientos de cirugía plástica, reconstructiva o      reparadora con fines estéticos. Sin embargo, para casos de cáncer de mama que involucren mastectomía radical, se cubre la      reconstrucción mamaria como parte del tratamiento integral.</li>

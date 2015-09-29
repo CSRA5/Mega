@@ -13,7 +13,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<ul class="breadcrumb">
-							<li><a href="#">Inicio</a></li>
+							<li><a href="{{url('/')}}" class="a-color">Inicio</a></li>
 							<li class="active">SOAT</li>
 						</ul>
 					</div>
@@ -83,8 +83,8 @@
 										<li><i class="fa fa-check"></i>Muerte c/u (límite por persona 4 UIT). </li>
 										<li><i class="fa fa-check"></i>Invalidez Permanente c/u (límite por persona hasta 4 UIT).</li>
 										<li><i class="fa fa-check"></i>Incapacidad Temporal c/u (a razón de 1/30 de la remuneración mínima vital por cada una) Límite por persona hasta 1 UIT.</li>
-										<li><i class="fa fa-check"></i>>Gastos de atención médica, hospitalaria, quirúrgica y farmacéutica c/u (límite por persona hasta 5 UIT).</li>
-										<li><i class="fa fa-check"></i>Sepelio (límite por persona 1UIT)</li>
+										<li><i class="fa fa-check"></i>Gastos de atención médica, hospitalaria, quirúrgica y farmacéutica c/u (límite por persona hasta 5 UIT).</li>
+										<li><i class="fa fa-check"></i>Sepelio (límite por persona 1 UIT)</li>
 								</ul>
 							</div>
 						</div>

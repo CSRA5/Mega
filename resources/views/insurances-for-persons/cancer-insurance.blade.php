@@ -13,7 +13,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<ul class="breadcrumb">
-							<li><a href="#">Inicio</a></li>
+							<li><a href="{{url('/')}}" class="a-color">Inicio</a></li>
 							<li class="active">Seguro oncológico</li>
 						</ul>
 					</div>
@@ -31,7 +31,7 @@
 	<div class="container">
 				
 			<p>
-				El Seguro Oncológico cubre los gastos del tratamiento contra el cáncer, tanto hospitalario como ambulatorio, en una amplia red de clínicas y centros especializados a nivel nacional. Los seguros oncológicos incluyen un programa de prevención, con citas regulares y chequeos médicos que tienen dos metas. La primera, diagnosticar en una etapa temprana el cáncer y obtener mayores posibilidades de éxito. Y, la segunda, evitar tratamientos largos y complejos a nuestros asegurados. 
+				El Seguro Oncológico cubre los gastos del tratamiento contra el cáncer, tanto hospitalario como ambulatorio, en una amplia red de clínicas y centros especializados a nivel nacional. Los seguros oncológicos incluyen un programa de prevención, con citas regulares y chequeos médicos que tienen dos metas. La primera, diagnosticar en una etapa temprana el cáncer y obtener mayores posibilidades de éxito. Segunda, evitar tratamientos largos y complejos a nuestros asegurados. 
 
 			</p>
 
