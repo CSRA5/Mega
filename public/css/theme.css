@@ -1156,6 +1156,7 @@ html:not(.sticky-header-active) #header.header-transparent-sticky-deactive .head
 	background: none;
 	margin: -3px 0 0;
 	padding: 0;
+	font-size: 16px;
 }
 
 .page-header .breadcrumb > li {

@@ -69,7 +69,7 @@
                                     <div class="header-column">
                                         <div class="header-logo">
                                             <a href="{{ url('/')}}">
-                                                <img alt="Mega Corredores" width="141" height="75" src="{{ asset('img/logo.png') }}">
+                                                <img alt="Mega Corredores" width="181" height="90" src="{{ asset('img/logo.png') }}">
                                             </a>
                                         </div>
                                     </div>

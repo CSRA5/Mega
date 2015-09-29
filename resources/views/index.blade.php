@@ -152,7 +152,7 @@
 									<div class="header-column">
 										<div class="header-logo">
 											<a href="index.html">
-												<img alt="Mega Corredores" width="141" height="75" src="img/logo.png">
+												<img alt="Mega Corredores" width="181" height="90" src="img/logo.png">
 											</a>
 										</div>
 									</div>
