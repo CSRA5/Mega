@@ -149,23 +149,24 @@
 								</span>
 							</li>
 
-							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item leadership">
+							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item marketing">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
-										
-											<img src="img/team/team-3.jpg" class="img-responsive" alt="">
+									
+											<img src="img/team/team-10.jpg" class="img-responsive" alt="">
 											<span class="thumb-info-title">
-												<span class="thumb-info-inner">Daniel Pretell</span>
-												<span class="thumb-info-type">Ejecutivo Comercial</span>
+												<span class="thumb-info-inner">Luz Zavaleta</span>
+												<span class="thumb-info-type">Asit. Administrativa</span>
 											</span>
 										
 									</span>
 									<span class="thumb-info-caption">
-										<span class="thumb-info-caption-text">dpretell@megacorredores.pe</span>
+										<span class="thumb-info-caption-text">lzavaleta@megacorredores.pe</span>
 										
 									</span>
 								</span>
 							</li>
+
 
 							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item marketing">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
@@ -184,20 +185,20 @@
 									</span>
 								</span>
 							</li>
-
-							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item development">
+							
+							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item marketing">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
-											<img src="img/team/team-8.jpg" class="img-responsive" alt="">
+											<img src="img/team/team-16.jpg" class="img-responsive" alt="">
 											<span class="thumb-info-title">
-												<span class="thumb-info-inner">Joseph Castillo</span>
-												<span class="thumb-info-type">Ejecutivo Comercial</span>
+												<span class="thumb-info-inner">Melvin Sanchez</span>
+												<span class="thumb-info-type">Asistente de Siniestros</span>
 											</span>
 										
 									</span>
 									<span class="thumb-info-caption">
-										<span class="thumb-info-caption-text">jcastillo@megacorredores.pe</span>
+										<span class="thumb-info-caption-text">dameth@megacorredores.pe</span>
 										
 									</span>
 								</span>
@@ -229,42 +230,6 @@
 								</span>
 							</li>
 
-							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item leadership">
-								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
-									<span class="thumb-info-wrapper">
-										
-											<img src="img/team/team-11.jpg" class="img-responsive" alt="">
-											<span class="thumb-info-title">
-												<span class="thumb-info-inner">Massiel Cabanillas</span>
-												<span class="thumb-info-type">Secretaria</span>
-											</span>
-										
-									</span>
-									<span class="thumb-info-caption">
-										<span class="thumb-info-caption-text">mcabanillas@megacorredores.pe</span>
-										
-									</span>
-								</span>
-							</li>
-
-							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item marketing">
-								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
-									<span class="thumb-info-wrapper">
-									
-											<img src="img/team/team-10.jpg" class="img-responsive" alt="">
-											<span class="thumb-info-title">
-												<span class="thumb-info-inner">Luz Zavaleta</span>
-												<span class="thumb-info-type">Asit. Administrativa</span>
-											</span>
-										
-									</span>
-									<span class="thumb-info-caption">
-										<span class="thumb-info-caption-text">lzavaleta@megacorredores.pe</span>
-										
-									</span>
-								</span>
-							</li>
-
 							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item development">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
@@ -283,15 +248,6 @@
 								</span>
 							</li>
 
-
-													
-						</ul>
-
-					</div>
-
-					<div class="row">
-
-						<ul class="team-list sort-destination" data-sort-id="team">
 							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item leadership">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
@@ -309,6 +265,51 @@
 									</span>
 								</span>
 							</li>
+						
+							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item development">
+								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
+									<span class="thumb-info-wrapper">
+										
+											<img src="img/team/team-8.jpg" class="img-responsive" alt="">
+											<span class="thumb-info-title">
+												<span class="thumb-info-inner">Joseph Castillo</span>
+												<span class="thumb-info-type">Ejecutivo Comercial</span>
+											</span>
+										
+									</span>
+									<span class="thumb-info-caption">
+										<span class="thumb-info-caption-text">jcastillo@megacorredores.pe</span>
+										
+									</span>
+								</span>
+							</li>
+													
+						</ul>
+
+					</div>
+
+					<div class="row">
+
+						<ul class="team-list sort-destination" data-sort-id="team">
+							
+							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item leadership">
+								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
+									<span class="thumb-info-wrapper">
+										
+											<img src="img/team/team-3.jpg" class="img-responsive" alt="">
+											<span class="thumb-info-title">
+												<span class="thumb-info-inner">Daniel Pretell</span>
+												<span class="thumb-info-type">Ejecutivo Comercial</span>
+											</span>
+										
+									</span>
+									<span class="thumb-info-caption">
+										<span class="thumb-info-caption-text">dpretell@megacorredores.pe</span>
+										
+									</span>
+								</span>
+							</li>
+
 							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item marketing">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
@@ -343,35 +344,8 @@
 									</span>
 								</span>
 							</li>
-
-							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item development">
-								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
-									<span class="thumb-info-wrapper">
-										
-											<img src="img/team/team-14.jpg" class="img-responsive" alt="">
-											<span class="thumb-info-title">
-												<span class="thumb-info-inner">Pedro Vásquez</span>
-												<span class="thumb-info-type">Conserje</span>
-											</span>
-										
-									</span>
-									<span class="thumb-info-caption">
-										<span class="thumb-info-caption-text">pvazquez@megacorredores.pe</span>
-										
-									</span>
-								</span>
-							</li>
-													
-						</ul>
-
-					</div>
-
-
-
-					<div class="row">
-
-						<ul class="team-list sort-destination" data-sort-id="team">
-							<li class="col-md-offset-3 col-md-3 col-sm-6 col-xs-12 isotope-item leadership">
+							
+							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item leadership">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
@@ -388,23 +362,52 @@
 									</span>
 								</span>
 							</li>
-							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item marketing">
+													
+						</ul>
+
+					</div>
+
+
+					<div class="row">
+
+						<ul class="team-list sort-destination" data-sort-id="team">
+							<li class=" col-md-offset-3 col-md-3 col-sm-6 col-xs-12 isotope-item development">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
-											<img src="img/team/team-16.jpg" class="img-responsive" alt="">
+											<img src="img/team/team-14.jpg" class="img-responsive" alt="">
 											<span class="thumb-info-title">
-												<span class="thumb-info-inner">Melvin Sanchez</span>
-												<span class="thumb-info-type">Asistente de Siniestros</span>
+												<span class="thumb-info-inner">Pedro Vásquez</span>
+												<span class="thumb-info-type">Conserje</span>
 											</span>
 										
 									</span>
 									<span class="thumb-info-caption">
-										<span class="thumb-info-caption-text">dameth@megacorredores.pe</span>
+										<span class="thumb-info-caption-text">pvazquez@megacorredores.pe</span>
 										
 									</span>
 								</span>
 							</li>
+							
+							
+							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item leadership">
+								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
+									<span class="thumb-info-wrapper">
+										
+											<img src="img/team/team-11.jpg" class="img-responsive" alt="">
+											<span class="thumb-info-title">
+												<span class="thumb-info-inner">Massiel Cabanillas</span>
+												<span class="thumb-info-type">Secretaria</span>
+											</span>
+										
+									</span>
+									<span class="thumb-info-caption">
+										<span class="thumb-info-caption-text">mcabanillas@megacorredores.pe</span>
+										
+									</span>
+								</span>
+							</li>
+
 																				
 						</ul>
 
@@ -433,7 +436,7 @@
 				
 				<div class="featured-boxes">
 						<div class="row">
-							<div class="col-md-3 col-sm-6">
+							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-primary featured-box-effect-1 mt-xlg">
 									<div class="box-content">
 										<i class="icon-featured fa fa-heartbeat"></i>
@@ -443,7 +446,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 col-sm-6">
+							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-secondary featured-box-effect-1 mt-xlg">
 									<div class="box-content">
 										<i class="icon-featured fa fa-book"></i>
@@ -453,7 +456,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 col-sm-6">
+							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-tertiary featured-box-effect-1 mt-xlg">
 									<div class="box-content">
 										<i class="icon-featured fa fa-automobile"></i>
@@ -463,7 +466,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 col-sm-6">
+							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-quaternary featured-box-effect-1 mt-xlg">
 									<div class="box-content">
 										<i class="icon-featured fa fa-home"></i>
@@ -476,7 +479,7 @@
 						</div>
 
 						<div class="row">
-							<div class="col-md-3 col-sm-6">
+							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-primary featured-box-effect-1 mt-xlg">
 									<div class="box-content">
 										<i class="icon-featured fa fa-stethoscope"></i>
@@ -486,7 +489,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 col-sm-6">
+							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-secondary featured-box-effect-1 mt-xlg">
 									<div class="box-content">
 										<i class="icon-featured fa fa-bus"></i>
@@ -496,7 +499,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 col-sm-6">
+							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-tertiary featured-box-effect-1 mt-xlg">
 									<div class="box-content">
 										<i class="icon-featured fa fa-user-md"></i>
@@ -506,7 +509,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-3 col-sm-6">
+							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-quaternary featured-box-effect-1 mt-xlg">
 									<div class="box-content">
 										<i class="icon-featured fa fa-building"></i>
