@@ -114,14 +114,20 @@
 						<div id="collapse2PrimaryFour" class="accordion-body collapse">
 							<div class="panel-body">
 								<ul class="list list-icons">
-										<li><i class="fa fa-check"></i> Fidelización</li>
-										<li><i class="fa fa-check"></i>Calidad</li>
-										<li><i class="fa fa-check"></i> Igualdad</li>
-										<li><i class="fa fa-check"></i> Desarrollo</li>
-										<li><i class="fa fa-check"></i> Honestidad</li>
-										<li><i class="fa fa-check"></i> Comunicación</li>
-										<li><i class="fa fa-check"></i> Planificación</li>
-										<li><i class="fa fa-check"></i> Valor Agregado</li>
+									<div class="row">
+										<div class="col-md-2">
+											<li><i class="fa fa-check"></i>Fidelización</li>
+											<li><i class="fa fa-check"></i>Calidad</li>
+											<li><i class="fa fa-check"></i>Igualdad</li>
+											<li><i class="fa fa-check"></i>Desarrollo</li>
+										</div>
+										<div class="col-md-3">
+											<li><i class="fa fa-check"></i>Honestidad</li>
+											<li><i class="fa fa-check"></i>Comunicación</li>
+											<li><i class="fa fa-check"></i>Planificación</li>
+											<li><i class="fa fa-check"></i>Valor Agregado</li>
+										</div>
+									</div>
 								</ul>
 							</div>
 						</div>
