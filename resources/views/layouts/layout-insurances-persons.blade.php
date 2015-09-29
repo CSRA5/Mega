@@ -176,7 +176,7 @@
 
  			 			<div class="row center">
 							<div class="col-md-12">
-								<h1 class="mb-sm">Escríbenos para mas información</h1>
+								<h1 class="mb-sm">Escríbenos para más información</h1>
 							</div>
 						</div>
 
@@ -199,7 +199,7 @@
 												<label>Email *</label>
 												<input type="email" value="" data-msg-required=" " data-msg-email=" " maxlength="100" class="form-control" name="email" id="email" required>
 
-												<label>Telefono *</label>
+												<label>Teléfono *</label>
 												<input type="text" value="" data-msg-required=" " maxlength="100" class="form-control" name="phone" id="phone" required>
 											 
 											 
