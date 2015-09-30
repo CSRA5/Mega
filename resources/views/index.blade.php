@@ -184,7 +184,7 @@
                                                 <li><a href="{{ url('seguro-para-personas/seguro-vehicular') }}">Seguro vehicular</a></li>
                                                 <li><a href="{{ url('seguro-para-personas/seguro-domiciliario') }}">Seguro domiciliario</a></li>
                                                 <li><a href="{{ url('seguro-para-personas/seguro-oncologico') }}">Seguro oncológico</a></li>
-                                                <li><a href="{{ url('seguro-personas/seguro-de-vida') }}">Seguro de vida</a></li>
+                                                <li><a href="{{ url('seguro-para-personas/seguro-de-vida') }}">Seguro de vida</a></li>
                                                 <li><a href="{{ url('seguro-para-personas/accidentes-personales') }}">Accidentes personales</a></li>
                                                 <li><a href="{{ url('seguro-para-personas/rapiseguros') }}">Rapiseguros</a></li>
                                             </ul>
