@@ -166,6 +166,11 @@
 					</div>
 			</div>
 			
+			@section('insurance')
+			<input type="email" value="Seguros de ingieneria" data-msg-required=" " data-msg-email=" " maxlength="100"  name="insurance" id="insurance" required style="display:none">
+	
+			@endsection
+			
 		</div>
 			
 </section>

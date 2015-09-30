@@ -91,13 +91,13 @@
 					</div>
 			</div>
 			
+		 @section('insurance')
+			<input type="email" value="Seguro de transporte" data-msg-required=" " data-msg-email=" " maxlength="100"  name="insurance" id="insurance" required style="display:none">
+		@endsection
+		
 		</div>
 			
 </section>
 		
-
-</section>
-
-
 	
 @endsection

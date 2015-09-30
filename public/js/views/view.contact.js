@@ -16,6 +16,7 @@
 
 			$submitButton.button('loading');
 
+		 
 			// Ajax Submit
 			$.ajax({
 				type: 'POST',
@@ -24,7 +25,8 @@
 					name: $form.find('#name').val(),
 					email: $form.find('#email').val(),
 					phone: $form.find('#phone').val(),
-					message: $form.find('#message').val()
+					message: $form.find('#message').val(),
+					insurance: $form.find('#insurance').val()
 				},
 				dataType: 'json',
 				complete: function(data) {

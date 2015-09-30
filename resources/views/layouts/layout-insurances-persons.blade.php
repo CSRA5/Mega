@@ -185,7 +185,8 @@
 							</div>
 
 							<div class="alert alert-danger hidden" id="contactError">
-								<strong>Error!</strong> Hubo un error al enviar tu mensaje, por favor intentalo nuevamente.</div>
+								<strong>Error!</strong> Hubo un error al enviar tu mensaje, por favor intentalo nuevamente.
+							</div>
 							 
 							<form id="contactForm" action="{{ asset('php/contact-form.php') }}" method="POST">
 								<div class="row">
@@ -201,7 +202,8 @@
 
 												<label>Teléfono *</label>
 												<input type="text" value="" data-msg-required=" " maxlength="100" class="form-control" name="phone" id="phone" required>
-											 
+
+												 @yield('insurance')										 
 											 
 										</div>
 									</div>
@@ -219,7 +221,7 @@
 										<div class="row">
 											<div class="form-group">
 												<div class="col-md-12">
-													<input type="submit" value="Enviar" class="btn btn-3d btn-primary btn-lg" data-loading-text="Loading...">
+													<input type="submit" value="Enviar Mensaje" class="btn btn-3d btn-secondary btn-lg" data-loading-text="Loading...">
 												</div>
 											</div>
 										</div>

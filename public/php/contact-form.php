@@ -23,23 +23,29 @@ if(isset($_POST['email'])) {
 	$name = $_POST['name'];
 	$email = $_POST['email'];
 	$phone = $_POST['phone'];
+	$insurance= $_POST['insurance'];
 
 	$fields = array(
 		0 => array(
-			'text' => 'Name',
+			'text' => 'Nombre',
 			'val' => $_POST['name']
 		),
 		1 => array(
-			'text' => 'Email address',
+			'text' => 'Email',
 			'val' => $_POST['email']
 		),
 		2 => array(
-			'text' => 'Message',
+			'text' => 'Mensaje',
 			'val' => $_POST['message']
 		),
 		3 => array(
-			'text' => 'Phone',
+			'text' => 'Telefono',
 			'val' => $_POST['phone']
+		),
+
+		4 => array(
+			'text' => 'Tipo de seguro',
+			'val' => $_POST['insurance']
 		)
 
 	);
