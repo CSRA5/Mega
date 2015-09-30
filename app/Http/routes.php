@@ -134,4 +134,15 @@ Route::get('nuestro-equipo', function () {
 });
 
 /*
+End team
+*/
+
+
+/*Contacto*/ 
+Route::get('contacto', function () {
+    return view('contact');
+});
+
+/*
+End contact
 */

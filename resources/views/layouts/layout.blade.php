@@ -235,6 +235,8 @@
         
         <!-- Theme Initialization Files -->
         <script src="{{ asset('js/theme.init.js') }}"></script>
+
+         @yield('script')
     
 
     </body>
