@@ -146,3 +146,26 @@ Route::get('contacto', function () {
 /*
 End contact
 */
+
+
+/* Posts*/ 
+
+Route::get('10-consejos-para-conducir-bien', function () {
+    return view('blog/post-1');
+});
+
+Route::get('soat-y-seguro-vehicular-cual-debo-comprar', function () {
+    return view('blog/post-2');
+});
+
+Route::get('como-reaccionar-ante-una-emergencia-mientras-manejas', function () {
+    return view('blog/post-3');
+});
+
+Route::get('que-hacer-frente-a-un-siniestro', function () {
+    return view('blog/post-4');
+});
+
+
+
+/* En posts*/

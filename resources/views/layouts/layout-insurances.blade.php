@@ -366,7 +366,7 @@
 								</span>
 								<span class="thumb-info-caption text-center">
 									<span class="thumb-info-caption-text">No dejes que el celular, una discusión o un disgusto ocasionen un accidente.</span>
-									<p><a href="/" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p> 
+									<p><a href="{{ url('10-consejos-para-conducir-bien') }}" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p> 
 									</span>
 								</span>
 
@@ -382,7 +382,7 @@
 								</span>
 								<span class="thumb-info-caption text-center">
 									<span class="thumb-info-caption-text">Cuándo son necesarios y qué rol cumplen en nuestra protección.</span>
-									<p><a href="/" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
+									<p><a href="{{ url('soat-y-seguro-vehicular-cual-debo-comprar') }}" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</span>
 								</span>
 
@@ -398,7 +398,7 @@
 								</span>
 								<span class="thumb-info-caption text-center" >
 									<span class="thumb-info-caption-text">Si viajas solo en tu vehículo, no dejes de seguir estás recomendaciones.</span>
-										<p><a href="/" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
+										<p><a href="{{ url('como-reaccionar-ante-una-emergencia-mientras-manejas') }}" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</span>
 								</span>
 
@@ -406,7 +406,7 @@
 
 						<div class="col-md-3" data-appear-animation="bounceIn">
 
-									<h5 class="text-semibold text-uppercase mt-lg">¿Qué hacer frente a un sisniestro?<br/><br/></h5>
+									<h5 class="text-semibold text-uppercase mt-lg">¿Qué hacer frente a un siniestro?<br/><br/></h5>
 									<span class="thumb-info thumb-info-hide-wrapper-bg">
 								<span class="thumb-info-wrapper">
 									<img src="{{ asset('img/home/reco-2.png') }}" class="img-responsive" alt="">
@@ -414,7 +414,7 @@
 								</span>
 								<span class="thumb-info-caption text-center">
 									<span class="thumb-info-caption-text">Mantén la calma y evita que tú o tu vehículo corran riesgos innecesarios.</span>
-										<p><a href="/" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
+										<p><a href="{{ url('que-hacer-frente-a-un-siniestro') }}" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</span>
 								</span>
 
