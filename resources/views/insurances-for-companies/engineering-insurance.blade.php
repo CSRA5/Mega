@@ -35,12 +35,12 @@
 				<i class="fa fa-chevron-down"></i>
 			</div>
 			
-			<div class="panel-group panel-group-primary" id="accordion2Primary">
+			<div class="panel-group panel-group-primary" id="accordion1">
 				
 					<div class="panel panel-default">
 						<div class="panel-heading">
 							<h4 class="panel-title">
-								<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2Primary" href="#collapse2PrimaryOne">
+								<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapse2PrimaryOne">
 									TREC 
 								</a>
 							</h4>
@@ -56,12 +56,12 @@
 					</div>
 			</div>
 
-			<div class="panel-group panel-group-secondary" id="accordion2Primary">
+			<div class="panel-group panel-group-secondary" id="accordion2">
 				
 					<div class="panel panel-default">
 						<div class="panel-heading">
 							<h4 class="panel-title">
-								<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2Primary" href="#collapse2PrimaryTwo">
+								<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapse2PrimaryTwo">
 									Rotura de Maquinaria 
 								</a>
 							</h4>
@@ -85,12 +85,12 @@
 					</div>
 			</div>
 
-			<div class="panel-group panel-group-tertiary" id="accordion2Primary">
+			<div class="panel-group panel-group-tertiary" id="accordion3">
 				
 					<div class="panel panel-default">
 						<div class="panel-heading">
 							<h4 class="panel-title">
-								<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2Primary" href="#collapse2PrimaryThree">
+								<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapse2PrimaryThree">
 									Equipo Electrónico 
 								</a>
 							</h4>
@@ -107,12 +107,12 @@
 					</div>
 			</div>
 
-			<div class="panel-group panel-group-quaternary" id="accordion2Primary">
+			<div class="panel-group panel-group-quaternary" id="accordion4">
 				
 					<div class="panel panel-default">
 						<div class="panel-heading">
 							<h4 class="panel-title">
-								<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2Primary" href="#collapse2PrimaryFour">
+								<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion3" href="#collapse2PrimaryFour">
 									CAR (Seguro para Construcción) 
 								</a>
 							</h4>
@@ -137,12 +137,12 @@
 			</div>
 
 
-			<div class="panel-group panel-group-primary" id="accordion2Primary">
+			<div class="panel-group panel-group-primary" id="accordion5">
 				
 					<div class="panel panel-default">
 						<div class="panel-heading">
 							<h4 class="panel-title">
-								<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2Primary" href="#collapse2PrimaryFive">
+								<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion4" href="#collapse2PrimaryFive">
 									EAR (Seguro para Montaje)  
 								</a>
 							</h4>

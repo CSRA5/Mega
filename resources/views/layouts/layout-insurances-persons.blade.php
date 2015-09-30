@@ -211,7 +211,7 @@
 											<div class="form-group">
 												<div class="col-md-12">
 													<label>Mensaje</label>
-													<textarea maxlength="5000" data-msg-required="Por favor escribe un pequeño mensaje, no es obligatorio." rows="4" class="form-control" name="message" id="message" required></textarea>
+													<textarea maxlength="5000" data-msg-required="Por favor escribe un pequeño mensaje." rows="4" class="form-control" name="message" id="message" required></textarea>
 												</div>
 											</div>
 										</div>

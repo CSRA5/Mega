@@ -37,7 +37,7 @@
 				<i class="fa fa-chevron-down"></i>
 			</div>
 			
-			<div class="panel-group panel-group-primary" id="accordion2Primary">
+			<div class="panel-group panel-group-primary" id="accordion1">
 				
 					<div class="panel panel-default">
 						<div class="panel-heading">
@@ -63,12 +63,12 @@
 					</div>
 			</div>
 
-			<div class="panel-group panel-group-secondary" id="accordion2Primary">
+			<div class="panel-group panel-group-secondary" id="accordion2">
 				
 					<div class="panel panel-default">
 						<div class="panel-heading">
 							<h4 class="panel-title">
-								<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2Primary" href="#collapse2PrimaryTwo">
+								<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapse2PrimaryTwo">
 									¿Qué no cubre?
 								</a>
 							</h4>
@@ -89,12 +89,12 @@
 					</div>
 			</div>
 
-			<div class="panel-group panel-group-quaternary" id="accordion2Primary">
+			<div class="panel-group panel-group-quaternary" id="accordion3">
 				
 					<div class="panel panel-default">
 						<div class="panel-heading">
 							<h4 class="panel-title">
-								<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2Primary" href="#collapse2PrimaryThree">
+								<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapse2PrimaryThree">
 									Periodo de Carencia
 								</a>
 							</h4>
