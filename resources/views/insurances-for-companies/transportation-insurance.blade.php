@@ -14,7 +14,7 @@
 					<div class="col-md-12">
 						<ul class="breadcrumb">
 							<li><a href="{{url('/')}}" class="a-color">Inicio</a></li>
-							<li class="a-color">Seguro de transporte</li>
+							<li class="a-color"><strong>Seguro de transporte</strong></li>
 						</ul>
 					</div>
 				</div>
