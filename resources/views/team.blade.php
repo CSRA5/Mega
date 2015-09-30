@@ -65,23 +65,6 @@
 									</span>
 								</span>
 							</li>
-							<li class="col-md-4 col-sm-6 col-xs-12 isotope-item marketing" data-appear-animation="rotateInUpLeft">
-								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
-									<span class="thumb-info-wrapper">
-										
-											<img src="img/team/team-12.jpg" class="img-responsive" alt="">
-											<span class="thumb-info-title">
-												<span class="thumb-info-inner">Paul Sánchez Ruíz</span>
-												<span class="thumb-info-type">Gerente Comercial</span>
-											</span>
-										
-									</span>
-									<span class="thumb-info-caption">
-										<span class="thumb-info-caption-text">psanchez@megacorredores.pe</span>
-										
-									</span>
-								</span>
-							</li>
 							<li class="col-md-4 col-sm-6 col-xs-12 isotope-item development" data-appear-animation="rotateInUpLeft">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
@@ -99,6 +82,25 @@
 									</span>
 								</span>
 							</li>
+
+							<li class="col-md-4 col-sm-6 col-xs-12 isotope-item marketing" data-appear-animation="rotateInUpLeft">
+								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
+									<span class="thumb-info-wrapper">
+										
+											<img src="img/team/team-12.jpg" class="img-responsive" alt="">
+											<span class="thumb-info-title">
+												<span class="thumb-info-inner">Paul Sánchez Ruíz</span>
+												<span class="thumb-info-type">Gerente Comercial</span>
+											</span>
+										
+									</span>
+									<span class="thumb-info-caption">
+										<span class="thumb-info-caption-text">psanchez@megacorredores.pe</span>
+										
+									</span>
+								</span>
+							</li>
+							
 													
 						</ul>
 
@@ -367,6 +369,7 @@
 					<div class="row">
 
 						<ul class="team-list sort-destination" data-sort-id="team">
+							
 							<li class=" col-md-offset-3 col-md-3 col-sm-6 col-xs-12 isotope-item development" data-appear-animation="rotateInUpLeft">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
@@ -384,7 +387,6 @@
 									</span>
 								</span>
 							</li>
-							
 							
 							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item leadership" data-appear-animation="rotateInUpLeft">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">

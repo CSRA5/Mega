@@ -1,5 +1,5 @@
 @extends('layouts/layout-insurances-persons')
-@section('title','Seguro domiciliario')
+@section('title','Seguro domiciliario-Mega Corredores de Seguros')
 @section('description','')
  
 
@@ -14,15 +14,11 @@
 					<div class="col-md-12">
 						<ul class="breadcrumb">
 							<li><a href="{{url('/')}}" class="a-color">Inicio</a></li>
-							<li class="active">Seguro domiciliario</li>
+							<li class="active"><strong>Seguro domiciliario</strong></li>
 						</ul>
 					</div>
 				</div>
-				<div class="row">
-					<div class="col-md-12">
-						<h1>Seguro domiciliario</h1>
-					</div>
-				</div>
+			
 			</div>
 </section>
 

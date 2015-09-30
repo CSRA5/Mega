@@ -1,5 +1,5 @@
 @extends('layouts/layout-insurances-persons')
-@section('title','SOAT')
+@section('title','SOAT-Mega Corredores de Seguros')
 @section('description','')
  
 

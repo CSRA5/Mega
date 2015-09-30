@@ -1,5 +1,5 @@
 @extends('layouts/layout-insurances')
-@section('title',' Multiriesgo Pyme -Mega Corredores de Seguros')
+@section('title',' Multiriesgo Pyme-Mega Corredores de Seguros')
 @section('description','')
  
 
@@ -14,7 +14,7 @@
 					<div class="col-md-12">
 						<ul class="breadcrumb">
 							<li><a href="{{url('/')}}" class="a-color">Inicio</a></li>
-							<li class="a-color"> <strong></strong>Multiriesgo Pyme </li>
+							<li class="a-color"> <strong>Multiriesgo Pyme</strong> </li>
 						</ul>
 					</div>
 				</div>

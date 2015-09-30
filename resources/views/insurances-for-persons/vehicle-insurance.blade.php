@@ -1,5 +1,5 @@
 @extends('layouts/layout-insurances-persons')
-@section('title','Seguro vehicular')
+@section('title','Seguro vehicular-Mega Corredores de Seguros')
 @section('description','')
  
 
