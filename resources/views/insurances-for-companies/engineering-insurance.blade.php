@@ -14,15 +14,11 @@
 					<div class="col-md-12">
 						<ul class="breadcrumb">
 							<li><a href="{{url('/')}}" class="a-color">Inicio</a></li>
-							<li class="active">Seguros de Ingieneria</li>
+							<li class="a-color"><strong>Seguros de Ingieneria</strong></li>
 						</ul>
 					</div>
 				</div>
-				<div class="row">
-					<div class="col-md-12">
-						<h1>Seguros de Ingieneria</h1>
-					</div>
-				</div>
+				 
 			</div>
 </section>
 

@@ -14,15 +14,11 @@
 					<div class="col-md-12">
 						<ul class="breadcrumb">
 							<li><a href="{{url('/')}}" class="a-color">Inicio</a></li>
-							<li class="active">Nuestro equipo</li>
+							<li class="a-color"><strong>Nuestro equipo</strong></li>
 						</ul>
 					</div>
 				</div>
-				<div class="row">
-					<div class="col-md-12">
-						<h1>Nuestro equipo</h1>
-					</div>
-				</div>
+				
 			</div>
 </section>
 
@@ -52,7 +48,7 @@
 					<div class="row">
 
 						<ul class="team-list sort-destination" data-sort-id="team">
-							<li class="col-md-4 col-sm-6 col-xs-12 isotope-item leadership">
+							<li class="col-md-4 col-sm-6 col-xs-12 isotope-item leadership"  data-appear-animation="rotateInUpLeft">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
@@ -69,7 +65,7 @@
 									</span>
 								</span>
 							</li>
-							<li class="col-md-4 col-sm-6 col-xs-12 isotope-item marketing">
+							<li class="col-md-4 col-sm-6 col-xs-12 isotope-item marketing" data-appear-animation="rotateInUpLeft">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
@@ -86,7 +82,7 @@
 									</span>
 								</span>
 							</li>
-							<li class="col-md-4 col-sm-6 col-xs-12 isotope-item development">
+							<li class="col-md-4 col-sm-6 col-xs-12 isotope-item development" data-appear-animation="rotateInUpLeft">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
@@ -131,7 +127,7 @@
 
 						<ul class="team-list sort-destination" data-sort-id="team">
 
-							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item leadership">
+							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item leadership" data-appear-animation="rotateInUpLeft">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
@@ -149,7 +145,7 @@
 								</span>
 							</li>
 
-							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item marketing">
+							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item marketing" data-appear-animation="rotateInUpLeft">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 									
@@ -168,7 +164,7 @@
 							</li>
 
 
-							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item marketing">
+							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item marketing" data-appear-animation="rotateInUpLeft">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
@@ -186,7 +182,7 @@
 								</span>
 							</li>
 							
-							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item marketing">
+							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item marketing" data-appear-animation="rotateInUpLeft">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
@@ -212,7 +208,7 @@
 
 						<ul class="team-list sort-destination" data-sort-id="team">
 
-							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item development">
+							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item development" data-appear-animation="rotateInUpLeft">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
@@ -230,7 +226,7 @@
 								</span>
 							</li>
 
-							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item development">
+							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item development" data-appear-animation="rotateInUpLeft">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
@@ -248,7 +244,7 @@
 								</span>
 							</li>
 
-							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item leadership">
+							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item leadership" data-appear-animation="rotateInUpLeft">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
@@ -266,7 +262,7 @@
 								</span>
 							</li>
 						
-							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item development">
+							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item development" data-appear-animation="rotateInUpLeft">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
@@ -292,7 +288,7 @@
 
 						<ul class="team-list sort-destination" data-sort-id="team">
 							
-							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item leadership">
+							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item leadership" data-appear-animation="rotateInUpLeft">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
@@ -310,7 +306,7 @@
 								</span>
 							</li>
 
-							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item marketing">
+							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item marketing" data-appear-animation="rotateInUpLeft">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
@@ -327,7 +323,7 @@
 									</span>
 								</span>
 							</li>
-							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item development">
+							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item development" data-appear-animation="rotateInUpLeft">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
@@ -345,7 +341,7 @@
 								</span>
 							</li>
 							
-							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item leadership">
+							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item leadership" data-appear-animation="rotateInUpLeft">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
@@ -371,7 +367,7 @@
 					<div class="row">
 
 						<ul class="team-list sort-destination" data-sort-id="team">
-							<li class=" col-md-offset-3 col-md-3 col-sm-6 col-xs-12 isotope-item development">
+							<li class=" col-md-offset-3 col-md-3 col-sm-6 col-xs-12 isotope-item development" data-appear-animation="rotateInUpLeft">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
@@ -390,7 +386,7 @@
 							</li>
 							
 							
-							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item leadership">
+							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item leadership" data-appear-animation="rotateInUpLeft">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										

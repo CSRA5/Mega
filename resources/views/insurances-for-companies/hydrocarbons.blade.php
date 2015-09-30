@@ -14,15 +14,11 @@
 					<div class="col-md-12">
 						<ul class="breadcrumb">
 							<li><a href="{{url('/')}}" class="a-color">Inicio</a></li>
-							<li class="active">Responsabilidad civil para hidrocarburos</li>
+							<li class="a-color"><strong>Responsabilidad civil para hidrocarburos</strong></li>
 						</ul>
 					</div>
 				</div>
-				<div class="row">
-					<div class="col-md-12">
-						<h1>Responsabilidad civil para hidrocarburos</h1>
-					</div>
-				</div>
+				 
 			</div>
 </section>
 
@@ -39,12 +35,7 @@
 				</ul>
 
 			</p>
-
-			<div class="divider divider-secondary">
-				<i class="fa fa-chevron-down"></i>
-			</div>
-			
-		 
+	 
 		</div>
 			
 </section>

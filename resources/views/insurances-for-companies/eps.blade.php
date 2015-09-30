@@ -14,15 +14,11 @@
 					<div class="col-md-12">
 						<ul class="breadcrumb">
 							<li><a href="{{url('/')}}" class="a-color">Inicio</a></li>
-							<li class="active">EPS </li>
+							<li class="a-color"><strong>EPS</strong> </li>
 						</ul>
 					</div>
 				</div>
-				<div class="row">
-					<div class="col-md-12">
-						<h1> EPS </h1>
-					</div>
-				</div>
+				 
 			</div>
 </section>
 
