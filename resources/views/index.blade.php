@@ -10,7 +10,7 @@
 
 		<meta name="keywords" content="HTML5 Template" />
 		<meta name="description" content="Porto - Responsive HTML5 Template">
-		<meta name="author" content="okler.net">
+		<meta name="author" content="Christian Ramirez"/>
 
 		<!-- Favicon -->
 		<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
@@ -107,7 +107,7 @@
 										 data-easing="easeOutExpo">¿Qué tipo de seguro necesitas? </div>
 									
 									
-									<a class="tp-caption customin btn btn-3d btn-primary btn-lg" data-hash data-hash-offset="85" href="{{ url('seguro-para-personas') }}"
+									<a class="tp-caption customin btn btn-3d btn-primary btn-lg" href="{{ url('seguro-para-personas') }}"
 											data-x="170" data-hoffset="0"
 											data-y="290"
 											data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
@@ -119,7 +119,7 @@
 									</a>
 
 
-									<a class="tp-caption customin btn btn-3d btn-secondary btn-lg" data-hash data-hash-offset="85" href="{{ url('seguro-para-empresas') }}"
+									<a class="tp-caption customin btn btn-3d btn-secondary btn-lg" href="{{ url('seguro-para-empresas') }}"
 											data-x="290" data-hoffset="0"
 											data-y="290"
 											data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
@@ -152,7 +152,7 @@
 									<div class="header-column">
 										<div class="header-logo">
 											<a href="index.html">
-												<img alt="Mega Corredores" width="181" height="90" src="img/logo.png">
+												<img alt="Mega Corredores" class="logo" src="img/logo.png">
 											</a>
 										</div>
 									</div>
@@ -249,7 +249,7 @@
 						<div class="row center">
 							<div class="col-md-12">
 								<div class="heading heading-border heading-middle-border heading-middle-border-center">
-									<h1>Quienes somos</h1>
+									<h1><strong>Quienes somos</strong></h1>
 								</div>
 								<p class="lead">
 									Organización MEGA Corredores de Seguros SAC, se constituye como un nexo entre las diferentes compañías de seguros del país y nuestros clientes, brindando un servicio eficaz, puntual y adecuándonos a los requerimientos y planes que nos soliciten.
@@ -270,7 +270,7 @@
 					<div class="row center">
 						<div class="col-md-12">
 						<h1 class="mb-sm">
-								¿Qué tipo de seguro necesitas?
+								<strong>¿Qué tipo de seguro necesitas?</strong>
 							</h1>
 						</div>
 					</div>
@@ -295,7 +295,7 @@
 										<p>Cubre los gastos médicos, tuyos y de terceros, en caso de accidentes de tránsito.</p>
 										<p><a href="{{ url('seguro-para-personas/soat') }}" class="lnk-secondary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
-								</div>
+								</div>                                                                        
 							</div>
 							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-tertiary featured-box-effect-1 mt-xlg">
@@ -373,11 +373,8 @@
 					
 					<div class="row center">
 						<div class="col-md-12">
-						 
-						 <div class="heading heading-border heading-middle-border heading-middle-border-center">
-							<h1>Atención de siniestros</h1>
-						  <div>
-
+						 <h1 class="mb-sm"><strong>Atención de siniestros</strong></h1>
+												
 						</div>
 					</div>
 
@@ -403,7 +400,7 @@
 							<div class="row center">
 								<div class="col-md-12">
 								<h1 class="mb-sm">
-										Novedades
+										<strong>Novedades</strong>
 									</h1>
 								</div>
 							</div>
@@ -435,7 +432,7 @@
 						<div class="col-md-12">
 						 
 							 <div class="heading heading-border heading-middle-border heading-middle-border-center">
-								<h1>Recomendaciones</h1>
+								<h1 class="mb-sm"><strong>Recomendaciones</strong></h1>
 							 </div>
 
 						</div>
@@ -521,7 +518,7 @@
 				<div class="row center">
 						<div class="col-md-12">
 						<h1 class="mb-sm">
-								Alianzas estratégicas
+								<strong>Alianzas estratégicas</strong>
 							</h1>
 						</div>
 					</div>

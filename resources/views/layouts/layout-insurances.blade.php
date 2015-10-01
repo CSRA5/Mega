@@ -79,7 +79,7 @@
                                     <div class="header-column">
                                         <div class="header-logo">
                                             <a href="{{ url('/')}}">
-                                                <img alt="Mega Corredores" width="181" height="90" src="{{ asset('img/logo.png') }}">
+                                                <img alt="Mega Corredores" class="logo" src="{{ asset('img/logo.png') }}">
                                             </a>
                                         </div>
                                     </div>
@@ -90,7 +90,7 @@
                                         <ul class="nav nav-pills">
                                             
                                             <li class="hidden-xs">
-                                                <a href="contact-us.html"><i class="fa fa-angle-right"></i>informes@megacorredores.pe</a>
+                                                <a href="{{url('contacto') }}"><i class="fa fa-angle-right"></i>informes@megacorredores.pe</a>
                                             </li>
                                             <li>
                                                 <span class="ws-nowrap"><i class="fa fa-phone"></i> 044-22661/ #934488</span>
@@ -175,7 +175,7 @@
 
  			 			<div class="row center">
 							<div class="col-md-12">
-								<h1 class="mb-sm">Escríbenos para más información</h1>
+								<h1 class="mb-sm"><strong>Escríbenos para más información</strong></h1>
 							</div>
 						</div>
 
@@ -242,7 +242,7 @@
 					<div class="row center">
 						<div class="col-md-12">
 						<h1 class="mb-sm">
-								Nuestros seguros para empresas
+								<strong>Nuestros seguros para empresas</strong>
 							</h1>
 						</div>
 					</div>
@@ -348,7 +348,7 @@
 						<div class="col-md-12">
 						 
 							 <div class="heading heading-border heading-middle-border heading-middle-border-center">
-								<h1>Recomendaciones</h1>
+								<h1 class="mb-sm"><strong>Recomendaciones</strong></h1>
 							 </div>
 
 						</div>

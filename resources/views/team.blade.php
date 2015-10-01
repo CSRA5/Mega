@@ -196,7 +196,7 @@
 										
 									</span>
 									<span class="thumb-info-caption">
-										<span class="thumb-info-caption-text">dameth@megacorredores.pe</span>
+										<span class="thumb-info-caption-text">msanchez@megacorredores.pe</span>
 										
 									</span>
 								</span>
@@ -355,7 +355,7 @@
 										
 									</span>
 									<span class="thumb-info-caption">
-										<span class="thumb-info-caption-text">splasencia@megacorredores.pe</span>
+										<span class="thumb-info-caption-text">gquiroz@megacorredores.pe</span>
 										
 									</span>
 								</span>

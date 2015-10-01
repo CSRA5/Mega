@@ -28,17 +28,7 @@
 							<div class="blog-posts single-post">
 
 								<article class="post post-large blog-single-post">
-									<div class="post-image">
-										<div class="owl-carousel" data-plugin-options='{"items":1}'>
-											<div>
-												<div class="img-thumbnail">
-													<img class="img-responsive" src="img/reco/reco-3.png" alt="">
-												</div>
-											</div>
-										 
-										</div>
-									</div>
-
+									
 									<div class="post-date">
 										<span class="day">30</span>
 										<span class="month">Sep</span>
@@ -53,7 +43,22 @@
 											 
 										</div>
 
-										<p>Si viajas en tu vehículo, no dejes de seguir estás recomendaciones. Ante todo, debemos estar calmados para pensar con claridad y tomar la mejor decisión. Y no olvides de revisar si tu póliza de seguro vehicular está vigente antes de salir de viaje.</p>
+										<div class="row">
+
+											<div class="col-md-4">
+
+											<img class="img-responsive" src="img/reco/reco-3.png" alt=""><br>
+
+
+											</div>
+
+											<div class="col-md-8">
+
+													<p>Si viajas en tu vehículo, no dejes de seguir estás recomendaciones. Ante todo, debemos estar calmados para pensar con claridad y tomar la mejor decisión. Y no olvides de revisar si tu póliza de seguro vehicular está vigente antes de salir de viaje.</p>
+
+											</div>
+
+										</div>
 										
 										<p>
 											

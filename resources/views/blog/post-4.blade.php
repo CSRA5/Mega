@@ -28,16 +28,7 @@
 							<div class="blog-posts single-post">
 
 								<article class="post post-large blog-single-post">
-									<div class="post-image">
-										<div class="owl-carousel" data-plugin-options='{"items":1}'>
-											<div>
-												<div class="img-thumbnail">
-													<img class="img-responsive" src="img/reco/reco-2.png" alt="">
-												</div>
-											</div>
-										 
-										</div>
-									</div>
+									 
 
 									<div class="post-date">
 										<span class="day">30</span>
@@ -53,9 +44,20 @@
 											 
 										</div>
 
-										<p>Es el momento de un siniestro y la adrenalina fluye al máximo, la mente se nubla. Por eso es importante tener conocimiento de cómo manejar un siniestro, así no nos dejamos sorprender.
-										Lo que debes hacer primero es llamar a tu compañía de seguros, ellos enviaran un procurador que se encargará de registrar los daños y asesorarte personalmente.  A continuación te damos los detalles de que debes hacer en cada caso específico.
-										</p>
+										<div class="row">
+
+										<div class="col-md-4">
+
+											<img class="img-responsive" src="img/reco/reco-2.png" alt=""><br>
+
+										</div>
+
+										<div class="col-md-8">
+											<p>Es el momento de un siniestro y la adrenalina fluye al máximo, la mente se nubla. Por eso es importante tener conocimiento de cómo manejar un siniestro, así no nos dejamos sorprender.
+											Lo que debes hacer primero es llamar a tu compañía de seguros, ellos enviaran un procurador que se encargará de registrar los daños y asesorarte personalmente.  A continuación te damos los detalles de que debes hacer en cada caso específico.
+											</p>
+										</div>
+
 										<p>
 											Lo que debes hacer primero es llamar a tu compañía de seguros, ellos enviaran un procurador que se encargará de registrar los daños y asesorarte personalmente.  A continuación te damos los detalles de que debes hacer en cada caso específico.
 										</p>

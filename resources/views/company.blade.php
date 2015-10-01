@@ -143,7 +143,7 @@
 					<div class="row center">
 						<div class="col-md-12">
 						<h1 class="mb-sm">
-								¿Qué tipo de seguro necesitas?
+								<strong>¿Qué tipo de seguro necesitas?</strong>
 							</h1>
 						</div>
 					</div>

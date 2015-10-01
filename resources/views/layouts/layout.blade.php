@@ -69,7 +69,7 @@
                                     <div class="header-column">
                                         <div class="header-logo">
                                             <a href="{{ url('/')}}">
-                                                <img alt="Mega Corredores" width="181" height="90" src="{{ asset('img/logo.png') }}">
+                                                <img alt="Mega Corredores" class="logo" src="{{ asset('img/logo.png') }}">
                                             </a>
                                         </div>
                                     </div>
@@ -80,7 +80,7 @@
                                         <ul class="nav nav-pills">
                                             
                                             <li class="hidden-xs">
-                                                <a href="contact-us.html"><i class="fa fa-angle-right"></i>informes@megacorredores.pe</a>
+                                                <a href="{{ url('contacto') }}"><i class="fa fa-angle-right"></i>informes@megacorredores.pe</a>
                                             </li>
                                             <li>
                                                 <span class="ws-nowrap"><i class="fa fa-phone"></i> 044-22661/ #934488</span>
