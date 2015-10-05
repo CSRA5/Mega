@@ -169,3 +169,11 @@ Route::get('que-hacer-frente-a-un-siniestro', function () {
 
 
 /* En posts*/
+
+
+/*Lists*/ 
+
+Route::get('listado-leads', ['as' => 'list-leads', 'uses' => 'Lead@index']);
+
+
+/*End Lists/*

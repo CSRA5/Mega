@@ -18,32 +18,54 @@ $enablePHPMailer = false;
 
 $subject = $_POST['subject'];
 
+include("conexion.php"); 
+
 if(isset($_POST['email'])) {
 
 	$name = $_POST['name'];
 	$email = $_POST['email'];
 	$phone = $_POST['phone'];
+	$message= $_POST['message'];
 	$insurance= $_POST['insurance'];
 
+	$_GRABAR_SQL = "INSERT INTO leads (idlead,name,email,phone,message,date,insurance) VALUES (null,'$name','$email','$phone','$message',null,'$insurance')"; 
+
+	$result = mysql_query("SELECT count(*)+1 FROM leads");
+	$count= mysql_fetch_array($result);
+
+	mysql_query($_GRABAR_SQL);
+	
+	$subject = "Mensaje de la web ". "00".$count[0]."-". $insurance;
+
 	$fields = array(
+
 		0 => array(
+			'text' => 'Asunto',
+			'val' => $subject
+		),
+		
+
+		1 => array(
 			'text' => 'Nombre',
 			'val' => $_POST['name']
 		),
-		1 => array(
-			'text' => 'Email',
-			'val' => $_POST['email']
-		),
+		
 		2 => array(
-			'text' => 'Mensaje',
-			'val' => $_POST['message']
-		),
-		3 => array(
 			'text' => 'Telefono',
 			'val' => $_POST['phone']
 		),
 
+		3 => array(
+			'text' => 'Email',
+			'val' => $_POST['email']
+		),
 		4 => array(
+			'text' => 'Mensaje',
+			'val' => $_POST['message']
+		),
+		
+
+		5 => array(
 			'text' => 'Tipo de seguro',
 			'val' => $_POST['insurance']
 		)

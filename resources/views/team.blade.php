@@ -268,15 +268,15 @@
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
-											<img src="img/team/team-8.jpg" class="img-responsive" alt="">
+											<img src="img/team/team-17.jpg" class="img-responsive" alt="">
 											<span class="thumb-info-title">
-												<span class="thumb-info-inner">Joseph Castillo</span>
-												<span class="thumb-info-type">Ejecutivo Comercial</span>
+												<span class="thumb-info-inner">Carla Maurtua</span>
+												<span class="thumb-info-type">Asistente de Emisiones</span>
 											</span>
 										
 									</span>
 									<span class="thumb-info-caption">
-										<span class="thumb-info-caption-text">jcastillo@megacorredores.pe</span>
+										<span class="thumb-info-caption-text">cmaurtua@megacorredores.pe</span>
 										
 									</span>
 								</span>
@@ -369,8 +369,26 @@
 					<div class="row">
 
 						<ul class="team-list sort-destination" data-sort-id="team">
+
+							<li class="col-md-offset-1 col-md-3 col-sm-6 col-xs-12 isotope-item development" data-appear-animation="rotateInUpLeft">
+								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
+									<span class="thumb-info-wrapper">
+										
+											<img src="img/team/team-8.jpg" class="img-responsive" alt="">
+											<span class="thumb-info-title">
+												<span class="thumb-info-inner">Joseph Castillo</span>
+												<span class="thumb-info-type">Ejecutivo Comercial</span>
+											</span>
+										
+									</span>
+									<span class="thumb-info-caption">
+										<span class="thumb-info-caption-text">jcastillo@megacorredores.pe</span>
+										
+									</span>
+								</span>
+							</li>
 							
-							<li class=" col-md-offset-3 col-md-3 col-sm-6 col-xs-12 isotope-item development" data-appear-animation="rotateInUpLeft">
+							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item development" data-appear-animation="rotateInUpLeft">
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
