@@ -1,5 +1,5 @@
 @extends('layouts/layout')
-@section('title','Nosotros - Mega Corredores de Seguros')
+@section('title','Nuestro equipo - Mega Corredores de Seguros')
 @section('description','')
  
 
