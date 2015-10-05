@@ -7,28 +7,34 @@
 
 <div class="container">
 
-	<table class="table table-striped">
+	<table class="table table-striped" id="leads">
 										<thead>
 											<tr>
 												
+												 
 												<th>
 													Nombre
+													<input id="nombre" onkeyup="searchRows('leads')" type="text"/>
 												</th>
 												<th>
 													Email
+													 <input id="email" onkeyup="searchRows('leads')" type="text"/>
 												</th>
 												<th>
 													Teléfono
+													 <input id="telefono" onkeyup="searchRows('leads')" type="text"/>
 												</th>
 												<th>
 													Seguro
+													 <input id="seguro" onkeyup="searchRows('leads')" type="text"/>
 												</th>
 												<th>
 													Fecha
+													 <input id="fecha" onkeyup="searchRows('leads')" type="text"/>
 												</th>
 											</tr>
 										</thead>
-										<tbody>
+										
 
 										@foreach ($leads as $lead)
 										   
@@ -53,9 +59,16 @@
 											</tr>
 										 @endforeach
 											
-											
-										</tbody>
+										
 				</table>
 
 		</div>
+
+
+@section('script')
+
+<script src="{{ asset('js/find.js') }}"></script>
+
+@endsection
+
 @endsection
