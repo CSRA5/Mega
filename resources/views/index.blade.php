@@ -10,7 +10,7 @@
 
 		<meta name="keywords" content="HTML5 Template" />
 		<meta name="description" content="Porto - Responsive HTML5 Template">
-		<meta name="author" content="Christian Ramirez"/>
+		<meta name="author" content="Christian "/>
 
 		<!-- Favicon -->
 		<link rel="shortcut icon" href="img/favicon.png" type="image/x-icon" />
@@ -326,7 +326,7 @@
 										<i class="icon-featured fa fa-stethoscope"></i>
 										<h4 class="text-uppercase">Seguro de vida ley</h4>
 										<p>Seguro obligatorio para empleados y asegurados que presten servicio a un mismo empleador.</p>
-										<p><a href="{{ url('seguro-para-empresas/seguro-de-vida-ley') }}" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
+										<p><a href="{{ url('seguro-para-empresas/seguro-de-vida-ley') }}" class="lnk-primary learn-more"><br>Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
 							</div>
@@ -336,7 +336,7 @@
 										<i class="icon-featured fa fa-bus"></i>
 										<h4 class="text-uppercase">Seguro flota vehicular</h4>
 										<p>Cubre la flota de vehículos de su empresa ante robo, daño a terceros y otros.</p>
-										<p><a href="{{ url('seguro-para-empresas/seguro-de-flota-vehicular') }}" class="lnk-secondary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
+										<p><a href="{{ url('seguro-para-empresas/seguro-de-flota-vehicular') }}" class="lnk-secondary learn-more"><br>Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
 							</div>
@@ -346,7 +346,7 @@
 										<i class="icon-featured fa fa-user-md"></i>
 										<h4 class="text-uppercase">EPS</h4>
 										<p>Programa médico que brinda atención ambulatoria y hospitalaria, consultas y emergencias.</p>
-										<p><a href="{{ url('seguro-para-empresas/eps') }}" class="lnk-tertiary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
+										<p><a href="{{ url('seguro-para-empresas/eps') }}" class="lnk-tertiary learn-more"><br>Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
 							</div>
@@ -513,38 +513,36 @@
 
 			<section class="section">
 
-				<div class="container">
+			<div class="container">
 
 				<div class="row center">
-						<div class="col-md-12">
-						<h1 class="mb-sm">
-								<strong>Alianzas estratégicas</strong>
-							</h1>
-						</div>
+					<div class="col-md-12">
+						<h1 class="mb-sm"><strong>Alianzas estratégicas</strong></h1>
 					</div>
-					
-					<div class="row">
-						<div class="col-md-12">
-							
-							<div class="owl-carousel stage-margin" data-plugin-options='{"items": 4, "margin": 10, "loop": false, "nav": true, "dots": false, "stagePadding": 40}'>
-								<div>
-									<img alt="" class="img-responsive img-rounded" src="img/home/al-1.jpg">
-								</div>
-								<div>
-									<img alt="" class="img-responsive img-rounded" src="img/home/al-2.jpg">
-								</div>
-								<div>
-									<img alt="" class="img-responsive img-rounded" src="img/home/al-3.jpg">
-								</div>
-								<div>
-									<img alt="" class="img-responsive img-rounded" src="img/home/al-4.jpg">
-								</div>
-								 
-							</div>
-						</div>
-					</div>
-
 				</div>
+					
+				<div class="row">
+					<div class="col-md-12">
+							
+						<div class="owl-carousel stage-margin" data-plugin-options='{"items": 4, "margin": 10, "loop": false, "nav": true, "dots": false, "stagePadding": 40}'>
+							<div>
+								<img alt="" class="img-responsive img-rounded" src="img/home/al-1.jpg">
+							</div>
+							<div>
+								<img alt="" class="img-responsive img-rounded" src="img/home/al-2.jpg">
+							</div>
+							<div>
+								<img alt="" class="img-responsive img-rounded" src="img/home/al-3.jpg">
+							</div>
+							<div>
+								<img alt="" class="img-responsive img-rounded" src="img/home/al-4.jpg">
+							</div>
+							 
+						</div>
+					</div>
+				</div>
+
+			</div>
 					
 
 			</section>

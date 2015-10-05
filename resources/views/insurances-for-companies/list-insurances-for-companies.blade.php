@@ -46,7 +46,7 @@
 										<i class="icon-featured micon icon-i-family-practice"></i>
 										<h4 class="text-uppercase">Seguro de vida ley</h4>
 										<p>Seguro obligatorio para empleados y asegurados que presten servicio a un mismo empleador.</p>
-										<p><a href="{{ url('seguro-para-empresas/seguro-de-vida-ley') }}" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
+										<p><a href="{{ url('seguro-para-empresas/seguro-de-vida-ley') }}" class="lnk-primary learn-more"><br>Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
 							</div>
@@ -56,7 +56,7 @@
 										<i class="icon-featured fa fa-bus"></i>
 										<h4 class="text-uppercase">Seguro flota vehicular</h4>
 										<p>Cubre la flota de vehículos de su empresa ante robo, daño a terceros y otros.</p>
-										<p><a href="{{ url('seguro-para-empresas/seguro-de-flota-vehicular') }}" class="lnk-secondary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
+										<p><a href="{{ url('seguro-para-empresas/seguro-de-flota-vehicular') }}" class="lnk-secondary learn-more"><br>Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
 							</div>
@@ -66,7 +66,7 @@
 										<i class="icon-featured fa fa-user-md"></i>
 										<h4 class="text-uppercase">EPS</h4>
 										<p>Programa médico que brinda atención ambulatoria y hospitalaria, consultas y emergencias.</p>
-										<p><a href="{{ url('seguro-para-empresas/eps') }}" class="lnk-tertiary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
+										<p><a href="{{ url('seguro-para-empresas/eps') }}" class="lnk-tertiary learn-more"><br>Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
 							</div>
@@ -109,7 +109,7 @@
 										<i class="icon-featured fa fa-ship"></i>
 										<h4 class="text-uppercase">Responsabilidad social para hidrocarburos</h4>
 										<p>Cubre daños causados por manipulación de hidrocarburos.</p>
-										<p><a href="{{ url('seguro-para-empresas/responsabilidad-civil-para-hidrocarburos') }}" class="lnk-tertiary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
+										<p><a href="{{ url('seguro-para-empresas/responsabilidad-civil-para-hidrocarburos') }}" class="lnk-tertiary learn-more"><br>Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
 							</div>
