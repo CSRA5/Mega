@@ -128,7 +128,7 @@
 <script>
 	// Map Markers
 			var mapMarkers = [{
-				address: "Jirón Independencia 328, Trujillo 13001",
+				address: "Jirón Bolivar 150, Trujillo",
 				html: "<strong>Trujillo</strong><br>Jr. Bolívar 150 Trujillo",
 				icon: {
 					image: "img/pin.png",
@@ -139,8 +139,8 @@
 			}];
 
 			// Map Initial Location
-			var initLatitude = -8.112319;
-			var initLongitude = -79.029924;
+			var initLatitude = -8.115808;
+			var initLongitude = -79.029583;
 
 			// Map Extended Settings
 			var mapSettings = {
