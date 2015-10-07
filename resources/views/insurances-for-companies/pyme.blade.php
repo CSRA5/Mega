@@ -22,15 +22,28 @@
 			</div>
 </section>
 
+<section id="head" class="section-head-in section-default">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-9">
+			<p><br><br>
+				Seguro diseñado para proteger el patrimonio de las pequeñas empresas, con la finalidad de su negocio no se detenga ante la ocurrencia de robos, incendios y otros incidentes que pueden afectar la continuidad de las operaciones. Además, le brinda la posibilidad de elegir la cobertura que mejor se adecúe a sus necesidades. 
+
+			</p>
+			</div>
+			<div class="col-md-3">
+				<img class="img-responsive" src="{{ asset('img/insurances/companies/pyme/img.png') }}" alt="Seguro de vida" data-appear-animation="fadeInRight">
+			</div>
+		</div>
+	</div>
+</section>
+
+
 <section>
 			
 		<div class="container">
 				
-			<p>
-				Seguro diseñado para proteger el patrimonio de las pequeñas empresas, con la finalidad de su negocio no se detenga ante la ocurrencia de robos, incendios y otros incidentes que pueden afectar la continuidad de las operaciones. Además, le brinda la posibilidad de elegir la cobertura que mejor se adecúe a sus necesidades. 
-
-			</p>
-
+			
 			<div class="divider divider-secondary">
 				<i class="fa fa-chevron-down"></i>
 			</div>

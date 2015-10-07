@@ -22,17 +22,28 @@
 			</div>
 </section>
 
-<section>
-			
-		<div class="container">
-				
-			<p>
+<section id="head" class="section-head-in section-default">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-9">
+			<p><br><br>
 				Es un seguro de vida en grupo de carácter obligatorio para los empleados y asegurados que prestan servicios a un mismo empleador por un lapso de 4 años y opcionalmente, para aquellos trabajadores que prestan servicios a un empleador a partir de los tres meses. El pago del aporte está a cargo de la entidad empleadora.
 				Este seguro se encuentra regulado por el Decreto Legislativo 688, y la reciente Ley N°29549, y forma parte del programa de consolidación de beneficios sociales, por lo que todas las empresas deben contratar un seguro de vida a favor sus trabajadores.
 
 			</p>
+			</div>
+			<div class="col-md-3">
+				<img class="img-responsive" src="{{ asset('img/insurances/companies/vida-ley/img.png') }}" alt="Seguro de vida" data-appear-animation="fadeInRight">
+			</div>
+		</div>
+	</div>
+</section>
 
-			<div class="divider divider-secondary">
+<section>
+			
+		<div class="container">
+				
+					<div class="divider divider-secondary">
 				<i class="fa fa-chevron-down"></i>
 			</div>
 			

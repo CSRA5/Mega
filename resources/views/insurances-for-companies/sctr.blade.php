@@ -22,17 +22,28 @@
 			</div>
 </section>
 
+<section id="head" class="section-head-in section-default">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-9">
+			<p><br>
+				El Seguro Complementario de Trabajo de Riesgo otorga cobertura adicional en los casos de accidentes de trabajo y enfermedades profesionales a los trabajadores, empleados y obreros que desempeñan actividades de alto riesgo indicadas en D.L. 26790.
+				Es de carácter obligatorio para aquellos empleadores que realizan actividades económicas de riesgo, así como las cooperativas de trabajadores, empresas de servicios especiales, contratistas y subcontratistas, instituciones de intermediación o provisión de mano de obra que destaque trabajadores hacia centros de trabajo que desarrollen actividades de riesgo.
+			</p>
+			</div>
+			<div class="col-md-3">
+				<img class="img-responsive" src="{{ asset('img/insurances/companies/sctr/img.png') }}" alt="Seguro de vida" data-appear-animation="fadeInRight">
+			</div>
+		</div>
+	</div>
+</section>
+
+
 <section>
 			
 		<div class="container">
 				
-			<p>
-				El Seguro Complementario de Trabajo de Riesgo otorga cobertura adicional en los casos de accidentes de trabajo y enfermedades profesionales a los trabajadores, empleados y obreros que desempeñan actividades de alto riesgo indicadas en D.L. 26790.
-				Es de carácter obligatorio para aquellos empleadores que realizan actividades económicas de riesgo, así como las cooperativas de trabajadores, empresas de servicios especiales, contratistas y subcontratistas, instituciones de intermediación o provisión de mano de obra que destaque trabajadores hacia centros de trabajo que desarrollen actividades de riesgo.
-
-
-			</p>
-
+		
 			<div class="divider divider-secondary">
 				<i class="fa fa-chevron-down"></i>
 			</div>

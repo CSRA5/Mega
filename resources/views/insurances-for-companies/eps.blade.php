@@ -22,15 +22,30 @@
 			</div>
 </section>
 
-<section>
-			
-		<div class="container">
-				
-			<p>
+<section id="head" class="section-head-in section-default">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-9">
+
+			<p><br><br>
 				El programa de EPS que es un programa médico que te brinda atención ambulatoria y hospitalaria, consulta médica a domicilio, atención de emergencia accidental y médica, exámenes preventivos anuales, maternidad y control del niño sano, entre otras coberturas de acuerdo al plan de salud elegido, garantizándote un excelente servicio a nivel nacional en nuestra amplia red de clínicas  y centros médicos afiliados.  
 
 			</p>
 
+			</div>
+			<div class="col-md-3">
+				<img class="img-responsive" src="{{ asset('img/insurances/companies/eps/img.png') }}" alt="Seguro de vida" data-appear-animation="fadeInRight">
+			</div>
+
+		</div>
+	</div>
+</section>
+
+<section>
+			
+		<div class="container">
+				
+		
 			<div class="divider divider-secondary">
 				<i class="fa fa-chevron-down"></i>
 			</div>

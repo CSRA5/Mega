@@ -22,15 +22,30 @@
 			</div>
 </section>
 
-<section>
-			
-		<div class="container">
-				
-			<p>
+<section id="head" class="section-head-in section-default">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-9">
+
+			<p><br><br>
 				El seguro de Transportes está destinado a dar cobertura a los posibles daños materiales que sufran las mismas con ocasión de su transporte desde el punto de origen hasta su punto de destino, siempre y cuando vayan adecuadamente envasadas o embaladas de acuerdo con su naturaleza.
 
 			</p>
 
+			</div>
+
+			<div class="col-md-3">
+				<img class="img-responsive" src="{{ asset('img/insurances/companies/seguro-transporte/img.png') }}" alt="Seguro de vida" data-appear-animation="fadeInRight">
+			</div>
+
+		</div>
+	</div>
+</section>
+
+<section>
+			
+		<div class="container">
+						
 			<div class="divider divider-secondary">
 				<i class="fa fa-chevron-down"></i>
 			</div>

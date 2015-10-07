@@ -22,15 +22,28 @@
 			</div>
 </section>
 
+
+<section id="head" class="section-head-in section-default">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-9">
+				<p><br><br><br>
+					Es un grupo de modalidades de cobertura que contemplan determinados riesgos derivados del funcionamiento, montaje o prueba de maquinaria o inherentes a la construcción de edificios y obras. 
+
+				</p>
+			</div>
+			<div class="col-md-3">
+				<img class="img-responsive" src="{{ asset('img/insurances/companies/ingieneria/img.png') }}" alt="Seguro de vida" data-appear-animation="fadeInRight">
+			</div>
+		</div>
+	</div>
+</section>
+
 <section>
 			
 		<div class="container">
 				
-			<p>
-				Es un grupo de modalidades de cobertura que contemplan determinados riesgos derivados del funcionamiento, montaje o prueba de maquinaria o inherentes a la construcción de edificios y obras. 
-
-			</p>
-
+			
 			<div class="divider divider-secondary">
 				<i class="fa fa-chevron-down"></i>
 			</div>
