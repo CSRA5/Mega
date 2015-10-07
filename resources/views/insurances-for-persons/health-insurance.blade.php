@@ -7,32 +7,42 @@
 
 
 <section class="page-header">
-		
-	
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<ul class="breadcrumb">
-							<li><a href="{{url('/')}}" class="a-color">Inicio</a></li>
-							<li class="a-color"><strong>Seguro de salud</strong></li>
-						</ul>
-					</div>
+	<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<ul class="breadcrumb">
+						<li><a href="{{url('/')}}" class="a-color">Inicio</a></li>
+						<li class="a-color"><strong>Seguro de salud</strong></li>
+					</ul>
 				</div>
-				
 			</div>
+	</div>
+</section>
+
+<section id="head" class="section-head-in section-default">
+	<div class="container">
+				<div class="row">
+						<div class="col-md-9">
+							
+							<p >
+							<br><br>
+								Por el seguro de salud se contrata la prestación de servicios de medicina profesional, que incluyen atención médica ambulatoria, hospitalaria, exámenes médicos, medicinas y tratamientos en general, según la póliza suscrita. Para contratar este seguro, es usual que las aseguradoras soliciten que se llene un formulario sobre el estado de la salud de las personas que se aseguraran.
+								Resulta común que las aseguradoras ofrezcan seguros de asistencia médica que también incluyan coberturas de accidentes personales.
+							</p>
+							
+						</div>
+						<div class="col-md-3">
+							<img class="img-responsive" src="{{ asset('img/insurances/persons/health-insurance/img.png') }}" alt="Seguro de salud" data-appear-animation="fadeInRight">
+						</div>
+				</div>
+	</div>
 </section>
 
 <section>
 			
-		<div class="container">
-				
-			<p>
-				Por el seguro de salud se contrata la prestación de servicios de medicina profesional, que incluyen atención médica ambulatoria, hospitalaria, exámenes médicos, medicinas y tratamientos en general, según la póliza suscrita. Para contratar este seguro, es usual que las aseguradoras soliciten que se llene un formulario sobre el estado de la salud de las personas que se aseguraran.
-				Resulta común que las aseguradoras ofrezcan seguros de asistencia médica que también incluyan coberturas de accidentes personales.
+<div class="container">
 
-
-			</p>
-
+		
 			<div class="divider divider-secondary">
 				<i class="fa fa-chevron-down"></i>
 			</div>
