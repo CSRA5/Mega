@@ -30,7 +30,7 @@
 				
 			<p>
 				
-				 Nuestros seguros para personas abarcan todos los riesgos que puedan afectar a la existencia, integridad corporal o salud de nuestros aseugrados.
+				 Organización MEGA conoce las necesidades de sus clientes, por esta razón, ofrece diversos seguros hechos pensando en ellos y en su seguridad, combinando la protección con el ahorro, para que sólo se preocupen en disfrutar de la vida.
 
 			</p>
 

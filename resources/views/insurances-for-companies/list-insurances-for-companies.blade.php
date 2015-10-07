@@ -29,7 +29,7 @@
 		<div class="container">
 				
 			<p>
-				Organización MEGA y su amplia experiencia en el mercado de seguros le permite ofrecer a nuestros clientes soluciones a gran escala con productos y servicios que se adecuen perfectamente a las necesidades de cada uno de nuestros clientes.
+				Organización MEGA y su amplia experiencia en el mercado de seguros le permite ofrecer a nuestros clientes soluciones a gran escala con productos y servicios que se adecuen perfectamente a las necesidades de cada uno de ellos.
 
 			</p>
 
