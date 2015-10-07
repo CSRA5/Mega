@@ -150,12 +150,19 @@
 						<div class="col-md-12">
 						<h1 class="mb-sm">
 								<strong>¿Qué tipo de seguro necesitas?</strong>
+								<hr class="solid tall">
 							</h1>
 						</div>
 					</div>
 				
 				<div class="featured-boxes">
 						<div class="row">
+
+							<div class="center">
+								<h4>Seguros para personas. <a href="{{ url('seguros-para-personas') }}" class="lnk-secondary learn-more">Ver todos <i class="fa fa-angle-right"></i></a></h4>
+								
+							</div>
+
 							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-primary featured-box-effect-1 mt-xlg">
 									<div class="box-content">
@@ -198,8 +205,15 @@
 							</div>
 						</div>
 
+						<hr class="solid tall">
+
 						<div class="row">
-							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
+
+						<div class="center">
+								<h4>Seguros para empresas. <a href="{{ url('seguros-para-empresas') }}" class="lnk-secondary learn-more">Ver todos <i class="fa fa-angle-right"></i></a></h4>
+						</div>
+						
+						<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-primary featured-box-effect-1 mt-xlg">
 									<div class="box-content">
 										<i class="icon-featured fa fa-stethoscope"></i>
@@ -208,8 +222,8 @@
 										<p><a href="{{ url('seguro-para-empresas/seguro-de-vida-ley') }}" class="lnk-primary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
-							</div>
-							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
+						</div>
+						<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-secondary featured-box-effect-1 mt-xlg">
 									<div class="box-content">
 										<i class="icon-featured fa fa-bus"></i>
@@ -218,8 +232,8 @@
 										<p><a href="{{ url('seguro-para-empresas/seguro-de-flota-vehicular') }}" class="lnk-secondary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
-							</div>
-							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
+						</div>
+						<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-tertiary featured-box-effect-1 mt-xlg">
 									<div class="box-content">
 										<i class="icon-featured fa fa-user-md"></i>
@@ -228,8 +242,8 @@
 										<p><a href="{{ url('seguro-para-empresas/eps') }}" class="lnk-tertiary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
-							</div>
-							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
+						</div>
+						<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-quaternary featured-box-effect-1 mt-xlg">
 									<div class="box-content">
 										<i class="icon-featured fa fa-building"></i>

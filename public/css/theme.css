@@ -218,7 +218,7 @@ li {
 	-moz-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 	position: relative;
-	margin: 24px 24px 24px 0;
+	/*margin: 24px 24px 24px 0;*/
 	top: 0;
 }
 
@@ -293,9 +293,11 @@ li {
 	min-height: 0;
 }
 
+/*
 #header.header-narrow .header-logo img {
 	margin: 12px 12px 12px 0;
 }
+*/
 
 #header.header-narrow .header-nav.header-nav-push-top {
 	margin-top: -50px;

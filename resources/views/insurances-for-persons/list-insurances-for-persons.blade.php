@@ -29,7 +29,8 @@
 		<div class="container">
 				
 			<p>
-				Seguros de Vida especialmente diseñados para personas y que ofrecen coberturas en caso de muerte natural y accidental. Existen Seguros de Vida que combinan la protección con el ahorro, permitiéndole generar un fondo que podrá disfrutar en vida.
+				
+				 Nuestros seguros para personas abarcan todos los riesgos que puedan afectar a la existencia, integridad corporal o salud de nuestros aseugrados.
 
 			</p>
 

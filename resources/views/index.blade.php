@@ -149,7 +149,7 @@
 								<div class="header-row">
 									<div class="header-column">
 										<div class="header-logo">
-											<a href="index.html">
+											<a href="{{url('/')}}">
 												<img alt="Mega Corredores" class="logo" src="img/logo.png">
 											</a>
 										</div>
