@@ -107,7 +107,7 @@
 										 data-easing="easeOutExpo">¿Qué tipo de seguro necesitas? </div>
 									
 									
-									<a class="tp-caption customin btn btn-3d btn-primary btn-lg" href="{{ url('seguro-para-personas') }}"
+									<a class="tp-caption customin btn btn-3d btn-primary btn-lg" href="{{ url('seguros-para-personas') }}"
 											data-x="170" data-hoffset="0"
 											data-y="290"
 											data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
@@ -119,7 +119,7 @@
 									</a>
 
 
-									<a class="tp-caption customin btn btn-3d btn-secondary btn-lg" href="{{ url('seguro-para-empresas') }}"
+									<a class="tp-caption customin btn btn-3d btn-secondary btn-lg" href="{{ url('seguros-para-empresas') }}"
 											data-x="290" data-hoffset="0"
 											data-y="290"
 											data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
@@ -128,16 +128,14 @@
 											data-easing="Back.easeInOut"
 											data-endspeed="300">
 												Empresarial
-									</a>
-
-									
+									</a>									
 
 									<div class="tp-caption main-label sft stb visible-lg"
 										 data-x="center"
 										 data-y="365"
 										 data-speed="500"
 										 data-start="2700"
-										 data-easing="easeOutExpo"><a data-hash data-hash-offset="85" href="#intro"><i class="fa fa-arrow-circle-o-down"></i></a></div>
+										 data-easing="easeOutExpo"><a data-hash data-hash-offset="85" href="#home-intro"><i class="fa fa-arrow-circle-o-down"></i></a></div>
 
 							</li>
 						</ul>
@@ -174,8 +172,8 @@
                                         <li><a href="{{ url('empresa') }}">Empresa</a></li>
 
                                         <li class="dropdown">
-                                           <a class="dropdown-toggle" href="{{ url('seguro-para-personas') }}">
-                                                Seguro para personas
+                                           <a class="dropdown-toggle" href="{{ url('seguros-para-personas') }}">
+                                                Seguros para personas
                                             </a>
                                        
                                             <ul class="dropdown-menu">
@@ -191,8 +189,8 @@
                                         </li>
 
                                         <li class="dropdown">
-                                           <a class="dropdown-toggle" href="{{ url('seguro-para-empresas') }}">
-                                                Seguro para empresas
+                                           <a class="dropdown-toggle" href="{{ url('seguros-para-empresas') }}">
+                                                Seguros para empresas
                                             </a>
                                        
                                             <ul class="dropdown-menu">
@@ -232,7 +230,7 @@
 							<div class="col-md-3 aling-text-home-info">
 								<p>
 									Realiza gratis tu consulta
-									<span>044-22661/ #934488  </span>
+									<span>044-226612/ #934488  </span>
 									<span>informes@megacorredores.pe</span>
 								</p>
 							</div>
@@ -261,6 +259,15 @@
 						</div>
 					
 				</div>
+
+				<div class="container">
+					<div class="row center">
+						<div class="col-md-12">
+							<img src="img/home/img-home.png" class="img-responsive" data-appear-animation="fadeInUp" alt="dark and light" style="margin: 45px 0px -30px;">
+						</div>
+					</div>
+				</div>
+
 			</section>
 			
 			<section class="section section-default">
@@ -270,13 +277,20 @@
 					<div class="row center">
 						<div class="col-md-12">
 						<h1 class="mb-sm">
-								<strong>¿Qué tipo de seguro necesitas?</strong>
-							</h1>
+							<strong>¿Qué tipo de seguro necesitas?</strong>
+							<hr class="solid tall">
+						</h1>
 						</div>
 					</div>
 				
 				<div class="featured-boxes">
 						<div class="row">
+							
+							<div class="center">
+								<h4>Seguros para personas. <a href="{{ url('seguros-para-personas') }}" class="lnk-secondary learn-more">Ver todos <i class="fa fa-angle-right"></i></a></h4>
+								
+							</div>
+							
 							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-primary featured-box-effect-1 mt-xlg">
 									<div class="box-content">
@@ -319,7 +333,14 @@
 							</div>
 						</div>
 
+						<hr class="solid tall">
+
 						<div class="row">
+
+						<div class="center">
+								<h4>Seguros para empresas. <a href="{{ url('seguros-para-empresas') }}" class="lnk-secondary learn-more">Ver todos <i class="fa fa-angle-right"></i></a></h4>
+						</div>
+
 							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-primary featured-box-effect-1 mt-xlg">
 									<div class="box-content">
@@ -373,8 +394,9 @@
 					
 					<div class="row center">
 						<div class="col-md-12">
-						 <h1 class="mb-sm"><strong>Atención de siniestros</strong></h1>
-												
+							<div class="heading heading-border heading-middle-border heading-middle-border-center">
+								<h1 class="mb-sm"><strong>Atención de siniestros</strong></h1>
+							</div>					
 						</div>
 					</div>
 
@@ -388,6 +410,14 @@
 						</div>
 					</div>
  
+				</div>
+
+					<div class="container">
+					<div class="row center">
+						<div class="col-md-12">
+							<img src="img/home/img-home-1.png" class="img-responsive" data-appear-animation="fadeInUp" alt="dark and light" style="margin: 45px 0px -30px;">
+						</div>
+					</div>
 				</div>
 
 			</section>
@@ -411,7 +441,7 @@
 									<div class="slider-wrapper theme-default">
 										<div id="nivoSlider" class="nivoSlider">
 											<img src="img/home/novedades-1.png" data-thumb="img/home/novedades-1.png" alt="" />
-											<img src="img/home/novedades-2.png" data-thumb="img/home/novedades-2.png" alt="" />
+											
 										</div>
 										 
 									</div>
@@ -557,7 +587,7 @@
                         </div>
                         <div class="col-md-3 col-md-offset-1">
                             <h5 class="mb-sm">Comunícate con nosotros</h5>
-                            <span class="phone">044-22661/ #934488</span>
+                            <span class="phone">044-226612/#934488</span>
                             <ul class="list list-icons list-icons-sm">
                                 <li><i class="fa fa-envelope"></i> <a href="mailto:okler@okler.net">informes@megacorredores.pe</a></li>
                             </ul>

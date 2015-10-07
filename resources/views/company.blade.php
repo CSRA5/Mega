@@ -114,12 +114,18 @@
 										<div class="col-md-2">
 											<li><i class="fa fa-check"></i>Fidelización</li>
 											<li><i class="fa fa-check"></i>Calidad</li>
-											<li><i class="fa fa-check"></i>Igualdad</li>
-											<li><i class="fa fa-check"></i>Desarrollo</li>
+											
 										</div>
 										<div class="col-md-3">
 											<li><i class="fa fa-check"></i>Honestidad</li>
 											<li><i class="fa fa-check"></i>Comunicación</li>
+											
+										</div>
+										<div class="col-md-3">
+											<li><i class="fa fa-check"></i>Igualdad</li>
+											<li><i class="fa fa-check"></i>Desarrollo</li>
+										</div>
+										<div class="col-md-3">
 											<li><i class="fa fa-check"></i>Planificación</li>
 											<li><i class="fa fa-check"></i>Valor Agregado</li>
 										</div>

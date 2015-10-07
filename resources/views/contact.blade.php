@@ -101,7 +101,7 @@
 							<h4 class="heading-primary">Nuestra <strong>oficina</strong></h4>
 							<ul class="list list-icons list-icons-style-3 mt-xlg">
 								<li><i class="fa fa-map-marker"></i> <strong>Dirección:</strong> Jr. Bolívar 150 Trujillo </li>
-								<li><i class="fa fa-phone"></i> <strong>Teléfono:</strong> 044-22661</li>
+								<li><i class="fa fa-phone"></i> <strong>Teléfono:</strong> 044-226612</li>
 								<li><i class="fa fa-envelope"></i> <strong>Email:</strong> <a href="mailto:informes@megacorredores.pe">informes@megacorredores.pe</a></li>
 							</ul>
 

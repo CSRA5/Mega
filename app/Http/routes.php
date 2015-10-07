@@ -33,7 +33,7 @@ End Company
 Insurances for persons
 */
 
-Route::get('seguro-para-personas', function () {
+Route::get('seguros-para-personas', function () {
     return view('insurances-for-persons/list-insurances-for-persons');
 });
 
@@ -78,7 +78,7 @@ End insurances for persons
 Insurances for companies
 */
 
-Route::get('seguro-para-empresas', function () {
+Route::get('seguros-para-empresas', function () {
     return view('insurances-for-companies/list-insurances-for-companies');
 });
 

@@ -2363,18 +2363,20 @@ section.section-custom-map-2 section.section {
 }
 /* #Footer */
 #footer {
+	margin-top: 30px;
 	background: #0e0e0e;
 	border-top: 4px solid #0e0e0e;
 	font-size: 0.9em;
-	margin-top: 50px;
-	padding: 70px 0 0;
+ 	padding: 70px 0 0;
 	position: relative;
 	clear: both;
 }
 
+/*
 #footer .container .row > div {
 	margin-bottom: 25px;
 }
+*/
 
 #footer .container input:focus {
 	box-shadow: none;
@@ -2641,7 +2643,7 @@ section.section-custom-map-2 section.section {
 }
 
 #footer.short {
-	padding-top: 50px;
+	padding-top: 20px;
 }
 
 #footer.short .footer-copyright {

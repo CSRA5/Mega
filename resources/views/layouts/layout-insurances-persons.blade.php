@@ -93,7 +93,7 @@
                                                 <a href="{{ url('contacto') }}"><i class="fa fa-angle-right"></i>informes@megacorredores.pe</a>
                                             </li>
                                             <li>
-                                                <span class="ws-nowrap"><i class="fa fa-phone"></i> 044-22661/ #934488</span>
+                                                <span class="ws-nowrap"><i class="fa fa-phone"></i> 044-226612/ #934488</span>
                                             </li>
                                         </ul>
                                     </nav>
@@ -118,8 +118,8 @@
                                         <li><a href="{{ url('empresa') }}">Empresa</a></li>
 
                                         <li class="dropdown">
-                                           <a class="dropdown-toggle" href="{{ url('seguro-para-personas') }}">
-                                                Seguro para personas
+                                           <a class="dropdown-toggle" href="{{ url('seguros-para-personas') }}">
+                                                Seguros para personas
                                             </a>
                                        
                                             <ul class="dropdown-menu">
@@ -135,8 +135,8 @@
                                         </li>
 
                                         <li class="dropdown">
-                                           <a class="dropdown-toggle" href="{{ url('seguro-para-empresas') }}">
-                                                Seguro para empresas
+                                           <a class="dropdown-toggle" href="{{ url('seguros-para-empresas') }}">
+                                                Seguros para empresas
                                             </a>
                                        
                                             <ul class="dropdown-menu">
@@ -154,7 +154,7 @@
                                         </li>
 
                                          <li><a href="{{ url('nuestro-equipo') }}">Staff</a></li>
-                                        <li><a href="index.html">Contacto</a></li>
+                                        <li><a href="{{ url('contacto')}}">Contacto</a></li>
 
                                     </ul>
                                 </nav> 
@@ -442,7 +442,7 @@
                         </div>
                         <div class="col-md-3 col-md-offset-1">
                             <h5 class="mb-sm">Comunícate con nosotros</h5>
-                            <span class="phone">044-22661/ #934488</span>
+                            <span class="phone">044-226612/#934488</span>
                             <ul class="list list-icons list-icons-sm">
                                 <li><i class="fa fa-envelope"></i> <a href="mailto:okler@okler.net">informes@megacorredores.pe</a></li>
                             </ul>
