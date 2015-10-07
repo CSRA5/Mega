@@ -22,15 +22,31 @@
 			</div>
 </section>
 
+
+<section id="head" class="section-head-in section-default">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-9">
+				<p><br><br><br>
+					Los seguros vehiculares cubren los daños producidos como consecuencia de accidentes en los que participan los vehículos asegurados.
+
+				</p>
+			</div>
+
+			<div class="col-md-3">
+				<img class="img-responsive" src="{{ asset('img/insurances/persons/seguro-vehicular/img.png') }}" alt="Seguro vehicular" data-appear-animation="fadeInRight">
+			</div>
+
+		</div>
+	</div>
+</section>
+
+
 <section>
 			
 	<div class="container">
 				
-			<p>
-				Los seguros vehiculares cubren los daños producidos como consecuencia de accidentes en los que participan los vehículos asegurados.
-
-			</p>
-
+			
 			<div class="divider divider-secondary">
 				<i class="fa fa-chevron-down"></i>
 			</div>

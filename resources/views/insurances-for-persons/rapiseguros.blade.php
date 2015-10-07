@@ -22,15 +22,27 @@
 			</div>
 </section>
 
+<section id="head" class="section-head-in section-default">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-9">		
+				<p><br><br>
+					Asegúrate a ti y tu familia. Rapiseguros te ofrece diversos tipos de indemnización de acuerdo al producto contratado de manera simple y económica debido a su bajo costo, tales como : 
+
+				</p>
+			</div>
+			<div class="col-md-3">
+				<img class="img-responsive" src="{{ asset('img/insurances/persons/rapiseguros/img.png') }}" alt="Seguro de vida" data-appear-animation="fadeInRight">
+			</div>
+		</div>
+	</div>
+</section>
+
+
 <section>
 			
 	<div class="container">
-				
-			<p>
-				Asegúrate a ti y tu familia. Rapiseguros te ofrece diversos tipos de indemnización de acuerdo al producto contratado de manera simple y económica debido a su bajo costo, tales como : 
-
-			</p>
-
+		
 			<div class="divider divider-secondary">
 				<i class="fa fa-chevron-down"></i>
 			</div>

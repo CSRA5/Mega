@@ -22,15 +22,30 @@
 			</div>
 </section>
 
+<section id="head" class="section-head-in section-default">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-9">
+		
+				<p><br><br>
+					Es un seguro, con servicio de asistencia domiciliara, especialmente creado para que tu hogar y todas tus pertenencias se encuentren protegidas ante cualquier imprevisto como incendio, robo, terremoto, maremoto, accidentes de trabajo en el hogar, entre otros.
+
+				</p>
+
+			</div>
+
+			<div class="col-md-3">
+				<img class="img-responsive" src="{{ asset('img/insurances/persons/seguro-domiciliario/img.png') }}" alt="Seguro domiciliario" data-appear-animation="fadeInRight">
+			</div>
+
+		</div>
+	</div>
+</section>
+
 <section>
 			
 	<div class="container">
-				
-			<p>
-				Es un seguro, con servicio de asistencia domiciliara, especialmente creado para que tu hogar y todas tus pertenencias se encuentren protegidas ante cualquier imprevisto como incendio, robo, terremoto, maremoto, accidentes de trabajo en el hogar, entre otros.
-
-			</p>
-
+		
 			<div class="divider divider-secondary">
 				<i class="fa fa-chevron-down"></i>
 			</div>

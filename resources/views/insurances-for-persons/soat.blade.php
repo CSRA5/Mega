@@ -22,15 +22,28 @@
 			</div>
 </section>
 
-<section>
-			
+<section id="head" class="section-head-in section-default">
 	<div class="container">
-				
-			<p>
+		<div class="row">
+			<div class="col-md-9">
+			<p><br><br>
 				El Seguro Obligatorio de Accidentes de Tránsito, cubre los gastos médicos de atención de ocupantes o terceros no ocupantes de un vehículo, por lesiones corporales, muerte o invalidez permanente en caso de un accidente de tránsito.
 				Todo vehículo automotor, aún sin placa de rodaje, debe contar con un SOAT independientemente de cualquier otro tipo de seguro que se tenga contratado.
 
 			</p>
+			</div>
+			<div class="col-md-3">
+				<img class="img-responsive" src="{{ asset('img/insurances/persons/soat/img.png') }}" alt="Seguro de vida" data-appear-animation="fadeInRight">
+			</div>
+
+		</div>
+	</div>
+</section>
+
+<section>
+			
+	<div class="container">
+						
 
 			<div class="divider divider-secondary">
 				<i class="fa fa-chevron-down"></i>

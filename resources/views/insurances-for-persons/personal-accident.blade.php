@@ -22,14 +22,26 @@
 			</div>
 </section>
 
+<section id="head" class="section-head-in section-default">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-9">
+				<p><br><br>
+					El seguro de Accidentes Personales te protegen tanto a ti como a tu familia de los gastos y molestias que genera un accidente. Ya que éste puede ocurrir en cualquier circunstancia, te ofrecemos la posibilidad de crear una cobertura a tu medida y que mejor se adapte a tus circunstancias particulares. 
+
+				</p>
+			</div>
+			<div class="col-md-3">
+				<img class="img-responsive" src="{{ asset('img/insurances/persons/accidentes-personales/img.png') }}" alt="Seguro de vida" data-appear-animation="fadeInRight">
+			</div>
+		</div>
+	</div>
+</section>
+
 <section>
 			
 	<div class="container">
-				
-			<p>
-				El seguro de Accidentes Personales te protegen tanto a ti como a tu familia de los gastos y molestias que genera un accidente. Ya que éste puede ocurrir en cualquier circunstancia, te ofrecemos la posibilidad de crear una cobertura a tu medida y que mejor se adapte a tus circunstancias particulares. 
-
-			</p>
+						
 
 			<div class="divider divider-secondary">
 				<i class="fa fa-chevron-down"></i>

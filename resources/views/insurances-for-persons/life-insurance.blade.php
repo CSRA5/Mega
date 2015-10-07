@@ -22,15 +22,29 @@
 			</div>
 </section>
 
-<section>
-			
+<section id="head" class="section-head-in section-default">
 	<div class="container">
-				
-			<p>
-				El Seguro de Vida actúa como resguardo frente a una posible situación de apremios económicos y el beneficiario recibirá una suma de dinero en caso de fallecimiento del titular, dando tranquilidad a su familia. Usted mediante la firma de un contrato con la aseguradora, ésta se compromete a entregar a las personas que usted haya designado como beneficiarios una suma de dinero en el momento de su fallecimiento. Algunas póliza pueden beneficiar al asegurado en vida. Estas pólizas acumulan ahorros que pueden ser utilizados en el futuro como por ejemplo para complementar su jubilación o para lo que usted desee destinarlo. 
+		<div class="row">
+			<div class="col-md-9">
+				<p>
+				<br><br>
+					El Seguro de Vida actúa como resguardo frente a una posible situación de apremios económicos y el beneficiario recibirá una suma de dinero en caso de fallecimiento del titular, dando tranquilidad a su familia. Usted mediante la firma de un contrato con la aseguradora, ésta se compromete a entregar a las personas que usted haya designado como beneficiarios una suma de dinero en el momento de su fallecimiento. Algunas póliza pueden beneficiar al asegurado en vida. Estas pólizas acumulan ahorros que pueden ser utilizados en el futuro como por ejemplo para complementar su jubilación o para lo que usted desee destinarlo.
 
-			</p>
+				</p>
+			</div>
 
+			<div class="col-md-3">
+				<img class="img-responsive" src="{{ asset('img/insurances/persons/seguro-de-vida/img.png') }}" alt="Seguro de vida" data-appear-animation="fadeInRight">
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section>
+	
+	<div class="container">
+						
 			<div class="divider divider-secondary">
 				<i class="fa fa-chevron-down"></i>
 			</div>
