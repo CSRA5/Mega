@@ -2130,10 +2130,10 @@ section.section-custom-map-2 section.section {
 
 /* Home Intro */
 .home-intro {
-	background-color: #171717;
-	margin-bottom: 60px;
+	background-color: #304686;
+	margin-bottom: 20px;
 	overflow: hidden;
-	padding: 20px 0 10px 0;
+	padding: 10px 0 5px 0;
 	position: relative;
 	text-align: left;
 }
@@ -2148,7 +2148,7 @@ section.section-custom-map-2 section.section {
 }
 
 .home-intro p span {
-	color: #999;
+	color: #white;
 	display: block;
 	font-size: 0.8em;
 	padding-top: 5px;

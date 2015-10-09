@@ -230,7 +230,7 @@
 							</div>
 							<div class="col-md-3 aling-text-home-info">
 								<p>
-									Realiza gratis tu consulta
+									
 									<span>044-226612/ #934488  </span>
 									<span>informes@megacorredores.pe</span>
 								</p>
