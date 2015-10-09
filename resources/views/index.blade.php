@@ -84,24 +84,25 @@
 										 data-easing="easeOutExpo">Bienvenido a Mega</div>
 
 							
-									<div class="tp-caption bottom-label sft stb"
+									<div class="tp-caption top-label"
 										 data-x="center" data-hoffset="0"
 										 data-y="170" 
 										 data-speed="300"
 										 data-start="1500"
 										 data-easing="easeOutExpo">Corredores de seguros</div>
 
+									<!--
 									<div class="tp-caption bottom-label sft stb"
 										 data-x="center" data-hoffset="0"
 										 data-y="200"
 										 data-speed="300"
 										 data-start="1500"
-										 data-easing="easeOutExpo">En seguros tu mejor opción</div>
+										 data-easing="easeOutExpo">En seguros tu mejor opción</div>-->
 
 
 									<div class="tp-caption top-label"
 										 data-x="center" data-hoffset="0"
-										 data-y="240"
+										 data-y="220"
 										 data-speed="500"
 										 data-start="2000"
 										 data-easing="easeOutExpo">¿Qué tipo de seguro necesitas? </div>
@@ -109,7 +110,7 @@
 									
 									<a class="tp-caption customin btn btn-3d btn-primary btn-lg" href="{{ url('seguros-para-personas') }}"
 											data-x="170" data-hoffset="0"
-											data-y="290"
+											data-y="260"
 											data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
 											data-speed="800"
 											data-start="1700"
@@ -121,7 +122,7 @@
 
 									<a class="tp-caption customin btn btn-3d btn-secondary btn-lg" href="{{ url('seguros-para-empresas') }}"
 											data-x="290" data-hoffset="0"
-											data-y="290"
+											data-y="260"
 											data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
 											data-speed="800"
 											data-start="1900"
@@ -132,7 +133,7 @@
 
 									<div class="tp-caption main-label sft stb visible-lg"
 										 data-x="center"
-										 data-y="365"
+										 data-y="345"
 										 data-speed="500"
 										 data-start="2700"
 										 data-easing="easeOutExpo"><a data-hash data-hash-offset="85" href="#home-intro"><i class="fa fa-arrow-circle-o-down"></i></a></div>

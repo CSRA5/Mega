@@ -444,7 +444,7 @@
                             <h5 class="mb-sm">Comunícate con nosotros</h5>
                             <span class="phone">044-226612/#934488</span>
                             <ul class="list list-icons list-icons-sm">
-                                <li><i class="fa fa-envelope"></i> <a href="mailto:okler@okler.net">informes@megacorredores.pe</a></li>
+                                <li><i class="fa fa-envelope"></i> <a href="mailto:informes@megacorredores.pe">informes@megacorredores.pe</a></li>
                             </ul>
                             <ul class="social-icons">
                                   <li class="social-icons-facebook"><a href="https://www.facebook.com/corredoresmega" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
