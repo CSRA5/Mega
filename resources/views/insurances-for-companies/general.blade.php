@@ -38,11 +38,12 @@
 				</ul>
 
 			</p>
+		</div>
 
 	@section('insurance')
 		<input type="email" value="Responsabilidad civil general" data-msg-required=" " data-msg-email=" " maxlength="100"  name="insurance" id="insurance" required style="display:none">
 				
-		</div>
+		
 	@endsection		
 	
 </section>

@@ -433,59 +433,7 @@
 
 			<!--End team-->
 
-			<!--Gropus-->
 			
-			<div class="divider">
-				<i class="fa fa-star"></i>
-			</div>
-
-			<div>
-				
-				<div class="row center">
-					<div class="col-md-12">
-						<h1 class="mb-sm">
-							<strong>Somos una familia</strong>
-						</h1>
-					</div>
-				</div>
-
-				<ul class="team-list sort-destination" data-sort-id="team">
-
-							<li class="col-md-6 col-sm-6 col-xs-12 isotope-item leadership" data-appear-animation="rotateInUpLeft">
-								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
-									<span class="thumb-info-wrapper">
-										
-											<img src="img/team/group-2.jpg" class="img-responsive" alt="">
-											<span class="thumb-info-title">
-												<span class="thumb-info-inner">Equipo Comercial</span>
-												 
-											</span>
-										
-									</span>
-									
-								</span>
-							</li>
-
-							<li class="col-md-6 col-sm-6 col-xs-12 isotope-item leadership" data-appear-animation="rotateInUpLeft">
-								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
-									<span class="thumb-info-wrapper">
-										
-											<img src="img/team/group-1.jpg" class="img-responsive" alt="">
-											<span class="thumb-info-title">
-												<span class="thumb-info-inner">Equipo administrativo</span>
-												 
-											</span>
-										
-									</span>
-									
-								</span>
-							</li>
-				</ul>
-
-			</div>
-			
-			<!--End groups-->
-
 		</div>
 			
 </section>

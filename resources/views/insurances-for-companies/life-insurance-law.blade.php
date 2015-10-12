@@ -39,9 +39,9 @@
 	</div>
 </section>
 
-<section>
-			
-		<div class="container">
+<section  style="background-image: url( {{asset('img/back.png')}} );">
+			 
+		<div class="container coll-w">
 				
 					<div class="divider divider-secondary">
 				<i class="fa fa-chevron-down"></i>

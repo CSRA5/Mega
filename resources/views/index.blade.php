@@ -135,8 +135,8 @@
 										 data-x="center"
 										 data-y="345"
 										 data-speed="500"
-										 data-start="2700"
-										 data-easing="easeOutExpo"><a data-hash data-hash-offset="85" href="#home-intro"><i class="fa fa-arrow-circle-o-down"></i></a></div>
+										 data-start="1000"
+										 data-easing="easeOutExpo"><a data-hash data-hash-offset="110" href="#home-intro"><i class="fa fa-arrow-circle-o-down"></i></a></div>
 
 							</li>
 						</ul>
@@ -218,31 +218,34 @@
 						</div>
 					</header>
 				</div>
-
-				<div class="home-intro" id="home-intro">
-					<div class="home-info">
-						<div class="row">
-							<div class="col-md-9">
-								<p>
-									Mega Corredores de Seguros 
-									<span>En seguros tu mejor opción</span>
-								</p>
-							</div>
-							<div class="col-md-3 aling-text-home-info">
-								<p>
-									
-									<span>044-226612/ #934488  </span>
-									<span>informes@megacorredores.pe</span>
-								</p>
-							</div>
-						</div>
-				
-					</div>
-				</div>				
 				
 			</div>
-	
+
+			
 			<section>
+
+				<div class="home-intro" id="home-intro">
+						<div class="home-info">
+							<div class="row">
+								<div class="col-md-9">
+									<p>
+										Mega Corredores de Seguros 
+										<span>En seguros tu mejor opción</span>
+									</p>
+								</div>
+								<div class="col-md-3 aling-text-home-info">
+									<p>
+										
+										<span>044-226612/ #934488  </span>
+										<span>informes@megacorredores.pe</span>
+									</p>
+								</div>
+							</div>
+					
+						</div>
+				</div>				
+	
+
 				<div class="container">
 					
 						<div class="row center">

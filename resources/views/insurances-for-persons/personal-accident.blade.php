@@ -22,7 +22,7 @@
 			</div>
 </section>
 
-<section id="head" class="section-head-in section-default">
+<section id="head" class="section-head-in">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-9">
@@ -38,9 +38,9 @@
 	</div>
 </section>
 
-<section>
+<section style="background-image: url( {{asset('img/back.png')}} );">
 			
-	<div class="container">
+	<div class="container coll-w">
 						
 
 			<div class="divider divider-secondary">

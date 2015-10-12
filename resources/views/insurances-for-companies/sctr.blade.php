@@ -39,9 +39,9 @@
 </section>
 
 
-<section>
+<section  style="background-image: url( {{asset('img/back.png')}} );">
 			
-		<div class="container">
+		<div class="container coll-w">
 				
 		
 			<div class="divider divider-secondary">
