@@ -63,6 +63,16 @@
 			<script src="vendor/excanvas/excanvas.js"></script>
 		<![endif]-->
 
+		<!--Start of Zopim Live Chat Script-->
+		<script type="text/javascript">
+		window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+		d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+		_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+		$.src="//v2.zopim.com/?3OAAZpwBhoyQBVAwM4Ydfx0I3pBb4AuT";z.t=+new Date;$.
+		type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+		</script>
+		<!--End of Zopim Live Chat Script-->
+
 	</head>
 	<body>
 
@@ -135,7 +145,7 @@
 										 data-x="center"
 										 data-y="345"
 										 data-speed="500"
-										 data-start="1000"
+										 data-start="2200"
 										 data-easing="easeOutExpo"><a data-hash data-hash-offset="110" href="#home-intro"><i class="fa fa-arrow-circle-o-down"></i></a></div>
 
 							</li>
@@ -282,7 +292,7 @@
 						<div class="col-md-12">
 						<h1 class="mb-sm">
 							<strong>¿Qué tipo de seguro necesitas?</strong>
-							<hr class="solid tall">
+							<hr class="invisible">
 						</h1>
 						</div>
 					</div>
@@ -435,6 +445,7 @@
 								<div class="col-md-12">
 								<h1 class="mb-sm">
 										<strong>Novedades</strong>
+										<hr class="invisible">
 									</h1>
 								</div>
 							</div>
@@ -479,7 +490,7 @@
 									<h5 class="text-semibold text-uppercase mt-lg">10 Consejos para conducir bien<br/><br/></h5>
 									<span class="thumb-info thumb-info-hide-wrapper-bg">
 								<span class="thumb-info-wrapper">
-									<img src="{{ asset('img/home/reco-4.png') }}" class="img-responsive" alt="">
+									<img src="{{ asset('img/home/reco-4.png') }}" class="img-responsive-reco" alt="">
 									
 								</span>
 								<span class="thumb-info-caption text-center">
@@ -495,7 +506,7 @@
 									<h5 class="text-semibold text-uppercase mt-lg">SOAT y Seguro Vehicular – ¿Cuál debo comprar?</h5>
 									<span class="thumb-info thumb-info-hide-wrapper-bg">
 								<span class="thumb-info-wrapper">
-									<img src="{{ asset('img/home/reco-1.png') }}" class="img-responsive" alt="">
+									<img src="{{ asset('img/home/reco-1.png') }}" class="img-responsive-reco" alt="">
 									
 								</span>
 								<span class="thumb-info-caption text-center">
@@ -511,7 +522,7 @@
 									<h5 class="text-semibold text-uppercase mt-lg">Como reaccionar ante una emergencia mientras manejas</h5>
 									<span class="thumb-info thumb-info-hide-wrapper-bg">
 								<span class="thumb-info-wrapper">
-									<img src="{{ asset('img/home/reco-3.png') }}" class="img-responsive" alt="">
+									<img src="{{ asset('img/home/reco-3.png') }}" class="img-responsive-reco" alt="">
 									
 								</span>
 								<span class="thumb-info-caption text-center" >
@@ -527,7 +538,7 @@
 									<h5 class="text-semibold text-uppercase mt-lg">¿Qué hacer frente a un siniestro?<br/><br/></h5>
 									<span class="thumb-info thumb-info-hide-wrapper-bg">
 								<span class="thumb-info-wrapper">
-									<img src="{{ asset('img/home/reco-2.png') }}" class="img-responsive" alt="">
+									<img src="{{ asset('img/home/reco-2.png') }}" class="img-responsive-reco" alt="">
 									
 								</span>
 								<span class="thumb-info-caption text-center">
@@ -552,6 +563,7 @@
 				<div class="row center">
 					<div class="col-md-12">
 						<h1 class="mb-sm"><strong>Alianzas estratégicas</strong></h1>
+						<hr class="invisible">
 					</div>
 				</div>
 					

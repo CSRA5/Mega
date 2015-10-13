@@ -76,6 +76,7 @@
 												<option value="SCTR">SCTR</option>
 												<option value="Responsabilidad social para hidrocarburos">Responsabilidad social para hidrocarburos</option>
 												<option value="Responsabilidad cívil general">Responsabilidad cívil general</option>
+												<option value="SCTR">Otros</option>
 												
 											</select>
 										</div>

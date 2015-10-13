@@ -63,6 +63,15 @@
 			<script src="vendor/excanvas/excanvas.js"></script>
 		<![endif]-->
 
+		<!--Start of Zopim Live Chat Script-->
+		<script type="text/javascript">
+		window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+		d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+		_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+		$.src="//v2.zopim.com/?3OAAZpwBhoyQBVAwM4Ydfx0I3pBb4AuT";z.t=+new Date;$.
+		type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+		</script>
+		<!--End of Zopim Live Chat Script-->
         
 
     </head>
@@ -361,7 +370,7 @@
 									<h5 class="text-semibold text-uppercase mt-lg">10 Consejos para conducir bien<br/><br/></h5>
 									<span class="thumb-info thumb-info-hide-wrapper-bg">
 								<span class="thumb-info-wrapper">
-									<img src="{{ asset('img/home/reco-4.png') }}" class="img-responsive" alt="">
+									<img src="{{ asset('img/home/reco-4.png') }}" class="img-responsive-reco" alt="">
 									
 								</span>
 								<span class="thumb-info-caption text-center">
@@ -377,7 +386,7 @@
 									<h5 class="text-semibold text-uppercase mt-lg">SOAT y Seguro Vehicular – ¿Cuál debo comprar?</h5>
 									<span class="thumb-info thumb-info-hide-wrapper-bg">
 								<span class="thumb-info-wrapper">
-									<img src="{{ asset('img/home/reco-1.png') }}" class="img-responsive" alt="">
+									<img src="{{ asset('img/home/reco-1.png') }}" class="img-responsive-reco" alt="">
 									
 								</span>
 								<span class="thumb-info-caption text-center">
@@ -393,7 +402,7 @@
 									<h5 class="text-semibold text-uppercase mt-lg">Como reaccionar ante una emergencia mientras manejas</h5>
 									<span class="thumb-info thumb-info-hide-wrapper-bg">
 								<span class="thumb-info-wrapper">
-									<img src="{{ asset('img/home/reco-3.png') }}" class="img-responsive" alt="">
+									<img src="{{ asset('img/home/reco-3.png') }}" class="img-responsive-reco" alt="">
 									
 								</span>
 								<span class="thumb-info-caption text-center" >
@@ -409,7 +418,7 @@
 									<h5 class="text-semibold text-uppercase mt-lg">¿Qué hacer frente a un siniestro?<br/><br/></h5>
 									<span class="thumb-info thumb-info-hide-wrapper-bg">
 								<span class="thumb-info-wrapper">
-									<img src="{{ asset('img/home/reco-2.png') }}" class="img-responsive" alt="">
+									<img src="{{ asset('img/home/reco-2.png') }}" class="img-responsive-reco" alt="">
 									
 								</span>
 								<span class="thumb-info-caption text-center">

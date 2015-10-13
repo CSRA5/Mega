@@ -41,6 +41,7 @@
 					<div class="col-md-12">
 						<h1 class="mb-sm">
 							<strong>Directorio</strong>
+							<hr class="invisible">
 						</h1>
 					</div>
 				</div>
@@ -52,7 +53,7 @@
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
-											<img src="img/team/team-7.jpg" class="img-responsive" alt="">
+											<img src="img/team/team-7.jpg" class="img-responsive-reco" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Franklin Sánchez Ruíz</span>
 												<span class="thumb-info-type">Pdte. Directorio</span>
@@ -69,7 +70,7 @@
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
-											<img src="img/team/team-7.jpg" class="img-responsive" alt="">
+											<img src="img/team/team-7.jpg" class="img-responsive-reco" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Marco Valdivia</span>
 												<span class="thumb-info-type">Gerente General</span>
@@ -87,7 +88,7 @@
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
-											<img src="img/team/team-12.jpg" class="img-responsive" alt="">
+											<img src="img/team/team-12.jpg" class="img-responsive-reco" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Paul Sánchez Ruíz</span>
 												<span class="thumb-info-type">Gerente Comercial</span>
@@ -121,6 +122,7 @@
 					<div class="col-md-12">
 						<h1 class="mb-sm">
 							<strong>Equipo de trabajo</strong>
+							<hr class="invisible">
 						</h1>
 					</div>
 				</div>
@@ -133,7 +135,7 @@
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
-											<img src="img/team/team-5.jpg" class="img-responsive" alt="">
+											<img src="img/team/team-5.jpg" class="img-responsive-reco" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Elena Contreras</span>
 												<span class="thumb-info-type">Administradora</span>
@@ -151,7 +153,7 @@
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 									
-											<img src="img/team/team-10.jpg" class="img-responsive" alt="">
+											<img src="img/team/team-10.jpg" class="img-responsive-reco" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Luz Zavaleta</span>
 												<span class="thumb-info-type">Asit. Administrativa</span>
@@ -170,7 +172,7 @@
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
-											<img src="img/team/team-4.jpg" class="img-responsive" alt="">
+											<img src="img/team/team-4.jpg" class="img-responsive-reco" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Edwin Gonzáles</span>
 												<span class="thumb-info-type">Gerente de Siniestros</span>
@@ -188,7 +190,7 @@
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
-											<img src="img/team/team-16.jpg" class="img-responsive" alt="">
+											<img src="img/team/team-16.jpg" class="img-responsive-reco" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Melvin Sanchez</span>
 												<span class="thumb-info-type">Asistente de Siniestros</span>
@@ -214,7 +216,7 @@
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
-											<img src="img/team/team-1.jpg" class="img-responsive" alt="">
+											<img src="img/team/team-1.jpg" class="img-responsive-reco" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Albert Cueva</span>
 												<span class="thumb-info-type">Área de Sistemas</span>
@@ -232,7 +234,7 @@
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
-											<img src="img/team/team-6.jpg" class="img-responsive" alt="">
+											<img src="img/team/team-6.jpg" class="img-responsive-reco" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Flor Malqui</span>
 												<span class="thumb-info-type">Área de Cobranzas</span>
@@ -250,7 +252,7 @@
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
-											<img src="img/team/team-13.jpg" class="img-responsive" alt="">
+											<img src="img/team/team-13.jpg" class="img-responsive-reco" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Susy Plasencia</span>
 												<span class="thumb-info-type">Jefa de Emisiones</span>
@@ -268,7 +270,7 @@
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
-											<img src="img/team/team-17.jpg" class="img-responsive" alt="">
+											<img src="img/team/team-17.jpg" class="img-responsive-reco" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Carla Maurtua</span>
 												<span class="thumb-info-type">Asistente de Emisiones</span>
@@ -294,7 +296,7 @@
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
-											<img src="img/team/team-3.jpg" class="img-responsive" alt="">
+											<img src="img/team/team-3.jpg" class="img-responsive-reco" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Daniel Pretell</span>
 												<span class="thumb-info-type">Ejecutivo Comercial</span>
@@ -312,7 +314,7 @@
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
-											<img src="img/team/team-2.jpg" class="img-responsive" alt="">
+											<img src="img/team/team-2.jpg" class="img-responsive-reco" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Dameth Melendez</span>
 												<span class="thumb-info-type">Ejecutivo Comercial</span>
@@ -329,7 +331,7 @@
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
-											<img src="img/team/team-9.jpg" class="img-responsive" alt="">
+											<img src="img/team/team-9.jpg" class="img-responsive-reco" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Junior Terrones</span>
 												<span class="thumb-info-type">Ejecutivo Comercial</span>
@@ -347,7 +349,7 @@
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
-											<img src="img/team/team-15.jpg" class="img-responsive" alt="">
+											<img src="img/team/team-15.jpg" class="img-responsive-reco" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Gonzalo Quiroz</span>
 												<span class="thumb-info-type">Ejecutivo Comercial</span>
@@ -374,7 +376,7 @@
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
-											<img src="img/team/team-8.jpg" class="img-responsive" alt="">
+											<img src="img/team/team-8.jpg" class="img-responsive-reco" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Joseph Castillo</span>
 												<span class="thumb-info-type">Ejecutivo Comercial</span>
@@ -392,7 +394,7 @@
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
-											<img src="img/team/team-14.jpg" class="img-responsive" alt="">
+											<img src="img/team/team-14.jpg" class="img-responsive-reco" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Pedro Vásquez</span>
 												<span class="thumb-info-type">Conserje</span>
@@ -410,7 +412,7 @@
 								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 									<span class="thumb-info-wrapper">
 										
-											<img src="img/team/team-11.jpg" class="img-responsive" alt="">
+											<img src="img/team/team-11.jpg" class="img-responsive-reco" alt="">
 											<span class="thumb-info-title">
 												<span class="thumb-info-inner">Massiel Cabanillas</span>
 												<span class="thumb-info-type">Secretaria</span>
@@ -432,6 +434,71 @@
 			</div>
 
 			<!--End team-->
+
+
+			<div class="divider">
+				<i class="fa fa-star"></i>
+			</div>
+			
+			<!-- Team Dep-->
+			<div>
+				<div class="row center">
+					<div class="col-md-12">
+						<h1 class="mb-sm">
+							<strong>Colaboradores en otros Departamentos</strong>
+							<hr class="invisible">
+						</h1>
+					</div>
+				</div>
+
+				<div class="row">
+
+						<ul class="team-list sort-destination" data-sort-id="team">
+
+							<li class="col-md-offset-3 col-md-3 col-sm-6 col-xs-12 isotope-item leadership" data-appear-animation="rotateInUpLeft">
+								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
+									<span class="thumb-info-wrapper">
+										
+											<img src="img/team/team-18.jpg" class="img-responsive-reco" alt="">
+											<span class="thumb-info-title">
+												<span class="thumb-info-inner">Natalia Gonzáles</span>
+												<span class="thumb-info-type">Administradora - Cajamarca</span>
+											</span>
+										
+									</span>
+									<span class="thumb-info-caption">
+										<span class="thumb-info-caption-text">ngonzales@megacorredores.pe</span>
+										
+									</span>
+								</span>
+							</li>
+
+							<li class="col-md-3 col-sm-6 col-xs-12 isotope-item marketing" data-appear-animation="rotateInUpLeft">
+								<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
+									<span class="thumb-info-wrapper">
+									
+											<img src="img/team/team-19.jpg" class="img-responsive-reco" alt="">
+											<span class="thumb-info-title">
+												<span class="thumb-info-inner">Herick Mera</span>
+												<span class="thumb-info-type">Ejecutivo Comercial - Chiclayo</span>
+											</span>
+										
+									</span>
+									<span class="thumb-info-caption">
+										<span class="thumb-info-caption-text">hmera@megacorredores.pe</span>
+										
+									</span>
+								</span>
+							</li>
+
+													
+						</ul>
+
+					</div>
+
+			</div>
+
+			<!--End team dep-->
 
 			
 		</div>
