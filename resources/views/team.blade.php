@@ -41,7 +41,7 @@
 					<div class="col-md-12">
 						<h1 class="mb-sm">
 							<strong>Directorio</strong>
-							<hr class="invisible">
+							
 						</h1>
 					</div>
 				</div>
@@ -122,7 +122,7 @@
 					<div class="col-md-12">
 						<h1 class="mb-sm">
 							<strong>Equipo de trabajo</strong>
-							<hr class="invisible">
+							 
 						</h1>
 					</div>
 				</div>
@@ -446,7 +446,7 @@
 					<div class="col-md-12">
 						<h1 class="mb-sm">
 							<strong>Colaboradores en otros Departamentos</strong>
-							<hr class="invisible">
+							 
 						</h1>
 					</div>
 				</div>
@@ -522,7 +522,7 @@
 				<div class="featured-boxes">
 						<div class="row">
 							<div class="center">
-								<h4>Seguros para personas. <a href="{{ url('seguros-para-personas') }}" class="lnk-secondary learn-more">Ver todos <i class="fa fa-angle-right"></i></a></h4>
+								<h4>Seguros para <strong>Personas</strong>. <a href="{{ url('seguros-para-personas') }}" class="lnk-secondary learn-more">Ver todos <i class="fa fa-angle-right"></i></a></h4>
 								
 							</div>
 							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
@@ -570,7 +570,7 @@
 						<div class="row">
 
 							<div class="center">
-								<h4>Seguros para empresas. <a href="{{ url('seguros-para-empresas') }}" class="lnk-secondary learn-more">Ver todos <i class="fa fa-angle-right"></i></a></h4>
+								<h4>Seguros para <strong>Empresas</strong>. <a href="{{ url('seguros-para-empresas') }}" class="lnk-secondary learn-more">Ver todos <i class="fa fa-angle-right"></i></a></h4>
 							</div>
 							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-primary featured-box-effect-1 mt-xlg">

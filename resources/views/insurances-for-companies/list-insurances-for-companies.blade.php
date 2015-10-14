@@ -96,10 +96,10 @@
 							<div class="col-md-3 col-sm-6" data-appear-animation="fadeInDown">
 								<div class="featured-box featured-box-secondary featured-box-effect-1 mt-xlg">
 									<div class="box-content">
-										<i  class="icon-featured micon icon-i-administration" ></i>
-										<h4 class="text-uppercase">SCTR</h4>
-										<p>Seguro de carácter obligatorio para aquellos empleadores dedicados a la realización de actividades económicas de alto riesgo.</p>
-										<p><a href="{{ url('seguro-para-empresas/sctr') }}" class="lnk-secondary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
+										<i  class="icon-featured fa fa-umbrella" ></i>
+										<h4 class="text-uppercase">Seguro de transporte</h4>
+										<p>Protege los productos que transportas desde su punto de partida hasta su punto de destino. <br><br></p>
+										<p><a href="{{ url('seguro-para-empresas/seguro-de-transporte') }}" class="lnk-secondary learn-more">Más información <i class="fa fa-angle-right"></i></a></p>
 									</div>
 								</div>
 							</div>
