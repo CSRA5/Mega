@@ -22,19 +22,26 @@
 			</div>
 </section>
 
-<section>
-			
+ 
+
+<section id="head" class="section-head-in section-default">
 	<div class="container">
-				
-			<p>
-				El Seguro Oncológico cubre los gastos del tratamiento contra el cáncer, tanto hospitalario como ambulatorio, en una amplia red de clínicas y centros especializados a nivel nacional. Los seguros oncológicos incluyen un programa de prevención, con citas regulares y chequeos médicos que tienen dos metas. La primera, diagnosticar en una etapa temprana el cáncer y obtener mayores posibilidades de éxito. Segunda, evitar tratamientos largos y complejos a nuestros asegurados. 
-
-			</p>
-						
-		</div>
-
-
+				<div class="row">
+						<div class="col-md-9">
+							
+							<p >
+							<br><br>
+								El Seguro Oncológico cubre los gastos del tratamiento contra el cáncer, tanto hospitalario como ambulatorio, en una amplia red de clínicas y centros especializados a nivel nacional. Los seguros oncológicos incluyen un programa de prevención, con citas regulares y chequeos médicos que tienen dos metas. La primera, diagnosticar en una etapa temprana el cáncer y obtener mayores posibilidades de éxito. Segunda, evitar tratamientos largos y complejos a nuestros asegurados. 
+							</p>
+							
+						</div>
+						<div class="col-md-3">
+							<img class="img-responsive" src="{{ asset('img/insurances/persons/seguro-oncologico/img.png') }}" alt="Seguro de salud" data-appear-animation="fadeInRight">
+						</div>
+				</div>
+	</div>
 </section>
+
 
 <section  style="background-image: url( {{asset('img/back.png')}} );">
 
