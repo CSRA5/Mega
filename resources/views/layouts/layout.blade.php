@@ -94,6 +94,9 @@
                                             <li>
                                                 <span class="ws-nowrap"><i class="fa fa-phone"></i> 044-226612/ #934488</span>
                                             </li>
+                                             <li class="hidden-xs">
+                                                  <span class="ws-nowrap"><i class="fa fa-whatsapp" style="font-size: 16px;"></i> 9800 41233</span>
+                                            </li>
                                         </ul>
                                     </nav>
 
