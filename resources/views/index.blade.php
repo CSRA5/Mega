@@ -456,6 +456,9 @@
 									<div class="slider-wrapper theme-default">
 										<div id="nivoSlider" class="nivoSlider">
 											<img src="img/home/novedades-1.png" data-thumb="img/home/novedades-1.png" alt="" />
+											<img src="img/home/novedades-2.png" data-thumb="img/home/novedades-1.png" alt="" />
+											<img src="img/home/novedades-3.png" data-thumb="img/home/novedades-1.png" alt="" />
+											<img src="img/home/novedades-4.png" data-thumb="img/home/novedades-1.png" alt="" />
 											
 										</div>
 										 
@@ -570,7 +573,7 @@
 				<div class="row">
 					<div class="col-md-12">
 							
-						<div class="owl-carousel stage-margin" data-plugin-options='{"items": 4, "margin": 10, "loop": false, "nav": true, "dots": false, "stagePadding": 40}'>
+						<div class="owl-carousel stage-margin" data-plugin-options='{"items": 6, "margin": 10, "loop": false, "nav": true, "dots": false, "stagePadding": 40}'>
 							<div>
 								<img alt="" class="img-responsive img-rounded" src="img/home/al-1.jpg">
 							</div>
@@ -582,6 +585,12 @@
 							</div>
 							<div>
 								<img alt="" class="img-responsive img-rounded" src="img/home/al-4.jpg">
+							</div>
+							<div>
+								<img alt="" class="img-responsive img-rounded" src="img/home/al-5.jpg">
+							</div>
+							<div>
+								<img alt="" class="img-responsive img-rounded" src="img/home/al-6.jpg">
 							</div>
 							 
 						</div>
